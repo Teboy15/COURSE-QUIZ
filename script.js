@@ -27,7 +27,7 @@ function startQuiz(course) {
 
 if (document.getElementById("quizForm")) {
 
-    fetch(`Data/${courseKey}.json`)
+    fetch(`${courseKey}.json`)
         .then(res => res.json())
         .then(data => {
 
