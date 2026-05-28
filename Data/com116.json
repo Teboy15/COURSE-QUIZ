@@ -1,0 +1,864 @@
+{
+  "chapter1": {
+    "title": "Chapter 1:Defination and Data Description",
+
+    "questions": [
+
+      {
+        "question": "What is Statistics?",
+        "type": "mcq",
+
+        "options": {
+          "a": "The study of stars",
+          "b": "The science of collecting, organizing, analyzing and interpreting data",
+          "c": "The study of government",
+          "d": "The science of computers"
+        },
+
+        "answer": "b",
+
+        "explanation": "Statistics deals with collecting, organizing, presenting, analyzing and interpreting data."
+      },
+
+      {
+        "question": "Which of the following is NOT a function of statistics?",
+        "type": "mcq",
+
+        "options": {
+          "a": "Decision making",
+          "b": "Forecasting",
+          "c": "Guess work",
+          "d": "Planning"
+        },
+
+        "answer": "c",
+
+        "explanation": "Statistics is based on facts and analysis, not guess work."
+      },
+
+      {
+        "question": "Statistics helps governments and businesses to make informed decisions.",
+        "type": "mcq",
+
+        "options": {
+          "a": "True",
+          "b": "False",
+          "c": "Sometimes",
+          "d": "None"
+        },
+
+        "answer": "a",
+
+        "explanation": "Statistics provides factual information for decision-making."
+      },
+
+      {
+        "question": "Which statistical function helps predict future trends?",
+        "type": "mcq",
+
+        "options": {
+          "a": "Summarisation",
+          "b": "Forecasting",
+          "c": "Classification",
+          "d": "Observation"
+        },
+
+        "answer": "b",
+
+        "explanation": "Forecasting uses statistical data to predict future events and trends."
+      },
+
+      {
+        "question": "Statistics can be used for quality control in industries.",
+        "type": "mcq",
+
+        "options": {
+          "a": "Yes",
+          "b": "No",
+          "c": "Rarely",
+          "d": "Never"
+        },
+
+        "answer": "a",
+
+        "explanation": "Statistics helps monitor and improve product quality."
+      },
+
+      {
+        "question": "Which of the following is a use of statistics?",
+        "type": "mcq",
+
+        "options": {
+          "a": "Business analysis",
+          "b": "Research",
+          "c": "Policy formulation",
+          "d": "All of the above"
+        },
+
+        "answer": "d",
+
+        "explanation": "Statistics is useful in business, research, planning, and policy making."
+      },
+
+      {
+        "question": "What does statistics help researchers do?",
+        "type": "mcq",
+
+        "options": {
+          "a": "Decorate reports",
+          "b": "Test hypotheses",
+          "c": "Create rumours",
+          "d": "Avoid analysis"
+        },
+
+        "answer": "b",
+
+        "explanation": "Statistics is used in research and hypothesis testing."
+      },
+
+      {
+        "question": "Which statistical method helps compare groups or regions?",
+        "type": "mcq",
+
+        "options": {
+          "a": "Evaluation",
+          "b": "Comparison",
+          "c": "Observation",
+          "d": "Guessing"
+        },
+
+        "answer": "b",
+
+        "explanation": "Statistics enables comparison between groups, regions, and periods."
+      },
+
+      {
+        "question": "Statistics is important in social and development studies.",
+        "type": "mcq",
+
+        "options": {
+          "a": "True",
+          "b": "False",
+          "c": "Not sure",
+          "d": "Impossible"
+        },
+
+        "answer": "a",
+
+        "explanation": "Statistics helps analyze social, demographic, educational, and health issues."
+      },
+
+      {
+        "question": "List 5 functions of statistics.",
+        "type": "written",
+
+        "answerText": "Decision-making, planning, forecasting, research, comparison, quality control, business analysis.",
+
+        "explanation": "Statistics is used in planning, prediction, research, and evaluation."
+      },
+
+      {
+        "question": "Explain why statistics is important in decision-making.",
+        "type": "written",
+
+        "answerText": "Statistics provides factual information and analysis which helps individuals, businesses, and governments make informed decisions.",
+
+        "explanation": "Statistical data reduces uncertainty and improves decision quality."
+    },
+
+      {
+        "type": "mcq",
+        "question": "What is data compilation?",
+        "options": {
+          "a": "The destruction of data",
+          "b": "The process of organizing collected data into meaningful form",
+          "c": "The printing of questionnaires",
+          "d": "The deletion of invalid data"
+        },
+        "answer": "b",
+        "explanation": "Data compilation is the process of transforming collected data into meaningful, reliable, and analyzable information."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Primary data are data that are:",
+        "options": {
+          "a": "Collected firsthand by the researcher",
+          "b": "Downloaded from the internet",
+          "c": "Copied from books",
+          "d": "Always numerical"
+        },
+        "answer": "a",
+        "explanation": "Primary data are original data collected directly by the researcher for a specific purpose."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which of the following is an example of secondary data?",
+        "options": {
+          "a": "Laboratory experiment",
+          "b": "Field interview",
+          "c": "World Bank database",
+          "d": "Observation study"
+        },
+        "answer": "c",
+        "explanation": "Secondary data are previously collected data reused for another research purpose."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which type of data describes qualities or characteristics?",
+        "options": {
+          "a": "Quantitative data",
+          "b": "Ratio data",
+          "c": "Qualitative data",
+          "d": "Interval data"
+        },
+        "answer": "c",
+        "explanation": "Qualitative data describe attributes or categories rather than quantities."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Examples of quantitative data include:",
+        "options": {
+          "a": "Religion and gender",
+          "b": "Income and age",
+          "c": "Political party",
+          "d": "State of origin"
+        },
+        "answer": "b",
+        "explanation": "Quantitative data are numerical and measurable."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which measurement scale has equal intervals but no true zero?",
+        "options": {
+          "a": "Nominal scale",
+          "b": "Ordinal scale",
+          "c": "Interval scale",
+          "d": "Ratio scale"
+        },
+        "answer": "c",
+        "explanation": "Interval scale has equal intervals but lacks a true zero point."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which scale allows full mathematical analysis?",
+        "options": {
+          "a": "Ordinal scale",
+          "b": "Nominal scale",
+          "c": "Ratio scale",
+          "d": "Categorical scale"
+        },
+        "answer": "c",
+        "explanation": "Ratio scale has equal intervals and a true zero."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Cross-sectional data are data collected:",
+        "options": {
+          "a": "Over several years",
+          "b": "At a single point in time",
+          "c": "Using multiple researchers",
+          "d": "Using experiments only"
+        },
+        "answer": "b",
+        "explanation": "Cross-sectional data are collected at one specific point in time."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Chronological classification arranges data according to:",
+        "options": {
+          "a": "Location",
+          "b": "Attributes",
+          "c": "Time",
+          "d": "Income"
+        },
+        "answer": "c",
+        "explanation": "Chronological classification organizes data by time sequence."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Coding of data involves:",
+        "options": {
+          "a": "Deleting wrong data",
+          "b": "Converting data into numerical form",
+          "c": "Printing questionnaires",
+          "d": "Collecting field reports"
+        },
+        "answer": "b",
+        "explanation": "Coding converts raw information into numbers for easy processing."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT a purpose of data verification?",
+        "options": {
+          "a": "Detect missing values",
+          "b": "Identify outliers",
+          "c": "Create fake observations",
+          "d": "Ensure consistency"
+        },
+        "answer": "c",
+        "explanation": "Verification improves data quality and does not create fake observations."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which software can be used for data verification?",
+        "options": {
+          "a": "SPSS",
+          "b": "Microsoft Excel",
+          "c": "R",
+          "d": "All of the above"
+        },
+        "answer": "d",
+        "explanation": "SPSS, Excel, R, and Stata are commonly used for verification."
+      },
+
+      {
+        "type": "mcq",
+        "question": "A range check is used to:",
+        "options": {
+          "a": "Arrange data alphabetically",
+          "b": "Ensure values fall within acceptable limits",
+          "c": "Delete duplicate files",
+          "d": "Sort observations"
+        },
+        "answer": "b",
+        "explanation": "Range checks verify that values fall within realistic boundaries."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which storage method uses tables connected by keys?",
+        "options": {
+          "a": "Cloud storage",
+          "b": "Flat files",
+          "c": "Relational databases",
+          "d": "Manual storage"
+        },
+        "answer": "c",
+        "explanation": "Relational databases connect tables using primary and foreign keys."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Examples of cloud storage include:",
+        "options": {
+          "a": "Dropbox",
+          "b": "Google Drive",
+          "c": "OneDrive",
+          "d": "All of the above"
+        },
+        "answer": "d",
+        "explanation": "Cloud storage platforms allow remote access and backup."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Discrete data assume:",
+        "options": {
+          "a": "Infinite values",
+          "b": "Countable values",
+          "c": "Continuous intervals",
+          "d": "Negative values only"
+        },
+        "answer": "b",
+        "explanation": "Discrete data take countable values."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which of the following is a common error in data compilation?",
+        "options": {
+          "a": "Wrong class interval",
+          "b": "Duplicate entries",
+          "c": "Data entry errors",
+          "d": "All of the above"
+        },
+        "answer": "d",
+        "explanation": "All listed options are common compilation errors."
+      },
+
+      {
+        "type": "written",
+        "question": "List and explain the four measurement scales.",
+        "answerText": "Nominal scale, Ordinal scale, Interval scale, and Ratio scale.",
+        "explanation": "These scales determine the nature and level of statistical analysis possible."
+      },
+
+      {
+        "type": "written",
+        "question": "Mention three importance of data verification.",
+        "answerText": "Eliminate errors, detect missing values, ensure consistency, identify outliers.",
+        "explanation": "Verification ensures data quality and reliability."
+      },
+
+      {
+        "type": "written",
+        "question": "Explain the difference between primary data and secondary data.",
+        "answerText": "Primary data are collected firsthand for a specific study, while secondary data are previously collected data reused for another purpose.",
+        "explanation": "The distinction lies in originality and source of the data."
+      }
+
+    ]
+  },
+
+
+  "chapter2":{
+    "title": "Chapter 2:Data Presentation And Representation ",
+    "questions": [
+     {
+       "type": "mcq",
+        "question": "Which graph is commonly used for continuous data?",
+        "options": {
+          "a": "Pie chart",
+          "b": "Histogram",
+          "c": "Bar chart",
+          "d": "Tree diagram"
+        },
+        "answer": "b",
+        "explanation": "Histograms are used for continuous data distributions."
+     },
+     {
+        "type": "mcq",
+        "question": "What does a pie chart mainly represent?",
+        "options": {
+          "a": "Changes over time",
+          "b": "Parts of a whole",
+          "c": "Continuous data",
+          "d": "Class intervals"
+        },
+        "answer": "b",
+        "explanation": "A pie chart represents data as parts or proportions of a whole."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which formula is used to calculate the sector angle in a pie chart?",
+        "options": {
+          "a": "Value ÷ Total × 360",
+          "b": "Frequency × Width",
+          "c": "Value × Total",
+          "d": "360 ÷ Total"
+        },
+        "answer": "a",
+        "explanation": "Sector Angle = (Value / Total) × 360."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which graph is best used to show trends over time?",
+        "options": {
+          "a": "Pie chart",
+          "b": "Histogram",
+          "c": "Line graph",
+          "d": "Pictogram"
+        },
+        "answer": "c",
+        "explanation": "Line graphs are commonly used to show trends and changes over time."
+      },
+
+      {
+        "type": "mcq",
+        "question": "In a line graph, time is usually placed on which axis?",
+        "options": {
+          "a": "Vertical axis",
+          "b": "Horizontal axis",
+          "c": "Middle axis",
+          "d": "No axis"
+        },
+        "answer": "b",
+        "explanation": "Time is usually placed on the horizontal (x) axis."
+      },
+
+      {
+        "type": "mcq",
+        "question": "What type of data is a histogram mainly used for?",
+        "options": {
+          "a": "Categorical data",
+          "b": "Continuous data",
+          "c": "Text data",
+          "d": "Picture data"
+        },
+        "answer": "b",
+        "explanation": "Histograms are used for continuous data."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Why do histogram bars touch each other?",
+        "options": {
+          "a": "Because the data are continuous",
+          "b": "Because the graph is colorful",
+          "c": "Because values are percentages",
+          "d": "Because the bars are grouped"
+        },
+        "answer": "a",
+        "explanation": "Histogram bars touch because continuous data has no gaps."
+      },
+
+      {
+        "type": "mcq",
+        "question": "What does the area of a histogram bar represent?",
+        "options": {
+          "a": "Class width",
+          "b": "Percentage",
+          "c": "Frequency",
+          "d": "Time"
+        },
+        "answer": "c",
+        "explanation": "The area of each histogram bar reflects the frequency."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which of these is a use of histograms?",
+        "options": {
+          "a": "Detecting skewness",
+          "b": "Showing budget shares",
+          "c": "Writing reports",
+          "d": "Displaying pictures"
+        },
+        "answer": "a",
+        "explanation": "Histograms help identify shape and skewness of distributions."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which step comes first when constructing a graph?",
+        "options": {
+          "a": "Plot data",
+          "b": "Add title",
+          "c": "Understand the data",
+          "d": "Choose colors"
+        },
+        "answer": "c",
+        "explanation": "Understanding the data is the first step in graph construction."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which graph is most appropriate for continuous data?",
+        "options": {
+          "a": "Histogram",
+          "b": "Pie chart",
+          "c": "Pictogram",
+          "d": "Textual presentation"
+        },
+        "answer": "a",
+        "explanation": "Histograms are specifically designed for continuous data."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which of the following is an advantage of graphical presentation?",
+        "options": {
+          "a": "Requires no skill",
+          "b": "Shows exact values only",
+          "c": "Easy understanding",
+          "d": "Cannot compare data"
+        },
+        "answer": "c",
+        "explanation": "Graphs simplify data and make it easier to understand."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which is a disadvantage of graphical presentation?",
+        "options": {
+          "a": "Quick comparison",
+          "b": "Trend identification",
+          "c": "Loss of precision",
+          "d": "Easy understanding"
+        },
+        "answer": "c",
+        "explanation": "Graphs may not always show exact numerical values."
+      },
+
+      {
+        "type": "mcq",
+        "question": "What is pictorial presentation of data?",
+        "options": {
+          "a": "Using equations only",
+          "b": "Using pictures or symbols",
+          "c": "Using spoken words",
+          "d": "Using frequencies"
+        },
+        "answer": "b",
+        "explanation": "Pictorial presentation uses symbols or pictures to represent data."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which method describes data using words and sentences?",
+        "options": {
+          "a": "Histogram",
+          "b": "Pie chart",
+          "c": "Textual presentation",
+          "d": "Scatter diagram"
+        },
+        "answer": "c",
+        "explanation": "Textual presentation explains data in words and sentences."
+      },
+
+      {
+        "type": "mcq",
+        "question": "What does a scatter diagram show?",
+        "options": {
+          "a": "Frequency distribution",
+          "b": "Relationship between two variables",
+          "c": "Percentages only",
+          "d": "Population growth only"
+        },
+        "answer": "b",
+        "explanation": "Scatter diagrams show relationships between variables."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which type of correlation means both variables increase together?",
+        "options": {
+          "a": "Negative correlation",
+          "b": "No correlation",
+          "c": "Positive correlation",
+          "d": "Inverse correlation"
+        },
+        "answer": "c",
+        "explanation": "Positive correlation means both variables move in the same direction."
+      },
+
+      {
+        "type": "mcq",
+        "question": "Which presentation method is attractive and simple but may distort accuracy?",
+        "options": {
+          "a": "Histogram",
+          "b": "Pictogram",
+          "c": "Scatter plot",
+          "d": "Table"
+        },
+        "answer": "b",
+        "explanation": "Pictograms are attractive but can sometimes distort accuracy."
+      },
+
+      {
+        "type": "written",
+        "question": "Explain why histograms are different from bar charts.",
+        "answerText": "Histograms are used for continuous data and their bars touch each other, while bar charts are used for categorical data and have spaces between bars.",
+        "explanation": "Histogram bars touch because the data are continuous."
+      },
+
+      {
+        "type": "written",
+        "question": "List any three advantages of graphical presentation.",
+        "answerText": "Easy understanding, quick comparison, trend identification, attractive presentation, and decision support.",
+        "explanation": "Graphs simplify information and help identify trends quickly."
+      },
+
+      {
+        "type": "written",
+        "question": "Mention the three relationships shown in scatter diagrams.",
+        "answerText": "Positive correlation, negative correlation, and no correlation.",
+        "explanation": "Scatter diagrams help show how variables are related."
+      }
+     ]
+       },
+
+       
+  "chapter3": { 
+    "title": "Chapter 4:Measure Of Central Tendency ",
+    "active": false,
+    "questions": [
+       ]
+
+  },
+
+  "chapter4": {
+    "title": "Measure Of Dispersion, Variation And Deviation ",
+    "active": false,
+    "questions": [
+     {
+  
+    }
+
+     ]
+      },
+
+ 
+  "chapter5": {
+    "title": "Introduction To Probabilty ",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter6": {
+    "title": "Probability Functions Of Random Variable ",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter7": {
+    "title": "Numbers And Set Theory ",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter8": {
+    "title": "Survey And Sampling Theory",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter9": {
+    "title": "Non Parametric Statistics ",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter10": {
+    "title": "Correlation Analysis ",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter11": {
+    "title": "Regression Analysis ",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter12": {
+    "title": "Time series",
+    "active": false,
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+     }
+}
+
+
+

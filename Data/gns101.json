@@ -1,0 +1,1496 @@
+{
+  "chapter1,2 and 3": {
+    "title": "Chapter 1,2 and 3:THE GENERAL STUDY x",
+      "active": true,
+    "questions": [
+
+  {
+    "question": "Mention 4 activities involved in pre-lecture preparation.",
+    "type": "written",
+    "answerText": "Investigating lecture topics, reading relevant texts, making notes, attending lectures, asking questions, answering questions.",
+    "explanation": "These activities help students understand lectures better."
+  },
+
+
+  {
+    "question": "What is pre-lecture interest?",
+    "type": "written",
+    "answerText": "It is the active participation and contribution of students in lecture topics before and during lectures.",
+    "explanation": "Pre-lecture interest encourages participation and intellectual growth."
+  },
+
+  {
+    "question": "The three major parts of a lecture are:",
+    "type": "mcq",
+    "options": {
+      "a": "Introduction, body, punishment",
+      "b": "Opening, ending, examination",
+      "c": "Introductory part, main lecture, conclusion",
+      "d": "Questions, answers, tests"
+    },
+    "answer": "c",
+    "explanation": "Every lecture has an introduction, main lecture, and conclusion."
+  },
+
+  {
+    "question": "Which of the following is NOT part of a lecture conclusion?",
+    "type": "mcq",
+    "options": {
+      "a": "Revision",
+      "b": "Summary",
+      "c": "Question and answer session",
+      "d": "Ignoring students"
+    },
+    "answer": "d",
+    "explanation": "The conclusion includes revision, summaries, and questions."
+  },
+
+  {
+    "question": "Define note-taking skills.",
+    "type": "written",
+    "answerText": "They are the listening and writing skills used to record important lecture information.",
+    "explanation": "Note-taking combines listening and writing."
+  },
+
+  {
+    "question": "Good note-taking techniques are usually:",
+    "type": "mcq",
+    "options": {
+      "a": "Public to everybody",
+      "b": "Private in style",
+      "c": "Always electronic",
+      "d": "Impossible to understand"
+    },
+    "answer": "b",
+    "explanation": "Most students personalize their notes."
+  },
+
+  {
+    "question": "List 3 common note-taking techniques.",
+    "type": "written",
+    "answerText": "Use of abbreviations, symbols, shortened spellings, numbering points, underlining important ideas.",
+    "explanation": "Students use private systems to write quickly."
+  },
+
+  {
+    "question": "Why is note acquisition necessary?",
+    "type": "mcq",
+    "options": {
+      "a": "To forget lectures",
+      "b": "To store information privately for future use",
+      "c": "To avoid reading",
+      "d": "To confuse lecturers"
+    },
+    "answer": "b",
+    "explanation": "Notes preserve lecture information for future consultation."
+  },
+
+  {
+    "question": "APA and MLA are examples of:",
+    "type": "mcq",
+    "options": {
+      "a": "Reading styles",
+      "b": "Reference styles",
+      "c": "Grammar rules",
+      "d": "Speech methods"
+    },
+    "answer": "b",
+    "explanation": "APA and MLA are documentation/reference styles."
+  },
+
+  {
+    "question": "What is a dictionary?",
+    "type": "written",
+    "answerText": "A reference book containing an alphabetical list of words with information about them.",
+    "explanation": "Dictionaries provide meanings, spellings, and usage."
+  },
+
+  {
+    "question": "The study of the origin of words is called:",
+    "type": "mcq",
+    "options": {
+      "a": "Syntax",
+      "b": "Morphology",
+      "c": "Etymology",
+      "d": "Phonology"
+    },
+    "answer": "c",
+    "explanation": "Etymology studies the origin of words."
+  },
+
+  {
+    "question": "Mention 2 contexts of dictionary usage.",
+    "type": "written",
+    "answerText": "Cultural context and situational context.",
+    "explanation": "Dictionaries consider social and situational meaning."
+  },
+
+  {
+    "question": "Connotative meaning refers to:",
+    "type": "mcq",
+    "options": {
+      "a": "Original everyday meaning",
+      "b": "Additional implied meaning",
+      "c": "Wrong meaning",
+      "d": "Only scientific meaning"
+    },
+    "answer": "b",
+    "explanation": "Connotative meanings are additional or implied meanings."
+  },
+
+  {
+    "question": "Define denotative meaning.",
+    "type": "written",
+    "answerText": "The original or direct meaning of a word.",
+    "explanation": "Denotative meaning is the literal dictionary meaning."
+  },
+
+  {
+    "question": "Which of these is a specialized dictionary?",
+    "type": "mcq",
+    "options": {
+      "a": "Medical dictionary",
+      "b": "Storybook",
+      "c": "Magazine",
+      "d": "Notebook"
+    },
+    "answer": "a",
+    "explanation": "Specialized dictionaries focus on particular fields."
+  },
+
+  {
+    "question": "Mention the 4 basic language skills.",
+    "type": "written",
+    "answerText": "Reading, listening, speaking, and writing.",
+    "explanation": "These skills complement one another."
+  },
+
+  {
+    "question": "Good reading habits include:",
+    "type": "mcq",
+    "options": {
+      "a": "Reading every text at same speed",
+      "b": "Pointing every word with fingers",
+      "c": "Critical reflection and proper eye movement",
+      "d": "Reading aloud always"
+    },
+    "answer": "c",
+    "explanation": "Good reading involves critical thinking and effective eye movement."
+  },
+
+  {
+    "question": "List 3 bad reading habits.",
+    "type": "written",
+    "answerText": "Reading aloud, moving lips while reading, pointing at words, using same speed for all texts.",
+    "explanation": "These habits slow understanding and efficiency."
+  },
+
+  {
+    "question": "Fast readers are usually:",
+    "type": "mcq",
+    "options": {
+      "a": "Audible readers",
+      "b": "Slow thinkers",
+      "c": "Efficient and inaudible",
+      "d": "Poor readers"
+    },
+    "answer": "c",
+    "explanation": "Fast readers read efficiently and silently."
+  },
+
+  {
+    "question": "What is effective reading?",
+    "type": "written",
+    "answerText": "A careful and purposeful reading that leads to understanding and knowledge acquisition.",
+    "explanation": "Effective reading focuses on understanding details."
+  },
+
+  {
+    "question": "Skimming is mainly used to:",
+    "type": "mcq",
+    "options": {
+      "a": "Memorize every word",
+      "b": "Get a quick overview of a text",
+      "c": "Translate texts",
+      "d": "Read aloud"
+    },
+    "answer": "b",
+    "explanation": "Skimming helps readers get general ideas quickly."
+  },
+
+  {
+    "question": "Define scanning.",
+    "type": "written",
+    "answerText": "Scanning is reading quickly to locate specific information in a text.",
+    "explanation": "Scanning focuses on particular details."
+  },
+
+  {
+    "question": "Normal reading is mostly done for:",
+    "type": "mcq",
+    "options": {
+      "a": "Punishment",
+      "b": "Recreation and understanding",
+      "c": "Avoiding studies",
+      "d": "Confusion"
+    },
+    "answer": "b",
+    "explanation": "Normal reading is commonly for recreation and general understanding."
+  },
+
+  {
+    "question": "Mention 3 contents commonly found in reading materials.",
+    "type": "written",
+    "answerText": "Definitions, illustrations, comparisons, contrasts, aims, objectives, facts, and opinions.",
+    "explanation": "Texts contain different forms of information."
+  },
+
+  {
+    "question": "A fact is:",
+    "type": "mcq",
+    "options": {
+      "a": "A subjective judgment",
+      "b": "An unsupported belief",
+      "c": "An objective truth statement",
+      "d": "A rumor"
+    },
+    "answer": "c",
+    "explanation": "Facts are objective and verifiable."
+  },
+
+  {
+    "question": "Define opinion in reading comprehension.",
+    "type": "written",
+    "answerText": "An opinion is a subjective statement that readers may agree or disagree with.",
+    "explanation": "Opinions are based on beliefs or judgments."
+  },
+
+  {
+    "question": "Minor points in a paragraph are also called:",
+    "type": "mcq",
+    "options": {
+      "a": "Main points",
+      "b": "Topic sentences",
+      "c": "Incidental or subordinate ideas",
+      "d": "Conclusions"
+    },
+    "answer": "c",
+    "explanation": "Minor points support the main point."
+  },
+
+  {
+    "question": "What is the importance of main points in a text?",
+    "type": "written",
+    "answerText": "They present the central ideas or most important information in a paragraph or topic.",
+    "explanation": "Main points guide understanding of the text."
+  },
+
+  {
+    "question": "Backward and forward relations in a text are known as:",
+    "type": "mcq",
+    "options": {
+      "a": "Syntax and morphology",
+      "b": "Anaphoric and cataphoric relations",
+      "c": "Scanning and skimming",
+      "d": "Connotation and denotation"
+    },
+    "answer": "b",
+    "explanation": "These relations connect earlier and later parts of a text."
+  },
+
+  {
+    "question": "Mention 3 methods of reading discussed in the text.",
+    "type": "written",
+    "answerText": "Skimming, scanning, normal reading, and study reading.",
+    "explanation": "Different reading methods suit different purposes."
+  },
+
+  {
+    "question": "What is the purpose of study reading?",
+    "type": "written",
+    "answerText": "To gain detailed understanding and knowledge of course topics.",
+    "explanation": "Study reading is focused and academic."
+  },
+
+ 
+  {
+    "question": "Good note-taking depends greatly on:",
+    "type": "mcq",
+    "options": {
+      "a": "Drawing skills",
+      "b": "Listening skills",
+      "c": "Typing speed",
+      "d": "Memorization only"
+    },
+    "answer": "b",
+    "explanation": "Attentive listening improves note-taking."
+  }
+]
+  },
+
+
+
+
+
+
+
+  "chapter4": {
+    "title": "Chapter 4:THE LANGUAGE USE",
+    "active": true,
+    "questions": [
+  {
+    "question": "Language is described as a system of interrelated patterns.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially true",
+      "d": "Not mentioned"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage defines language as a system of interrelated patterns."
+  },
+  {
+    "question": "Language is mainly described as a system of interrelated patterns.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "Impossible"
+    },
+    "answer": "a",
+    "explanation": "The text explains that language consists of connected patterns and structures."
+  },
+   {
+    "question": "What is morphology concerned with?",
+    "type": "mcq",
+    "options": {
+      "a": "Sentence punctuation",
+      "b": "Speech delivery",
+      "c": "Smallest meaningful units of words",
+      "d": "Paragraph arrangement"
+    },
+    "answer": "c",
+    "explanation": "Morphology studies morphemes, the smallest meaningful parts of words."
+  },
+
+   {
+    "question": "Language involves intelligible sounds organized into phonology.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Maybe",
+      "d": "No idea"
+    },
+    "answer": "a",
+    "explanation": "Phonology studies the sound system of language."
+  },
+  {
+    "question": "The word 'boys' contains two morphemes.",
+    "type": "mcq",
+    "options": {
+      "a": "False",
+      "b": "Not sure",
+      "c": "True",
+      "d": "Impossible"
+    },
+    "answer": "c",
+    "explanation": "The word contains 'boy' and the plural marker 's'."
+  },
+
+  {
+    "question": "Which of the following is the scientific study of language?",
+    "type": "mcq",
+
+    "options": {
+      "a": "Biology",
+      "b": "Linguistics",
+      "c": "Geography",
+      "d": "Literature"
+    },
+
+    "answer": "b",
+
+    "explanation": "Linguistics is the scientific study of language."
+  },
+   {
+    "question": "English is important globally because it supports:",
+    "type": "mcq",
+    "options": {
+      "a": "Research and trade",
+      "b": "Silence",
+      "c": "Isolation",
+      "d": "Confusion"
+    },
+    "answer": "a",
+    "explanation": "English supports global communication, education and commerce."
+  },
+
+  {
+    "question": "State 4 international functions of English language.",
+    "type": "written",
+    "answerText": "Research, international politics, trade and commerce, global publication.",
+    "explanation": "English is widely used internationally in education and diplomacy."
+  },
+   {
+    "question": "English is widely used as a language of international politics.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Sometimes",
+      "d": "Not sure"
+    },
+    "answer": "a",
+    "explanation": "The United Nations and many global institutions use English officially."
+  },
+  {
+    "question": "List 4 characteristics of language discussed in the text.",
+    "type": "written",
+    "answerText": "Language is systematic, abstract, meaningful, and structured.",
+    "explanation": "The text explains that language has structure, meaning, sound systems, and abstract concepts."
+  },
+
+  {
+    "question": "Explain why language is regarded as abstract.",
+    "type": "written",
+    "answerText": "Language is abstract because it starts as ideas and thoughts in the human mind before being spoken or written.",
+    "explanation": "The text connects abstraction with human thinking and communication."
+  },
+
+  
+  {
+    "question": "English serves as Nigeria's official language.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partly true",
+      "d": "Unknown"
+    },
+    "answer": "a",
+    "explanation": "English is used officially in governance, education, and communication in Nigeria."
+  },
+
+  {
+    "question": "Nigerian English belongs to the ____ Circle of English.",
+    "type": "mcq",
+    "options": {
+      "a": "Inner",
+      "b": "Expanded",
+      "c": "Outer",
+      "d": "Middle"
+    },
+    "answer": "c",
+    "explanation": "Nigerian English is categorized under the Outer Circle."
+  },
+
+
+  {
+    "question": "English is regarded as a major language of international publication.",
+    "type": "mcq",
+    "options": {
+      "a": "False",
+      "b": "True",
+      "c": "Impossible",
+      "d": "Not necessary"
+    },
+    "answer": "b",
+    "explanation": "Most academic journals and publications are written in English."
+  },
+  
+  {
+    "question": "The variety of English used in Nigeria is called ____.",
+    "type": "mcq",
+    "options": {
+      "a": "British English",
+      "b": "American English",
+      "c": "Nigerian English",
+      "d": "Pidgin English"
+    },
+    "answer": "c",
+    "explanation": "Nigeria has developed its own recognized variety called Nigerian English."
+  },
+
+  {
+    "question": "Mention 5 functions of English language in Nigeria.",
+    "type": "written",
+    "answerText": "Education, governance, commerce, research, media communication.",
+    "explanation": "English is important in official, educational, economic and social activities."
+  },
+
+
+  {
+    "question": "Phonetics is the general study of sounds.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Impossible",
+      "d": "Not sure"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage explains that phonetics studies the general system of sounds."
+  },
+
+  {
+    "question": "Phonology studies the particular sound system of a language.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Maybe",
+      "d": "Undefined"
+    },
+
+    "answer": "a",
+
+    "explanation": "Phonology focuses on the particular sound system of a language."
+  },
+
+  {
+    "question": "Lexicology is the study of words.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially true",
+      "d": "Not mentioned"
+    },
+
+    "answer": "a",
+
+    "explanation": "Lexicology deals with the study of words."
+  },
+
+  {
+    "question": "What does morphology study?",
+    "type": "mcq",
+
+    "options": {
+      "a": "Sentence structure",
+      "b": "Word meanings",
+      "c": "Smallest meaningful units of words",
+      "d": "Pronunciation only"
+    },
+
+    "answer": "c",
+
+    "explanation": "Morphology studies morphemes, the smallest meaningful units of words."
+  },
+
+  {
+    "question": "The word 'boys' has two morphemes.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Not mentioned",
+      "d": "Impossible"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage states that 'boys' contains two morphemes. Boy- a free morpheme and -s a bound morphmes."
+  },
+
+  {
+    "question": "List the three major language systems mentioned in the passage.",
+    "type": "written",
+
+    "answerText": "Grammar, phonology, and semantics.",
+
+    "explanation": "These are identified as the main systems of language."
+  },
+
+  {
+    "question": "Grammar is described as the soul of language.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially true",
+      "d": "Uncertain"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage directly describes grammar as the soul of language."
+  },
+
+  {
+    "question": "What is grammaticality?",
+    "type": "written",
+
+    "answerText": "Grammaticality is the knowledge of what grammar gets right or wrong and how acceptable grammar is used.",
+
+    "explanation": "It refers to understanding correct and acceptable grammar usage."
+  },
+
+  {
+    "question": "Semantics is mainly concerned with meaning.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "Impossible"
+    },
+
+    "answer": "a",
+
+    "explanation": "Semantics deals with meaning in language."
+  },
+
+  {
+    "question": "Mention the four content words in English.",
+    "type": "written",
+
+    "answerText": "Nouns, verbs, adjectives, and adverbs.",
+
+    "explanation": "These are the major content word classes in English."
+  },
+
+  {
+    "question": "Which of the following is a grammatical word?",
+    "type": "mcq",
+
+    "options": {
+      "a": "Verb",
+      "b": "Adjective",
+      "c": "Pronoun",
+      "d": "Adverb"
+    },
+
+    "answer": "c",
+
+    "explanation": "Pronouns belong to grammatical words."
+  },
+
+  {
+    "question": "Content words can stand alone with meaning.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Sometimes",
+      "d": "Not mentioned"
+    },
+
+    "answer": "a",
+
+    "explanation": "Content words carry meaning independently."
+  },
+
+  {
+    "question": "List five grammatical words mentioned in the passage.",
+    "type": "written",
+
+    "answerText": "Conjunctions, determiners, interjections, pronouns, and prepositions.",
+
+    "explanation": "These are the grammatical word classes identified in the passage."
+  },
+
+  {
+    "question": "The English language in Nigeria is regarded as a second language.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially true",
+      "d": "Unknown"
+    },
+
+    "answer": "a",
+
+    "explanation": "English is officially used as a second language in Nigeria."
+  },
+
+  {
+    "question": "What is the variety of English used in Nigeria called?",
+    "type": "written",
+
+    "answerText": "Nigerian English.",
+
+    "explanation": "The passage identifies the Nigerian variety as Nigerian English."
+  },
+
+  {
+    "question": "Which of the following is NOT an indigenous Nigerian language?",
+    "type": "mcq",
+
+    "options": {
+      "a": "Yoruba",
+      "b": "Igbo",
+      "c": "Hausa",
+      "d": "French"
+    },
+
+    "answer": "d",
+
+    "explanation": "French is a foreign language in Nigeria."
+  },
+
+  {
+    "question": "Pidgin is classified as a hybrid language.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially true",
+      "d": "Not sure"
+    },
+
+    "answer": "a",
+
+    "explanation": "Pidgin is described as a hybrid language category."
+  },
+
+  {
+    "question": "Define bilingualism.",
+    "type": "written",
+
+    "answerText": "Bilingualism is the ability or practice of using two languages.",
+
+    "explanation": "The passage explains bilingualism as using two languages alternatively."
+      },
+
+  {
+    "question": "Which language system is mainly concerned with meaning?",
+    "type": "mcq",
+
+    "options": {
+      "a": "Phonology",
+      "b": "Semantics",
+      "c": "Morphology",
+      "d": "Syntax"
+    },
+
+    "answer": "b",
+
+    "explanation": "Semantics is the study of meaning in language."
+  },
+
+  {
+    "question": "Language is largely abstract.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Sometimes",
+      "d": "Unknown"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage explains that language is abstract and exists first as ideas in the mind."
+  },
+
+  {
+    "question": "What are the four sentence types mentioned in the passage?",
+    "type": "written",
+
+    "answerText": "Declarative, interrogative, imperative, and exclamatory sentences.",
+
+    "explanation": "These are the major functional sentence types in grammar."
+  },
+
+  {
+    "question": "Which branch of grammar studies sentence structure?",
+    "type": "mcq",
+
+    "options": {
+      "a": "Phonetics",
+      "b": "Semantics",
+      "c": "Syntax",
+      "d": "Lexicology"
+    },
+
+    "answer": "c",
+
+    "explanation": "Syntax studies the arrangement and structure of sentences."
+  },
+
+  {
+    "question": "Nigeria is described as a multilingual society.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially true",
+      "d": "Not mentioned"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage states that Nigeria is multilingual because many languages are used."
+  },
+
+  {
+    "question": "Define monolingualism.",
+    "type": "written",
+
+    "answerText": "Monolingualism is the ability to use only one language.",
+
+    "explanation": "It refers to dependence on a single language."
+  },
+
+  {
+    "question": "Which of the following is a hybrid language in Nigeria?",
+    "type": "mcq",
+
+    "options": {
+      "a": "French",
+      "b": "Yoruba",
+      "c": "Pidgin",
+      "d": "English"
+    },
+
+    "answer": "c",
+
+    "explanation": "Pidgin is identified as a hybrid language category."
+  },
+
+  {
+    "question": "English in Nigeria is used for governance, education, and commerce.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "Impossible"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage explains the important functions of English in Nigeria."
+  },
+
+  {
+    "question": "Mention three indigenous Nigerian languages listed in the passage.",
+    "type": "written",
+
+    "answerText": "Hausa, Igbo, and Yoruba.",
+
+    "explanation": "These are the major indigenous languages mentioned."
+  },
+
+  {
+    "question": "Grammar can be enabling and constraining at the same time.",
+    "type": "mcq",
+
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially true",
+      "d": "Unknown"
+    },
+
+    "answer": "a",
+
+    "explanation": "The passage states that grammar can both help and restrict analysis."
+  }
+     ]
+
+      },
+
+
+
+
+  
+ 
+  "chapter5,6 and 7": {
+    "title": "Chapter 5,6 and 7:GRAMMAR AND GRAMMAR CONVENTIONS",
+      "active": true,
+    "questions": [
+  {
+    "question": "What is the subject of a sentence?",
+    "type": "mcq",
+    "options": {
+      "a": "The action only",
+      "b": "The person, thing, or idea being discussed",
+      "c": "The punctuation mark",
+      "d": "The adjective"
+    },
+    "answer": "b",
+    "explanation": "The subject is who or what the sentence talks about."
+  },
+
+  {
+    "question": "Identify the subject in: 'John plays football.'",
+    "type": "mcq",
+    "options": {
+      "a": "plays",
+      "b": "football",
+      "c": "John",
+      "d": "plays football"
+    },
+    "answer": "c",
+    "explanation": "John is the person being talked about."
+  },
+  {
+    "question": "Grammar is described as the soul of language.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Impossible",
+      "d": "Optional"
+    },
+    "answer": "a",
+    "explanation": "The Book directly defines grammar as the soul of language."
+  },
+
+  {
+    "question": "Good grammar mainly refers to:",
+    "type": "mcq",
+    "options": {
+      "a": "Elegant usage",
+      "b": "Wrong spelling",
+      "c": "Silence",
+      "d": "Long sentences only"
+    },
+    "answer": "a",
+    "explanation": "Good grammar means acceptable and elegant language use."
+  },
+
+  {
+    "question": "Bad grammar is mainly regarded as:",
+    "type": "mcq",
+    "options": {
+      "a": "A foreign language",
+      "b": "An error in usage",
+      "c": "A dialect",
+      "d": "A sound system"
+    },
+    "answer": "b",
+    "explanation": "The Book says scholars treat bad grammar as usage error."
+  },
+
+
+  {
+    "question": "Define predicate.",
+    "type": "written",
+    "answerText": "The predicate is the verb and everything that follows it in a sentence.",
+    "explanation": "The predicate tells what the subject does or what happens to it."
+  },
+   {
+    "question": "Which of these is a content word?",
+    "type": "mcq",
+    "options": {
+      "a": "Preposition",
+      "b": "Conjunction",
+      "c": "Verb",
+      "d": "Determiner"
+    },
+    "answer": "c",
+    "explanation": "Verbs carry independent meaning."
+  },
+  {
+
+    "question": "Nouns, verbs, adjectives and adverbs are classified as ____ words.",
+    "type": "mcq",
+    "options": {
+      "a": "Function",
+      "b": "Content",
+      "c": "Grammatical",
+      "d": "Abstract"
+    },
+    "answer": "b",
+    "explanation": "These word classes carry meaning independently."
+  },
+
+  {
+    "question": "Pronouns, conjunctions and prepositions are examples of grammatical words.",
+    "type": "mcq",
+    "options": {
+      "a": "False",
+      "b": "True",
+      "c": "Impossible",
+      "d": "Unknown"
+    },
+    "answer": "b",
+    "explanation": "They mainly perform grammatical functions."
+  },
+
+  {
+    "question": "Which of these is NOT a grammatical word?",
+    "type": "mcq",
+    "options": {
+      "a": "Pronoun",
+      "b": "Conjunction",
+      "c": "Noun",
+      "d": "Preposition"
+    },
+    "answer": "c",
+    "explanation": "A noun is a content word."
+  },
+
+  {
+    "question": "Identify the predicate in: 'The boy is eating rice.'",
+    "type": "mcq",
+    "options": {
+      "a": "The boy",
+      "b": "is eating rice",
+      "c": "rice",
+      "d": "eating"
+    },
+    "answer": "b",
+    "explanation": "The predicate contains the verb and everything after it."
+  },
+
+   {
+    "question": "Mention 5 grammatical words.",
+    "type": "written",
+    "answerText": "Pronouns, conjunctions, determiners, prepositions and interjections.",
+    "explanation": "These words mainly support sentence structure."
+  },
+
+  {
+    "question": "Give 4 examples of content words.",
+    "type": "written",
+    "answerText": "Nouns, verbs, adjectives and adverbs.",
+    "explanation": "These words can stand alone with meaning."
+  },
+
+
+  {
+    "question": "A clause must contain:",
+    "type": "mcq",
+    "options": {
+      "a": "Only a noun",
+      "b": "A subject and a verb",
+      "c": "Only punctuation",
+      "d": "Only an adjective"
+    },
+    "answer": "b",
+    "explanation": "A clause requires both a subject and a verb."
+  },
+   {
+    "question": "Grammaticality refers to the ability to identify acceptable grammar usage.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Rarely",
+      "d": "Not sure"
+    },
+    "answer": "a",
+    "explanation": "Grammaticality deals with correctness and acceptability."
+  },
+
+  {
+    "question": "Explain grammaticality.",
+    "type": "written",
+    "answerText": "Grammaticality is the knowledge of what is acceptable or unacceptable in grammar usage.",
+    "explanation": "It helps identify correct and incorrect language structures."
+  },
+
+  {
+    "question": "What is a declarative sentence?",
+    "type": "written",
+    "answerText": "A declarative sentence makes a statement.",
+    "explanation": "Declarative sentences provide information or facts."
+  },
+
+  {
+    "question": "'She is my friend.' is an example of:",
+    "type": "mcq",
+    "options": {
+      "a": "Imperative sentence",
+      "b": "Interrogative sentence",
+      "c": "Declarative sentence",
+      "d": "Exclamatory sentence"
+    },
+    "answer": "c",
+    "explanation": "The sentence simply states information."
+  },
+
+  {
+    "question": "What is an interrogative sentence?",
+    "type": "written",
+    "answerText": "An interrogative sentence asks a question.",
+    "explanation": "Interrogative sentences usually end with a question mark."
+  },
+
+  {
+    "question": "'Are you coming?' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Imperative",
+      "b": "Interrogative",
+      "c": "Declarative",
+      "d": "Minor sentence"
+    },
+    "answer": "b",
+    "explanation": "The sentence asks a question."
+  },
+
+  {
+    "question": "What is an imperative sentence?",
+    "type": "written",
+    "answerText": "An imperative sentence gives a command or request.",
+    "explanation": "The subject 'you' is usually hidden."
+  },
+
+  {
+    "question": "'Close the door.' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Declarative",
+      "b": "Imperative",
+      "c": "Interrogative",
+      "d": "Complex"
+    },
+    "answer": "b",
+    "explanation": "The sentence gives a command."
+  },
+
+  {
+    "question": "What is an exclamatory sentence?",
+    "type": "written",
+    "answerText": "An exclamatory sentence expresses strong emotion or surprise.",
+    "explanation": "It usually ends with an exclamation mark."
+  },
+
+  {
+    "question": "'What a beautiful day!' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Interrogative",
+      "b": "Declarative",
+      "c": "Exclamatory",
+      "d": "Imperative"
+    },
+    "answer": "c",
+    "explanation": "The sentence expresses strong feeling."
+  },
+
+  {
+    "question": "What is a minor sentence?",
+    "type": "written",
+    "answerText": "A minor sentence is a short expression that still communicates complete meaning.",
+    "explanation": "Examples include 'Congratulations!' and 'For sale!'"
+  },
+
+  {
+    "question": "'Wow!' is an example of:",
+    "type": "mcq",
+    "options": {
+      "a": "Complex sentence",
+      "b": "Minor sentence",
+      "c": "Clause",
+      "d": "Phrase"
+    },
+    "answer": "b",
+    "explanation": "It is short but meaningful."
+  },
+
+  {
+    "question": "What is a simple sentence?",
+    "type": "written",
+    "answerText": "A simple sentence contains one independent clause.",
+    "explanation": "It expresses a complete thought with one main idea."
+  },
+
+  {
+    "question": "'The boy killed the snake.' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Compound sentence",
+      "b": "Complex sentence",
+      "c": "Simple sentence",
+      "d": "Minor sentence"
+    },
+    "answer": "c",
+    "explanation": "It contains one independent clause."
+  },
+
+  {
+    "question": "What is a compound sentence?",
+    "type": "written",
+    "answerText": "A compound sentence contains two independent clauses joined together.",
+    "explanation": "Compound sentences commonly use 'and', 'but', or 'or'."
+  },
+
+  {
+    "question": "'I came and I saw.' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Simple sentence",
+      "b": "Complex sentence",
+      "c": "Compound sentence",
+      "d": "Minor sentence"
+    },
+    "answer": "c",
+    "explanation": "Two independent clauses are joined by 'and'."
+  },
+
+  {
+    "question": "List three common conjunctions used in compound sentences.",
+    "type": "written",
+    "answerText": "And, but, or.",
+    "explanation": "These conjunctions connect equal clauses."
+  },
+
+  {
+    "question": "What is a complex sentence?",
+    "type": "written",
+    "answerText": "A complex sentence contains one independent clause and one dependent clause.",
+    "explanation": "The dependent clause cannot stand alone."
+  },
+
+  {
+    "question": "'I stayed because it rained.' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Simple sentence",
+      "b": "Compound sentence",
+      "c": "Complex sentence",
+      "d": "Minor sentence"
+    },
+    "answer": "c",
+    "explanation": "The clause 'because it rained' depends on the main clause."
+  },
+
+  {
+    "question": "Give four common words that introduce complex sentences.",
+    "type": "written",
+    "answerText": "Because, who, which, when.",
+    "explanation": "These words often introduce dependent clauses."
+  },
+
+  {
+    "question": "A dependent clause:",
+    "type": "mcq",
+    "options": {
+      "a": "Can stand alone",
+      "b": "Has no meaning",
+      "c": "Cannot stand alone",
+      "d": "Is always imperative"
+    },
+    "answer": "c",
+    "explanation": "Dependent clauses rely on independent clauses."
+  },
+
+  {
+    "question": "What is an independent clause?",
+    "type": "written",
+    "answerText": "An independent clause can stand alone as a complete sentence.",
+    "explanation": "It contains a subject and predicate and expresses complete meaning."
+  },
+
+  {
+    "question": "'She went home.' is an example of:",
+    "type": "mcq",
+    "options": {
+      "a": "Dependent clause",
+      "b": "Independent clause",
+      "c": "Phrase",
+      "d": "Minor sentence"
+    },
+    "answer": "b",
+    "explanation": "It expresses complete meaning alone."
+  },
+
+  {
+    "question": "What is a phrase?",
+    "type": "written",
+    "answerText": "A phrase is a group of words without a complete subject-verb structure.",
+    "explanation": "A phrase is not a complete sentence."
+  },
+
+  {
+    "question": "'Running quickly' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Clause",
+      "b": "Phrase",
+      "c": "Compound sentence",
+      "d": "Complex sentence"
+    },
+    "answer": "b",
+    "explanation": "It lacks a complete subject and finite verb."
+  },
+
+  {
+    "question": "What is a compound-complex sentence?",
+    "type": "written",
+    "answerText": "A compound-complex sentence contains at least two independent clauses and one dependent clause.",
+    "explanation": "It combines features of compound and complex sentences."
+  },
+
+  {
+    "question": "'The girl whom I met yesterday came and greeted me.' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Simple sentence",
+      "b": "Compound sentence",
+      "c": "Complex sentence",
+      "d": "Compound-complex sentence"
+    },
+    "answer": "d",
+    "explanation": "The sentence contains independent and dependent clauses together."
+  },
+
+  {
+    "question": "What is a multiple structure?",
+    "type": "written",
+    "answerText": "A multiple structure is a very long sentence containing many connected clauses and modifiers.",
+    "explanation": "It involves several linked sentence structures."
+  },
+
+  {
+    "question": "'He came home, ate food, called his friend and slept.' is:",
+    "type": "mcq",
+    "options": {
+      "a": "Minor sentence",
+      "b": "Multiple structure",
+      "c": "Simple sentence",
+      "d": "Phrase"
+    },
+    "answer": "b",
+    "explanation": "The sentence contains several linked actions and clauses."
+  },
+
+  {
+    "question": "State the difference between compound and complex sentences.",
+    "type": "written",
+    "answerText": "Compound sentences contain equal independent clauses, while complex sentences contain one independent clause and one dependent clause.",
+    "explanation": "Compound uses equal clauses; complex uses subordination."
+  },
+
+  {
+    "question": "Which sentence is compound?",
+    "type": "mcq",
+    "options": {
+      "a": "I left because it rained",
+      "b": "I came and I left",
+      "c": "Running quickly",
+      "d": "Close the door"
+    },
+    "answer": "b",
+    "explanation": "Two equal clauses are joined with 'and'."
+  },
+
+  {
+    "question": "Which sentence is complex?",
+    "type": "mcq",
+    "options": {
+      "a": "I came and I left",
+      "b": "Close the gate",
+      "c": "I stayed because it rained",
+      "d": "Congratulations!"
+    },
+    "answer": "c",
+    "explanation": "The sentence contains a dependent clause introduced by 'because'."
+  },
+
+  {
+    "question": "What punctuation mark usually ends an interrogative sentence?",
+    "type": "written",
+    "answerText": "A question mark.",
+    "explanation": "Interrogative sentences ask questions."
+  },
+
+  {
+    "question": "What punctuation mark usually ends an exclamatory sentence?",
+    "type": "written",
+    "answerText": "An exclamation mark.",
+    "explanation": "Exclamatory sentences express strong emotion."
+  },
+
+  {
+    "question": "Which sentence contains a dependent clause?",
+    "type": "mcq",
+    "options": {
+      "a": "The boy runs",
+      "b": "She came because she was tired",
+      "c": "Come here",
+      "d": "Wow!"
+    },
+    "answer": "b",
+    "explanation": "The clause 'because she was tired' depends on the main clause."
+  },
+
+  {
+    "question": "Why are compound and complex sentences important?",
+    "type": "written",
+    "answerText": "They help avoid repetition and make communication richer and more detailed.",
+    "explanation": "Longer structures improve expression and flow."
+  },
+
+  {
+    "question": "The hidden subject in imperative sentences is usually:",
+    "type": "mcq",
+    "options": {
+      "a": "He",
+      "b": "She",
+      "c": "You",
+      "d": "They"
+    },
+    "answer": "c",
+    "explanation": "Imperative sentences usually hide the subject 'you'."
+  }
+]
+
+      },
+
+
+
+
+ 
+  "chapter8": {
+    "title": "LINGUISTIC METAPHORICLA REALISATION",
+     "active": false,
+    "questions": [
+     {
+
+    }
+
+     ]
+      },
+
+
+
+ 
+  "chapter9": {
+    "title": "PARAGRAPHING TEXT ",
+    "active": false,
+    "questions": [
+     {
+    }
+
+     ]
+      },
+
+
+
+ 
+  "chapter10": {
+    "title": "Chapter 10:GRAMMARTICAL TOP REALIZATION UNITS",
+     "active": false,
+    "questions": [
+
+     ]
+      }
+      }
