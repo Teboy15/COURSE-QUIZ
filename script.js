@@ -3,8 +3,13 @@
 ========================= */
 
 let courseData = {};
-let courseKey = localStorage.getItem("selectedCourse");
-let chapterKey = localStorage.getItem("selectedChapter");
+
+let courseKey =
+    localStorage.getItem("selectedCourse");
+
+let chapterKey =
+    localStorage.getItem("selectedChapter");
+
 
 /* =========================
    START QUIZ
@@ -12,7 +17,10 @@ let chapterKey = localStorage.getItem("selectedChapter");
 
 function startQuiz(course) {
 
-    localStorage.setItem("selectedCourse", course);
+    localStorage.setItem(
+        "selectedCourse",
+        course
+    );
 
     localStorage.removeItem("selectedChapter");
     localStorage.removeItem("answers");
@@ -21,14 +29,16 @@ function startQuiz(course) {
     window.location.href = "quiz.html";
 }
 
+
 /* =========================
    LOAD JSON
 ========================= */
 
 if (document.getElementById("quizForm")) {
 
-    fetch(`${courseKey}.json`)
+    fetch(`Data/${courseKey}.json`)
         .then(res => res.json())
+
         .then(data => {
 
             courseData = data;
@@ -36,6 +46,7 @@ if (document.getElementById("quizForm")) {
             showChapterOrQuiz();
 
         })
+
         .catch(err => {
 
             console.error(err);
@@ -45,6 +56,7 @@ if (document.getElementById("quizForm")) {
         });
 }
 
+
 /* =========================
    SHOW CHAPTER OR QUIZ
 ========================= */
@@ -53,27 +65,70 @@ function showChapterOrQuiz() {
 
     if (!chapterKey) {
 
-        let html = "<h2>Select Chapter</h2>";
+        let html = `
+
+            <h2>Select Chapter</h2>
+
+            <div class="time-select">
+
+                <label>Select Quiz Time:</label>
+
+                <select id="quizTime">
+
+                    <option value="5">
+                        5 Minutes
+                    </option>
+
+                    <option value="10" selected>
+                        10 Minutes
+                    </option>
+
+                    <option value="20">
+                        20 Minutes
+                    </option>
+
+                    <option value="30">
+                        30 Minutes
+                    </option>
+
+                    <option value="60">
+                        1 Hour
+                    </option>
+
+                </select>
+
+            </div>
+
+        `;
 
         Object.keys(courseData)
+
             .sort((a, b) =>
-                a.localeCompare(b, undefined, { numeric: true })
+                a.localeCompare(
+                    b,
+                    undefined,
+                    { numeric: true }
+                )
             )
 
-                .forEach(key => {
+            .forEach(key => {
 
-    if (courseData[key].active === false) {
-        return;
-    }
+                /* HIDE CHAPTER */
+                if (courseData[key].active === false) {
+                    return;
+                }
 
                 html += `
                     <button onclick="selectChapter('${key}')">
+
                         ${courseData[key].title}
+
                     </button>
                 `;
             });
 
-        document.getElementById("quizForm").innerHTML = html;
+        document.getElementById("quizForm").innerHTML =
+            html;
 
         return;
     }
@@ -81,16 +136,29 @@ function showChapterOrQuiz() {
     initQuiz();
 }
 
+
 /* =========================
    SELECT CHAPTER
 ========================= */
 
 function selectChapter(chapter) {
 
-    localStorage.setItem("selectedChapter", chapter);
+    let selectedTime =
+        document.getElementById("quizTime").value;
+
+    localStorage.setItem(
+        "quizDuration",
+        selectedTime
+    );
+
+    localStorage.setItem(
+        "selectedChapter",
+        chapter
+    );
 
     location.reload();
 }
+
 
 /* =========================
    QUIZ ENGINE
@@ -98,29 +166,31 @@ function selectChapter(chapter) {
 
 function initQuiz() {
 
-    let quizData = [...courseData[chapterKey].questions];
+    let quizData =
+        [...courseData[chapterKey].questions];
 
     /* =========================
-       RANDOMIZE QUESTIONS ONLY
+       RANDOMIZE QUESTIONS
     ========================= */
 
-    quizData.sort(() => Math.random() - 0.5);
-
-    localStorage.setItem(
-    "quizData",
-    JSON.stringify(quizData)
-);
+    quizData =
+        quizData.sort(() => Math.random() - 0.5);
 
     let currentQuestion = 0;
 
     let answers =
-        JSON.parse(localStorage.getItem("answers")) || {};
+        JSON.parse(
+            localStorage.getItem("answers")
+        ) || {};
 
     /* =========================
        TIMER
     ========================= */
 
-    let duration = 10;
+    let duration =
+        Number(
+            localStorage.getItem("quizDuration")
+        ) || 10;
 
     let endTime =
         localStorage.getItem("endTime");
@@ -138,40 +208,48 @@ function initQuiz() {
 
     function startTimer() {
 
-        setInterval(() => {
+        const timerInterval =
+            setInterval(() => {
 
-            let remaining =
-                endTime - Date.now();
+                let remaining =
+                    endTime - Date.now();
 
-            if (remaining <= 0) {
+                if (remaining <= 0) {
 
-                alert("⏱️ Time is up!");
+                    clearInterval(timerInterval);
 
-                window.location.href =
-                    "result.html";
+                    alert("⏱️ Time is up!");
 
-                return;
-            }
+                    window.location.href =
+                        "result.html";
 
-            let m =
-                Math.floor(remaining / 60000);
+                    return;
+                }
 
-            let s =
-                Math.floor((remaining % 60000) / 1000);
+                let m =
+                    Math.floor(
+                        remaining / 60000
+                    );
 
-            let timer =
-                document.getElementById("timer");
+                let s =
+                    Math.floor(
+                        (remaining % 60000) / 1000
+                    );
 
-            if (timer) {
+                let timer =
+                    document.getElementById("timer");
 
-                timer.innerHTML =
-                    `⏱️ ${m}:${s < 10 ? "0" : ""}${s}`;
-            }
+                if (timer) {
 
-        }, 1000);
+                    timer.innerHTML =
+                        `⏱️ ${m}:${s < 10 ? "0" : ""}${s}`;
+                }
+
+            }, 1000);
     }
 
     startTimer();
+
 
     /* =========================
        QUESTION PANEL
@@ -179,7 +257,8 @@ function initQuiz() {
 
     function renderQuestionPanel() {
 
-        let html = `<div class="question-panel">`;
+        let html =
+            `<div class="question-panel">`;
 
         for (let i = 0; i < quizData.length; i++) {
 
@@ -198,7 +277,9 @@ function initQuiz() {
                     class="q-btn ${answered} ${active}"
                     data-index="${i}"
                 >
+
                     ${i + 1}
+
                 </button>
             `;
         }
@@ -208,29 +289,46 @@ function initQuiz() {
         return html;
     }
 
+
     /* =========================
        LOAD QUESTION
     ========================= */
 
     function loadQuestion() {
 
-        let q = quizData[currentQuestion];
+        let q =
+            quizData[currentQuestion];
 
         let html = `
+
             <div class="top-bar">
+
                 <div id="timer"></div>
+
             </div>
 
             ${renderQuestionPanel()}
 
             <div class="progress">
+
                 Question ${currentQuestion + 1}
                 of ${quizData.length}
+
             </div>
 
             <div class="question">
+
                 <p>${q.question}</p>
+
+                ${q.image ? `
+                    <img
+                        src="${q.image}"
+                        class="question-image"
+                    >
+                ` : ""}
+
         `;
+
 
         /* =========================
            MCQ QUESTIONS
@@ -247,9 +345,11 @@ function initQuiz() {
                             type="radio"
                             name="answer"
                             value="${key}"
+
                             ${answers[`q${currentQuestion}`] === key
                                 ? "checked"
                                 : ""}
+
                         >
 
                         ${q.options[key]}
@@ -258,6 +358,7 @@ function initQuiz() {
                 `;
             }
         }
+
 
         /* =========================
            WRITTEN QUESTIONS
@@ -277,11 +378,14 @@ function initQuiz() {
 
         html += `</div>`;
 
+
         /* =========================
            NAV BUTTONS
         ========================= */
 
-        html += `<div class="nav-buttons">`;
+        html += `
+            <div class="nav-buttons">
+        `;
 
         if (currentQuestion > 0) {
 
@@ -300,22 +404,27 @@ function initQuiz() {
                 type="button"
                 id="nextBtn"
             >
+
                 ${currentQuestion === quizData.length - 1
                     ? "Submit"
                     : "Next ➡"}
+
             </button>
         `;
 
         html += `</div>`;
 
+
         document.getElementById("quizForm").innerHTML =
             html;
 
+
         /* =========================
-           PANEL BUTTON CLICK
+           QUESTION PANEL CLICK
         ========================= */
 
         document.querySelectorAll(".q-btn")
+
             .forEach(btn => {
 
                 btn.onclick = function () {
@@ -326,6 +435,7 @@ function initQuiz() {
                     loadQuestion();
                 };
             });
+
 
         /* =========================
            NEXT BUTTON
@@ -345,7 +455,9 @@ function initQuiz() {
 
                     if (!selected) {
 
-                        alert("Please select an answer");
+                        alert(
+                            "Please select an answer"
+                        );
 
                         return;
                     }
@@ -353,6 +465,7 @@ function initQuiz() {
                     answers[`q${currentQuestion}`] =
                         selected.value;
                 }
+
 
                 /* WRITTEN */
 
@@ -365,7 +478,9 @@ function initQuiz() {
 
                     if (!text.trim()) {
 
-                        alert("Please write your answer");
+                        alert(
+                            "Please write your answer"
+                        );
 
                         return;
                     }
@@ -381,7 +496,9 @@ function initQuiz() {
 
                 currentQuestion++;
 
-                if (currentQuestion < quizData.length) {
+                if (
+                    currentQuestion < quizData.length
+                ) {
 
                     loadQuestion();
                 }
@@ -392,6 +509,7 @@ function initQuiz() {
                         "result.html";
                 }
             };
+
 
         /* =========================
            PREVIOUS BUTTON

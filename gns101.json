@@ -312,6 +312,7 @@
     "explanation": "Study reading is focused and academic."
   },
 
+ 
   {
     "question": "Good note-taking depends greatly on:",
     "type": "mcq",
@@ -326,6 +327,9 @@
   }
 ]
   },
+
+
+
 
 
 
@@ -349,6 +353,55 @@
 
     "explanation": "The passage defines language as a system of interrelated patterns."
   },
+  {
+    "question": "Language is mainly described as a system of interrelated patterns.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "Impossible"
+    },
+    "answer": "a",
+    "explanation": "The text explains that language consists of connected patterns and structures."
+  },
+   {
+    "question": "What is morphology concerned with?",
+    "type": "mcq",
+    "options": {
+      "a": "Sentence punctuation",
+      "b": "Speech delivery",
+      "c": "Smallest meaningful units of words",
+      "d": "Paragraph arrangement"
+    },
+    "answer": "c",
+    "explanation": "Morphology studies morphemes, the smallest meaningful parts of words."
+  },
+
+   {
+    "question": "Language involves intelligible sounds organized into phonology.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Maybe",
+      "d": "No idea"
+    },
+    "answer": "a",
+    "explanation": "Phonology studies the sound system of language."
+  },
+  {
+    "question": "The word 'boys' contains two morphemes.",
+    "type": "mcq",
+    "options": {
+      "a": "False",
+      "b": "Not sure",
+      "c": "True",
+      "d": "Impossible"
+    },
+    "answer": "c",
+    "explanation": "The word contains 'boy' and the plural marker 's'."
+  },
 
   {
     "question": "Which of the following is the scientific study of language?",
@@ -365,6 +418,112 @@
 
     "explanation": "Linguistics is the scientific study of language."
   },
+   {
+    "question": "English is important globally because it supports:",
+    "type": "mcq",
+    "options": {
+      "a": "Research and trade",
+      "b": "Silence",
+      "c": "Isolation",
+      "d": "Confusion"
+    },
+    "answer": "a",
+    "explanation": "English supports global communication, education and commerce."
+  },
+
+  {
+    "question": "State 4 international functions of English language.",
+    "type": "written",
+    "answerText": "Research, international politics, trade and commerce, global publication.",
+    "explanation": "English is widely used internationally in education and diplomacy."
+  },
+   {
+    "question": "English is widely used as a language of international politics.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Sometimes",
+      "d": "Not sure"
+    },
+    "answer": "a",
+    "explanation": "The United Nations and many global institutions use English officially."
+  },
+  {
+    "question": "List 4 characteristics of language discussed in the text.",
+    "type": "written",
+    "answerText": "Language is systematic, abstract, meaningful, and structured.",
+    "explanation": "The text explains that language has structure, meaning, sound systems, and abstract concepts."
+  },
+
+  {
+    "question": "Explain why language is regarded as abstract.",
+    "type": "written",
+    "answerText": "Language is abstract because it starts as ideas and thoughts in the human mind before being spoken or written.",
+    "explanation": "The text connects abstraction with human thinking and communication."
+  },
+
+  
+  {
+    "question": "English serves as Nigeria's official language.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partly true",
+      "d": "Unknown"
+    },
+    "answer": "a",
+    "explanation": "English is used officially in governance, education, and communication in Nigeria."
+  },
+
+  {
+    "question": "Nigerian English belongs to the ____ Circle of English.",
+    "type": "mcq",
+    "options": {
+      "a": "Inner",
+      "b": "Expanded",
+      "c": "Outer",
+      "d": "Middle"
+    },
+    "answer": "c",
+    "explanation": "Nigerian English is categorized under the Outer Circle."
+  },
+
+
+  {
+    "question": "English is regarded as a major language of international publication.",
+    "type": "mcq",
+    "options": {
+      "a": "False",
+      "b": "True",
+      "c": "Impossible",
+      "d": "Not necessary"
+    },
+    "answer": "b",
+    "explanation": "Most academic journals and publications are written in English."
+  },
+  
+  {
+    "question": "The variety of English used in Nigeria is called ____.",
+    "type": "mcq",
+    "options": {
+      "a": "British English",
+      "b": "American English",
+      "c": "Nigerian English",
+      "d": "Pidgin English"
+    },
+    "answer": "c",
+    "explanation": "Nigeria has developed its own recognized variety called Nigerian English."
+  },
+
+  {
+    "question": "Mention 5 functions of English language in Nigeria.",
+    "type": "written",
+    "answerText": "Education, governance, commerce, research, media communication.",
+    "explanation": "English is important in official, educational, economic and social activities."
+  },
+
 
   {
     "question": "Phonetics is the general study of sounds.",
@@ -754,9 +913,12 @@
 
       },
 
+
+
+
   
  
-  "chapter6": {
+  "chapter5,6 and 7": {
     "title": "Chapter 5,6 and 7:GRAMMAR AND GRAMMAR CONVENTIONS",
       "active": true,
     "questions": [
@@ -785,12 +947,102 @@
     "answer": "c",
     "explanation": "John is the person being talked about."
   },
+  {
+    "question": "Grammar is described as the soul of language.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Impossible",
+      "d": "Optional"
+    },
+    "answer": "a",
+    "explanation": "The Book directly defines grammar as the soul of language."
+  },
+
+  {
+    "question": "Good grammar mainly refers to:",
+    "type": "mcq",
+    "options": {
+      "a": "Elegant usage",
+      "b": "Wrong spelling",
+      "c": "Silence",
+      "d": "Long sentences only"
+    },
+    "answer": "a",
+    "explanation": "Good grammar means acceptable and elegant language use."
+  },
+
+  {
+    "question": "Bad grammar is mainly regarded as:",
+    "type": "mcq",
+    "options": {
+      "a": "A foreign language",
+      "b": "An error in usage",
+      "c": "A dialect",
+      "d": "A sound system"
+    },
+    "answer": "b",
+    "explanation": "The Book says scholars treat bad grammar as usage error."
+  },
+
 
   {
     "question": "Define predicate.",
     "type": "written",
     "answerText": "The predicate is the verb and everything that follows it in a sentence.",
     "explanation": "The predicate tells what the subject does or what happens to it."
+  },
+   {
+    "question": "Which of these is a content word?",
+    "type": "mcq",
+    "options": {
+      "a": "Preposition",
+      "b": "Conjunction",
+      "c": "Verb",
+      "d": "Determiner"
+    },
+    "answer": "c",
+    "explanation": "Verbs carry independent meaning."
+  },
+  {
+
+    "question": "Nouns, verbs, adjectives and adverbs are classified as ____ words.",
+    "type": "mcq",
+    "options": {
+      "a": "Function",
+      "b": "Content",
+      "c": "Grammatical",
+      "d": "Abstract"
+    },
+    "answer": "b",
+    "explanation": "These word classes carry meaning independently."
+  },
+
+  {
+    "question": "Pronouns, conjunctions and prepositions are examples of grammatical words.",
+    "type": "mcq",
+    "options": {
+      "a": "False",
+      "b": "True",
+      "c": "Impossible",
+      "d": "Unknown"
+    },
+    "answer": "b",
+    "explanation": "They mainly perform grammatical functions."
+  },
+
+  {
+    "question": "Which of these is NOT a grammatical word?",
+    "type": "mcq",
+    "options": {
+      "a": "Pronoun",
+      "b": "Conjunction",
+      "c": "Noun",
+      "d": "Preposition"
+    },
+    "answer": "c",
+    "explanation": "A noun is a content word."
   },
 
   {
@@ -806,6 +1058,21 @@
     "explanation": "The predicate contains the verb and everything after it."
   },
 
+   {
+    "question": "Mention 5 grammatical words.",
+    "type": "written",
+    "answerText": "Pronouns, conjunctions, determiners, prepositions and interjections.",
+    "explanation": "These words mainly support sentence structure."
+  },
+
+  {
+    "question": "Give 4 examples of content words.",
+    "type": "written",
+    "answerText": "Nouns, verbs, adjectives and adverbs.",
+    "explanation": "These words can stand alone with meaning."
+  },
+
+
   {
     "question": "A clause must contain:",
     "type": "mcq",
@@ -817,6 +1084,25 @@
     },
     "answer": "b",
     "explanation": "A clause requires both a subject and a verb."
+  },
+   {
+    "question": "Grammaticality refers to the ability to identify acceptable grammar usage.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Rarely",
+      "d": "Not sure"
+    },
+    "answer": "a",
+    "explanation": "Grammaticality deals with correctness and acceptability."
+  },
+
+  {
+    "question": "Explain grammaticality.",
+    "type": "written",
+    "answerText": "Grammaticality is the knowledge of what is acceptable or unacceptable in grammar usage.",
+    "explanation": "It helps identify correct and incorrect language structures."
   },
 
   {

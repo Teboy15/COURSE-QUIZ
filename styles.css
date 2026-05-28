@@ -20,6 +20,25 @@ body {
     color: #333;
 }
 
+.time-select {
+    margin-bottom: 20px;
+}
+
+.time-select label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #1e3c72;
+}
+
+.time-select select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 2px solid #2a5298;
+    font-size: 16px;
+}
+
 /* =========================
    MAIN CONTAINER
 ========================= */
@@ -113,6 +132,17 @@ button:disabled {
 .question p {
     font-size: 18px;
     margin-bottom: 10px;
+}
+
+/* QUESTION IMAGE */
+.question-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: 2px solid #ddd;
 }
 
 /* OPTIONS */
