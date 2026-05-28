@@ -36,7 +36,7 @@ function startQuiz(course) {
 
 if (document.getElementById("quizForm")) {
 
-    fetch(`/${courseKey}.json`)
+    fetch(`Data/${courseKey}.json`)
         .then(res => res.json())
 
         .then(data => {
@@ -320,12 +320,13 @@ function initQuiz() {
 
                 <p>${q.question}</p>
 
-                ${q.image ? `
-                    <img
-                        src="${q.image}"
-                        class="question-image"
-                    >
-                ` : ""}
+               ${q.image ? `
+    <img
+        src="${q.image}"
+        class="question-image"
+        onerror="this.style.display='none'"
+    >
+` : ""}
 
         `;
 
