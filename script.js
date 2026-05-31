@@ -175,6 +175,10 @@ function initQuiz() {
 
     quizData =
         quizData.sort(() => Math.random() - 0.5);
+   localStorage.setItem(
+            "quizData",
+            JSON.stringify(quizData)
+        );
 
     let currentQuestion = 0;
 
