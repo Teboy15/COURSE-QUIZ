@@ -140,16 +140,30 @@ function showChapterOrQuiz() {
 /* =========================
    SELECT CHAPTER
 ========================= */
-
 function selectChapter(chapter) {
 
-    let selectedTime =
-        document.getElementById("quizTime").value;
+    let info = courseData[chapter];
 
-    localStorage.setItem(
-        "quizDuration",
-        selectedTime
-    );
+    document.getElementById("quizForm").innerHTML = `
+        <div class="chapter-info">
+
+            <h2>${info.title}</h2>
+
+            <p>${info.description}</p>
+
+            <p>
+                Total Questions:
+                ${info.questions.length}
+            </p>
+
+            <button onclick="startSelectedQuiz('${chapter}')">
+                Next →
+            </button>
+
+        </div>
+    `;
+}
+function startSelectedQuiz(chapter) {
 
     localStorage.setItem(
         "selectedChapter",
@@ -158,7 +172,6 @@ function selectChapter(chapter) {
 
     location.reload();
 }
-
 
 /* =========================
    QUIZ ENGINE
