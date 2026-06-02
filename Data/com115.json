@@ -1,243 +1,1022 @@
 {
-  "chapter1": {
-    "title": "Chapter 1:Defination and Data Description",
+  "chapter1 and 2": {
+    "title": "Chapter 1 and 2:Introduction to Operating Systems and Linux",
 
     "questions": [
-
-      {
-        "question": "What is Statistics?",
-        "type": "mcq",
-
-        "options": {
-          "a": "The study of stars",
-          "b": "The science of collecting, organizing, analyzing and interpreting data",
-          "c": "The study of government",
-          "d": "The science of computers"
-        },
-
-        "answer": "b",
-
-        "explanation": "Statistics deals with collecting, organizing, presenting, analyzing and interpreting data."
-      }
+  {
+    "question": "What is an Operating System (OS)?",
+    "type": "mcq",
+    "options": {
+      "a": "A hardware device",
+      "b": "A set of programs that manages computer hardware and software",
+      "c": "A programming language",
+      "d": "A database system"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT an operating system?",
+    "type": "mcq",
+    "options": {
+      "a": "Windows",
+      "b": "Linux",
+      "c": "MacOS",
+      "d": "Microsoft Word"
+    },
+    "answer": "d"
+  },
+  {
+    "question": "List the four components of a computer system.",
+    "type": "written",
+    "answerText": "Hardware, Operating System, Application Programs, Users"
+  },
+  {
+    "question": "The bootstrap program is usually stored in ______.",
+    "type": "mcq",
+    "options": {
+      "a": "RAM",
+      "b": "ROM or EEPROM",
+      "c": "Hard Disk",
+      "d": "CPU"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "State one function of an Operating System.",
+    "type": "written",
+    "answerText": "Resource management, scheduling, security, or user interface."
+  },
+  {
+    "question": "What type of operating system processes jobs in groups?",
+    "type": "mcq",
+    "options": {
+      "a": "Real-Time",
+      "b": "Batch",
+      "c": "Distributed",
+      "d": "Network"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Give one example of a Real-Time Operating System application.",
+    "type": "written",
+    "answerText": "Airline Reservation System"
+  },
+  {
+    "question": "Linux is a multi-user operating system.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partly",
+      "d": "Unknown"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What does multi-user mean?",
+    "type": "written",
+    "answerText": "Many users can access the system while the OS differentiates between them."
+  },
+  {
+    "question": "Which part of Linux manages memory and processors?",
+    "type": "mcq",
+    "options": {
+      "a": "Shell",
+      "b": "Kernel",
+      "c": "Compiler",
+      "d": "Utility"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "The kernel remains in memory all the time.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Sometimes",
+      "d": "Unknown"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Mention any four Linux distributions.",
+    "type": "written",
+    "answerText": "Red Hat, SUSE, Slackware, TurboLinux"
+  },
+  {
+    "question": "Who developed UNIX?",
+    "type": "mcq",
+    "options": {
+      "a": "Microsoft",
+      "b": "Bell Labs Team",
+      "c": "IBM",
+      "d": "Apple"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "In what year was UNIX first developed?",
+    "type": "mcq",
+    "options": {
+      "a": "1965",
+      "b": "1969",
+      "c": "1975",
+      "d": "1980"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Who created Linux?",
+    "type": "mcq",
+    "options": {
+      "a": "Bill Gates",
+      "b": "Dennis Ritchie",
+      "c": "Linus Torvalds",
+      "d": "Steve Jobs"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Where did Linus Torvalds study?",
+    "type": "written",
+    "answerText": "University of Helsinki"
+  },
+  {
+    "question": "Linux complies with which standard?",
+    "type": "mcq",
+    "options": {
+      "a": "POSIX",
+      "b": "HTML",
+      "c": "XML",
+      "d": "ISO"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Linux is a full UNIX clone.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partly",
+      "d": "Unknown"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What does GNU stand for?",
+    "type": "mcq",
+    "options": {
+      "a": "Global Network UNIX",
+      "b": "GNU's Not UNIX",
+      "c": "Graphical Network Utility",
+      "d": "General Network Utility"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What license is commonly used by Linux?",
+    "type": "mcq",
+    "options": {
+      "a": "MIT",
+      "b": "GPL",
+      "c": "BSD",
+      "d": "Apache"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "State four advantages of Linux.",
+    "type": "written",
+    "answerText": "Free, Secure, Portable, Scalable"
+  },
+  {
+    "question": "State one disadvantage of Linux.",
+    "type": "written",
+    "answerText": "Too many distributions or difficult for beginners."
+  },
+  {
+    "question": "Which GNU tool is the GNU C Compiler?",
+    "type": "mcq",
+    "options": {
+      "a": "GDB",
+      "b": "GCC",
+      "c": "BASH",
+      "d": "RPM"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Linux is written mainly in which language?",
+    "type": "mcq",
+    "options": {
+      "a": "Java",
+      "b": "Python",
+      "c": "C",
+      "d": "C#"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "What are the two modes of Linux?",
+    "type": "written",
+    "answerText": "Text Mode and Graphical Mode"
+  }
     ]
 },
 
-  "chapter2": {
-    "title": "Data Presentation And Representation ",
-    "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
-
-
-     ]
-      },
- 
   "chapter3": {
-    "title": "Measure Of Central Tendency ",
+    "title": "Chapter 3:User interface",
+
     "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
+  {
+    "question": "What is Bash?",
+    "type": "written",
+    "answerText": "The GNU Shell"
   },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
-
-     ]
-       },
-
- 
+  {
+    "question": "Why is logging in as root discouraged?",
+    "type": "mcq",
+    "options": {
+      "a": "Root is disabled",
+      "b": "For security reasons",
+      "c": "Root cannot execute commands",
+      "d": "Root cannot access files"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Which command changes a user's password?",
+    "type": "mcq",
+    "options": {
+      "a": "pwd",
+      "b": "passwd",
+      "c": "ls",
+      "d": "man"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What does pwd stand for?",
+    "type": "written",
+    "answerText": "Present Working Directory"
+  },
+  {
+    "question": "Which command displays the contents of a directory?",
+    "type": "mcq",
+    "options": {
+      "a": "pwd",
+      "b": "ls",
+      "c": "cat",
+      "d": "man"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Which command displays manual pages?",
+    "type": "mcq",
+    "options": {
+      "a": "help",
+      "b": "man",
+      "c": "info",
+      "d": "ls"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "Differentiate between man and info commands.",
+    "type": "written",
+    "answerText": "man shows manual pages while info provides detailed GNU documentation."
+  },
+  {
+    "question": "Which command displays the current directory?",
+    "type": "mcq",
+    "options": {
+      "a": "pwd",
+      "b": "cd",
+      "c": "ls",
+      "d": "man"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What command is used to change directories?",
+    "type": "mcq",
+    "options": {
+      "a": "pwd",
+      "b": "ls",
+      "c": "cd",
+      "d": "cat"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "Which command displays hidden files?",
+    "type": "mcq",
+    "options": {
+      "a": "ls -a",
+      "b": "pwd",
+      "c": "cd",
+      "d": "man"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What command clears the terminal screen?",
+    "type": "mcq",
+    "options": {
+      "a": "clear",
+      "b": "erase",
+      "c": "wipe",
+      "d": "cls"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Which key is commonly used for filename completion in Bash?",
+    "type": "mcq",
+    "options": {
+      "a": "Enter",
+      "b": "Shift",
+      "c": "Tab",
+      "d": "Esc"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "What does the whoami command display?",
+    "type": "written",
+    "answerText": "The current username."
+  },
+  {
+    "question": "Which command logs a user out of the system?",
+    "type": "mcq",
+    "options": {
+      "a": "quit",
+      "b": "logout",
+      "c": "leave",
+      "d": "exitall"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "The root account has unrestricted privileges.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partly",
+      "d": "Unknown"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What command displays the current date and time?",
+    "type": "mcq",
+    "options": {
+      "a": "clock",
+      "b": "date",
+      "c": "time",
+      "d": "now"
+    },
+    "answer": "b"
+  },
+  {
+    "question": "What does the hostname command display?",
+    "type": "written",
+    "answerText": "The name of the computer system."
+  },
+  {
+    "question": "Which command displays online help for a command?",
+    "type": "mcq",
+    "options": {
+      "a": "man",
+      "b": "ls",
+      "c": "pwd",
+      "d": "rm"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What is the Linux shell?",
+    "type": "written",
+    "answerText": "A command interpreter that provides communication between the user and the operating system."
+  },
+  {
+    "question": "Which shell is the default GNU shell?",
+    "type": "mcq",
+    "options": {
+      "a": "C Shell",
+      "b": "Korn Shell",
+      "c": "Bash",
+      "d": "Tcsh"
+    },
+    "answer": "c"
+  },
+  {
+    "question": "What does ls -l do?",
+    "type": "written",
+    "answerText": "Displays files in long listing format."
+  },
+  {
+    "question": "Which command shows command history?",
+    "type": "mcq",
+    "options": {
+      "a": "history",
+      "b": "record",
+      "c": "log",
+      "d": "recent"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What does Ctrl + R do in Bash?",
+    "type": "written",
+    "answerText": "Searches previously executed commands."
+  },
+  {
+    "question": "Which command displays information about the current user and groups?",
+    "type": "mcq",
+    "options": {
+      "a": "id",
+      "b": "pwd",
+      "c": "ls",
+      "d": "cat"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "What command displays the current username stored in the USER variable?",
+    "type": "written",
+    "answerText": "echo $USER"
+  }
+    ]
+},
   "chapter4": {
-    "title": "Measure Of Dispersion, Variation And Deviation ",
+    "title": "chapter 4:Files and file systems",
     "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
+  {
+    "question": "What command displays information about disk partitions and mount points?",
+    "type": "mcq",
+    "options": {
+      "a": "pwd",
+      "b": "df",
+      "c": "grep",
+      "d": "chmod"
+    },
+    "answer": "b",
+    "explanation": "The df command displays information about partitions, disk usage and mount points."
   },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
+  {
+    "question": "A swap partition is used as an extension of physical memory.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Sometimes",
+      "d": "Not sure"
+    },
+    "answer": "a",
+    "explanation": "Swap partition provides virtual memory by using hard disk space."
+  },
+  {
+    "question": "List the two major partition types in Linux.",
+    "type": "written",
+    "answerText": "Data partition and Swap partition.",
+    "explanation": "Linux mainly uses data partitions and swap partitions."
+  },
+  {
+    "question": "What is the root partition represented by in Linux?",
+    "type": "mcq",
+    "options": {
+      "a": "/root",
+      "b": "/home",
+      "c": "/",
+      "d": "/bin"
+    },
+    "answer": "c",
+    "explanation": "The root partition is represented by a single slash (/)."
+  },
+  {
+    "question": "Why are partitions important in Linux?",
+    "type": "written",
+    "answerText": "For security, robustness, and preventing one partition from affecting the entire system.",
+    "explanation": "Partitioning protects the system from failures and improves organization."
+  },
+  {
+    "question": "Which command is commonly used during installation to create Linux partitions?",
+    "type": "mcq",
+    "options": {
+      "a": "mount",
+      "b": "fdisk",
+      "c": "pwd",
+      "d": "cat"
+    },
+    "answer": "b",
+    "explanation": "fdisk is commonly used for partition creation and management."
+  },
+  {
+    "question": "A mount point is the location where a partition is attached to the file system.",
+    "type": "mcq",
+    "options": {
+      "a": "True",
+      "b": "False",
+      "c": "Partially True",
+      "d": "Unknown"
+    },
+    "answer": "a",
+    "explanation": "Mount points define where storage devices appear in the file system."
+  },
+  {
+    "question": "The Linux file system is usually represented as a ______ structure.",
+    "type": "mcq",
+    "options": {
+      "a": "Network",
+      "b": "Circular",
+      "c": "Tree",
+      "d": "Linear"
+    },
+    "answer": "c",
+    "explanation": "Linux file systems are commonly visualized as a tree structure."
+  },
+  {
+    "question": "What is the topmost directory in Linux called?",
+    "type": "mcq",
+    "options": {
+      "a": "Home",
+      "b": "Root Directory",
+      "c": "Boot Directory",
+      "d": "Kernel Directory"
+    },
+    "answer": "b",
+    "explanation": "The root directory (/) is the top of the Linux file system hierarchy."
+  },
+  {
+    "question": "What command shows the partition containing the current directory?",
+    "type": "mcq",
+    "options": {
+      "a": "df .",
+      "b": "pwd",
+      "c": "cat",
+      "d": "grep"
+    },
+    "answer": "a",
+    "explanation": "df . shows disk information about the current directory's partition."
+  },
+  {
+    "question": "What is an inode?",
+    "type": "written",
+    "answerText": "A data structure that stores information about a file except its name and directory.",
+    "explanation": "Inodes store ownership, permissions, location and timestamps."
+  },
+  {
+    "question": "Which information is NOT stored in an inode?",
+    "type": "mcq",
+    "options": {
+      "a": "Owner",
+      "b": "Permissions",
+      "c": "File Name",
+      "d": "File Location"
+    },
+    "answer": "c",
+    "explanation": "File names are stored separately in directory structures."
+  },
+  {
+    "question": "State four pieces of information stored in an inode.",
+    "type": "written",
+    "answerText": "Owner, permissions, file type, timestamps.",
+    "explanation": "These are key attributes maintained in an inode."
+  },
+  {
+    "question": "Which symbol represents the current directory?",
+    "type": "mcq",
+    "options": {
+      "a": "..",
+      "b": "~",
+      "c": ".",
+      "d": "/"
+    },
+    "answer": "c",
+    "explanation": "A single dot (.) represents the current directory."
+  },
+  {
+    "question": "Which symbol represents the parent directory?",
+    "type": "mcq",
+    "options": {
+      "a": "..",
+      "b": ".",
+      "c": "~",
+      "d": "/"
+    },
+    "answer": "a",
+    "explanation": "Double dots (..) represent the parent directory."
+  },
+  {
+    "question": "What does the command ./configure mean?",
+    "type": "written",
+    "answerText": "Run the configure program located in the current directory.",
+    "explanation": "The dot slash specifies execution from the current location."
+  },
+  {
+    "question": "What is a shell?",
+    "type": "mcq",
+    "options": {
+      "a": "A hardware device",
+      "b": "A command language interpreter",
+      "c": "A database",
+      "d": "A partition"
+    },
+    "answer": "b",
+    "explanation": "A shell allows users to communicate with the operating system."
+  },
+  {
+    "question": "Which shell is the default GNU shell on Linux?",
+    "type": "mcq",
+    "options": {
+      "a": "csh",
+      "b": "ksh",
+      "c": "bash",
+      "d": "tcsh"
+    },
+    "answer": "c",
+    "explanation": "Bash stands for Bourne Again Shell and is Linux's standard shell."
+  },
+  {
+    "question": "List any four Linux shell types.",
+    "type": "written",
+    "answerText": "sh, bash, csh, ksh.",
+    "explanation": "These are common shell types available on Linux."
+  },
+  {
+    "question": "Which command shows the current shell being used?",
+    "type": "mcq",
+    "options": {
+      "a": "echo $SHELL",
+      "b": "pwd",
+      "c": "cat",
+      "d": "id"
+    },
+    "answer": "a",
+    "explanation": "The SHELL environment variable stores the current shell."
+  },
 
+  {
+    "question": "Most Linux configuration files are stored in which directory?",
+    "type": "mcq",
+    "options": {
+      "a": "/bin",
+      "b": "/home",
+      "c": "/etc",
+      "d": "/tmp"
+    },
+    "answer": "c",
+    "explanation": "The /etc directory contains configuration files."
+  },
+  {
+    "question": "Which directory contains device files in Linux?",
+    "type": "mcq",
+    "options": {
+      "a": "/dev",
+      "b": "/etc",
+      "c": "/home",
+      "d": "/bin"
+    },
+    "answer": "a",
+    "explanation": "All devices are represented in the /dev directory."
+  },
+  {
+    "question": "What directory contains log files in Linux?",
+    "type": "mcq",
+    "options": {
+      "a": "/var/log",
+      "b": "/home/log",
+      "c": "/tmp/log",
+      "d": "/etc/log"
+    },
+    "answer": "a",
+    "explanation": "System and application logs are stored in /var/log."
+  },
+  {
+    "question": "Which command removes a single file in Linux?",
+    "type": "mcq",
+    "options": {
+      "a": "delete",
+      "b": "remove",
+      "c": "rm",
+      "d": "rmdir"
+    },
+    "answer": "c",
+    "explanation": "The rm command is used to remove files."
+  },
+
+  {
+    "question": "Which command removes an empty directory?",
+    "type": "mcq",
+    "options": {
+      "a": "rm",
+      "b": "rmdir",
+      "c": "mdir",
+      "d": "erase"
+    },
+    "answer": "b",
+    "explanation": "The rmdir command removes empty directories."
+  },
+
+  {
+    "question": "Why is the rm command considered dangerous?",
+    "type": "written",
+    "answerText": "Because deleted files are usually permanently removed and cannot easily be recovered.",
+    "explanation": "Linux shell does not normally provide a recycle bin."
+  },
+  {
+    "question": "The asterisk (*) wildcard represents ______.",
+    "type": "mcq",
+    "options": {
+      "a": "One character",
+      "b": "Zero or more characters",
+      "c": "Only numbers",
+      "d": "Only letters"
+    },
+    "answer": "b",
+    "explanation": "The * wildcard matches any number of characters."
+  },
+  {
+    "question": "The question mark (?) wildcard represents ______.",
+    "type": "mcq",
+    "options": {
+      "a": "One character",
+      "b": "Any number of characters",
+      "c": "A directory",
+      "d": "A file"
+    },
+    "answer": "a",
+    "explanation": "The ? wildcard matches exactly one character."
+  },
+  {
+    "question": "Which command helps locate executable programs in the PATH?",
+    "type": "mcq",
+    "options": {
+      "a": "find",
+      "b": "which",
+      "c": "grep",
+      "d": "pwd"
+    },
+    "answer": "b",
+    "explanation": "The which command identifies the location of executable programs."
+  },
+  {
+    "question": "What is the primary purpose of the find command?",
+    "type": "written",
+    "answerText": "To search for files and directories based on specified criteria.",
+    "explanation": "find can search by name, size, date, and other attributes."
+  },
+  {
+    "question": "What is one disadvantage of the locate command?",
+    "type": "written",
+    "answerText": "Its database is updated periodically, so newly created files may not appear immediately.",
+    "explanation": "locate relies on an indexed database rather than real-time searching."
+  },
+  {
+    "question": "Which command is used for filtering text and searching patterns?",
+    "type": "mcq",
+    "options": {
+      "a": "locate",
+      "b": "grep",
+      "c": "chmod",
+      "d": "tail"
+    },
+    "answer": "b",
+    "explanation": "grep searches text for matching patterns."
+  },
+  {
+    "question": "What does grep stand for?",
+    "type": "written",
+    "answerText": "Global Regular Expression Print.",
+    "explanation": "grep is a powerful text searching utility."
+  },
+  {
+    "question": "Which character is used as an escape character in Bash?",
+    "type": "mcq",
+    "options": {
+      "a": "/",
+      "b": "*",
+      "c": "\\",
+      "d": "#"
+    },
+    "answer": "c",
+    "explanation": "The backslash removes the special meaning of characters."
+  },
+  {
+    "question": "Which command is known as the GNU version of more?",
+    "type": "mcq",
+    "options": {
+      "a": "cat",
+      "b": "head",
+      "c": "less",
+      "d": "tail"
+    },
+    "answer": "c",
+    "explanation": "less provides enhanced viewing features compared to more."
+  },
+  {
+    "question": "Which command displays the first lines of a file?",
+    "type": "mcq",
+    "options": {
+      "a": "tail",
+      "b": "head",
+      "c": "cat",
+      "d": "grep"
+    },
+    "answer": "b",
+    "explanation": "head displays the beginning of a file."
+  },
+  {
+    "question": "Which command continuously monitors changes to a file?",
+    "type": "mcq",
+    "options": {
+      "a": "head -f",
+      "b": "cat -f",
+      "c": "tail -f",
+      "d": "grep -f"
+    },
+    "answer": "c",
+    "explanation": "tail -f is commonly used to monitor log files."
+  },
+  {
+    "question": "Differentiate between a hard link and a symbolic link.",
+    "type": "written",
+    "answerText": "A hard link points directly to the inode while a symbolic link points to the file path.",
+    "explanation": "Hard links share the same inode, while symbolic links are separate pointer files."
+  },
+  {
+    "question": "Which command creates a symbolic link?",
+    "type": "mcq",
+    "options": {
+      "a": "ln -s",
+      "b": "link -s",
+      "c": "mklink",
+      "d": "cp -s"
+    },
+    "answer": "a",
+    "explanation": "The ln -s command creates symbolic (soft) links."
+  },
+  {
+    "question": "Which command creates a symbolic link?",
+    "type": "mcq",
+    "options": {
+      "a": "ln -s",
+      "b": "link -s",
+      "c": "li -s",
+      "d": "cp -s"
+    },
+    "answer": "a",
+    "explanation": "The ln -s command creates symbolic (soft) links."
+  },
+  {
+    "question": "What directory commonly contains website files on Linux servers?",
+    "type": "written",
+    "answerText": "/var/www",
+    "explanation": "Web pages, scripts and images are usually stored in /var/www."
+  },
+  {
+    "question": "What is the default file manager in GNOME?",
+    "type": "mcq",
+    "options": {
+      "a": "Konqueror",
+      "b": "Nautilus",
+      "c": "Midnight Commander",
+      "d": "Explorer"
+    },
+    "answer": "b",
+    "explanation": "Nautilus is GNOME's default file manager."
+  },
+  {
+    "question": "A user wants to find all files named 'project.txt' in the /home directory and its subdirectories. Which command should be used?",
+    "type": "mcq",
+    "options": {
+      "a": "grep project.txt",
+      "b": "find /home -name project.txt",
+      "c": "locate /home",
+      "d": "which project.txt"
+    },
+    "answer": "b",
+    "explanation": "The find command searches directories and subdirectories using specified criteria."
+  },
+  {
+    "question": "A student wants to quickly search for a file that was created several days ago. Which command will usually return results faster?",
+    "type": "mcq",
+    "options": {
+      "a": "find",
+      "b": "grep",
+      "c": "locate",
+      "d": "cat"
+    },
+    "answer": "c",
+    "explanation": "locate uses a database and is generally faster than find."
+  },
+  {
+    "question": "A user receives a 'Permission Denied' error while trying to run a script. Which command is most likely needed?",
+    "type": "written",
+    "answerText": "chmod",
+    "explanation": "The script may not have execute permission and chmod can grant it."
+  },
+  {
+    "question": "A system administrator wants to monitor new entries being added continuously to a log file. Which command should be used?",
+    "type": "mcq",
+    "options": {
+      "a": "head -f",
+      "b": "grep -f",
+      "c": "tail -f",
+      "d": "cat -f"
+    },
+    "answer": "c",
+    "explanation": "tail -f continuously displays updates to a file."
+  },
+
+  {
+    "question": "A lecturer asks you to create a shortcut to a file located on another partition. What type of link should you create?",
+    "type": "written",
+    "answerText": "Symbolic link (soft link).",
+    "explanation": "Symbolic links can span across different partitions."
+  },
+  {
+    "question": "A user deletes the original file that a symbolic link points to. What happens to the symbolic link?",
+    "type": "mcq",
+    "options": {
+      "a": "Nothing happens",
+      "b": "It automatically recreates the file",
+      "c": "The link becomes useless",
+      "d": "The link becomes a hard link"
+    },
+    "answer": "c",
+    "explanation": "A symbolic link depends on the target file path."
+  },
+  {
+    "question": "A file has permissions rwxr-xr-x. Who can modify the file?",
+    "type": "written",
+    "answerText": "Only the file owner.",
+    "explanation": "The owner has write permission while group and others only have read and execute permissions."
+  },
+  {
+    "question": "A student wants to search for the word 'Linux' inside a text document. Which command should be used?",
+    "type": "mcq",
+    "options": {
+      "a": "find",
+      "b": "grep",
+      "c": "locate",
+      "d": "chmod"
+    },
+    "answer": "b",
+    "explanation": "grep searches for patterns inside files."
+  }
      ]
       },
 
  
   "chapter5": {
-    "title": "Introduction To Probabilty ",
+    "title": " ",
+    "active":false,
     "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
 
      ]
       },
 
  
   "chapter6": {
-    "title": "Probability Functions Of Random Variable ",
+    "title": " ",
+    "active":false,
     "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
 
      ]
       },
 
  
   "chapter7": {
-    "title": "Numbers And Set Theory ",
+    "title": " ",
+    "active":false,
     "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
 
      ]
       },
 
  
   "chapter8": {
-    "title": "Survey And Sampling Theory",
+    "title": "",
+    "active":false,
     "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
+
 
      ]
       },
 
  
   "chapter9": {
-    "title": "Non Parametric Statistics ",
+    "title": " ",
+    "active":false,
     "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
 
      ]
-      },
-
- 
-  "chapter10": {
-    "title": "Correlation Analysis ",
-    "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
-
-     ]
-      },
-
- 
-  "chapter11": {
-    "title": "Regression Analysis ",
-    "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
-
-     ]
-      },
-
- 
-  "chapter12": {
-    "title": "Time series",
-    "questions": [
-     {
-  "question": "What does ICT stand for?",
-  "type": "mcq",
-  "options": {
-    "a": "Information Communication Technology",
-    "b": "International Computer Technology",
-    "c": "Integrated Communication Theory",
-    "d": "Internet Control Technology"
-  },
-  "answer": "a",
-  "explanation": "ICT means Information Communication Technology."
-    }
-
-     ]
-     }
-}
+      }
+         }
