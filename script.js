@@ -21,7 +21,8 @@ function startQuiz(course) {
         "selectedCourse",
         course
     );
-
+localStorage.removeItem("currentQuestion");
+localStorage.removeItem("quizData");
     localStorage.removeItem("selectedChapter");
     localStorage.removeItem("answers");
     localStorage.removeItem("endTime");
@@ -130,6 +131,17 @@ function showChapterOrQuiz() {
         document.getElementById("quizForm").innerHTML =
             html;
 
+        // Add event listener to quizTime select to update quizDuration and reset endTime
+        const quizTimeSelect = document.getElementById("quizTime");
+        if (quizTimeSelect) {
+            // Set initial value in localStorage
+            localStorage.setItem("quizDuration", quizTimeSelect.value);
+            quizTimeSelect.addEventListener("change", function () {
+                localStorage.setItem("quizDuration", this.value);
+                localStorage.removeItem("endTime");
+            });
+        }
+
         return;
     }
 
@@ -179,21 +191,34 @@ function startSelectedQuiz(chapter) {
 
 function initQuiz() {
 
-    let quizData =
-        [...courseData[chapterKey].questions];
+   let quizData;
 
-    /* =========================
-       RANDOMIZE QUESTIONS
-    ========================= */
+const savedQuiz =
+    localStorage.getItem("quizData");
+
+if (savedQuiz) {
 
     quizData =
-        quizData.sort(() => Math.random() - 0.5);
-        localStorage.setItem(
-            "quizData",
-            JSON.stringify(quizData)
-        );
+        JSON.parse(savedQuiz);
 
-    let currentQuestion = 0;
+} else {
+
+    quizData =
+        [...courseData[chapterKey].questions];
+
+    quizData.sort(
+        () => Math.random() - 0.5
+    );
+
+    localStorage.setItem(
+        "quizData",
+        JSON.stringify(quizData)
+    );
+}
+   let currentQuestion =
+    Number(
+        localStorage.getItem("currentQuestion")
+    ) || 0;
 
     let answers =
         JSON.parse(
@@ -205,24 +230,41 @@ function initQuiz() {
     ========================= */
 
     let duration =
-        Number(
-            localStorage.getItem("quizDuration")
-        ) || 10;
+    Number(
+        localStorage.getItem("quizDuration")
+    ) || 10;
 
-    let endTime =
-        localStorage.getItem("endTime");
+let endTime =
+    localStorage.getItem("endTime");
 
-    if (!endTime) {
+history.pushState(
+    null,
+    null,
+    location.href
+);
 
-        endTime =
-            Date.now() + duration * 60000;
+window.onpopstate = function () {
+    history.go(1);
+};
 
-        localStorage.setItem(
-            "endTime",
-            endTime
-        );
-    }
+window.onbeforeunload = function () {
+    return "Quiz in progress";
+};
 
+if (!endTime) {
+
+    endTime =
+        Date.now() + duration * 60000;
+
+    localStorage.setItem(
+        "endTime",
+        endTime
+    );
+}
+
+window.onbeforeunload = function () {
+    return "Your quiz is still in progress.";
+};
     function startTimer() {
 
         const timerInterval =
@@ -232,7 +274,7 @@ function initQuiz() {
                     endTime - Date.now();
 
                 if (remaining <= 0) {
-
+window.onbeforeunload = null;
                     clearInterval(timerInterval);
 
                     alert("⏱️ Time is up!");
@@ -522,7 +564,7 @@ function initQuiz() {
                 }
 
                 else {
-
+window.onbeforeunload = null;
                     window.location.href =
                         "result.html";
                 }
