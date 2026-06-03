@@ -1,0 +1,2061 @@
+{
+  "chapter1": {
+    "title": "Chapter 1: Constitution",
+    "questions": [
+    
+{
+"question":"Who defined a constitution as a set of principles governing the distribution of powers and rights of the governed?",
+"type":"mcq",
+"options":{
+"a":"A.V. Dicey",
+"b":"C.F. Tung",
+"c":"Lord Lugard",
+"d":"Austin Ranny"
+},
+"answer":"b",
+"explanation":"C.F. Tung defined a constitution as a set of principles governing the distribution of powers and rights."
+},
+
+{
+"question":"A constitution can exist as both written and unwritten rules.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly True",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"A constitution includes both written laws and unwritten conventions."
+},
+
+{
+"question":"List any four sources of a constitution.",
+"type":"written",
+"answerText":"Written constitution document, judicial decisions, customs and conventions, historical documents.",
+"explanation":"These are recognized sources from which constitutions originate."
+},
+
+{
+"question":"Which of the following is NOT a source of constitution?",
+"type":"mcq",
+"options":{
+"a":"Judicial decisions",
+"b":"Organic laws",
+"c":"Football rules",
+"d":"Historical documents"
+},
+"answer":"c",
+"explanation":"Football rules are not a constitutional source."
+},
+
+{
+"question":"The Supreme Court contributes to constitutional development through ______.",
+"type":"mcq",
+"options":{
+"a":"Tax collection",
+"b":"Judicial decisions",
+"c":"Military service",
+"d":"Election campaigns"
+},
+"answer":"b",
+"explanation":"Judicial decisions help interpret constitutional provisions."
+},
+
+{
+"question":"State three roles of a constitution.",
+"type":"written",
+"answerText":"Protection of rights, allocation of powers, provision of stability in government.",
+"explanation":"These are major functions performed by constitutions."
+},
+
+{
+"question":"A constitution protects citizens against abuse of power.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Sometimes",
+"d":"Never"
+},
+"answer":"a",
+"explanation":"Constitutions provide checks against misuse of power."
+},
+
+{
+"question":"Which organ of government is NOT normally defined by a constitution?",
+"type":"mcq",
+"options":{
+"a":"Executive",
+"b":"Judiciary",
+"c":"Legislature",
+"d":"Football Association"
+},
+"answer":"d",
+"explanation":"The constitution defines government organs, not sports organizations."
+},
+
+{
+"question":"What type of constitution is contained in a single written document?",
+"type":"mcq",
+"options":{
+"a":"Unwritten",
+"b":"Flexible",
+"c":"Written",
+"d":"Confederal"
+},
+"answer":"c",
+"explanation":"A written constitution is documented in written form."
+},
+
+{
+"question":"Mention two countries with written constitutions.",
+"type":"written",
+"answerText":"Nigeria and Ghana.",
+"explanation":"Both countries operate written constitutions."
+},
+
+{
+"question":"One reason for adopting a written constitution is to protect citizens' rights.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Protection of rights is a major reason for adopting written constitutions."
+},
+
+{
+"question":"Which is an advantage of a written constitution?",
+"type":"mcq",
+"options":{
+"a":"Easy dictatorship",
+"b":"Protection of minority interests",
+"c":"No rights protection",
+"d":"No laws"
+},
+"answer":"b",
+"explanation":"Written constitutions protect minorities and special interests."
+},
+
+{
+"question":"State two disadvantages of a written constitution.",
+"type":"written",
+"answerText":"Difficulty in amendment and delays during emergencies.",
+"explanation":"These are common criticisms of written constitutions."
+},
+
+{
+"question":"Which country is a classic example of an unwritten constitution?",
+"type":"mcq",
+"options":{
+"a":"Nigeria",
+"b":"United Kingdom",
+"c":"Ghana",
+"d":"Canada"
+},
+"answer":"b",
+"explanation":"The United Kingdom operates an unwritten constitution."
+},
+
+{
+"question":"An unwritten constitution develops from customs and conventions.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Customs and conventions form part of an unwritten constitution."
+},
+
+{
+"question":"Mention three advantages of an unwritten constitution.",
+"type":"written",
+"answerText":"Flexibility, adaptability to change, accommodation of special interests.",
+"explanation":"These make unwritten constitutions responsive."
+},
+
+{
+"question":"Which of the following is a disadvantage of an unwritten constitution?",
+"type":"mcq",
+"options":{
+"a":"Flexibility",
+"b":"Adaptability",
+"c":"Potential for dictatorship",
+"d":"Quick decisions"
+},
+"answer":"c",
+"explanation":"Powerful leaders may manipulate an unwritten constitution."
+},
+
+{
+"question":"A rigid constitution requires a special procedure for amendment.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Sometimes",
+"d":"Not sure"
+},
+"answer":"a",
+"explanation":"Rigid constitutions require special amendment procedures."
+},
+
+{
+"question":"Mention two countries with rigid constitutions.",
+"type":"written",
+"answerText":"Nigeria and United States.",
+"explanation":"Both have rigid constitutional systems."
+},
+
+{
+"question":"Which is NOT a merit of a rigid constitution?",
+"type":"mcq",
+"options":{
+"a":"Stability",
+"b":"Protection of rights",
+"c":"Easy amendment",
+"d":"Separation of powers"
+},
+"answer":"c",
+"explanation":"Rigid constitutions are difficult to amend."
+},
+
+{
+"question":"A flexible constitution can be amended through ordinary legislative procedures.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Ordinary law-making procedures can amend a flexible constitution."
+},
+
+{
+"question":"State two merits of a flexible constitution.",
+"type":"written",
+"answerText":"Quick decision-making and adaptability to changing circumstances.",
+"explanation":"Flexibility allows prompt reforms."
+},
+
+{
+"question":"Which country operates a flexible constitution?",
+"type":"mcq",
+"options":{
+"a":"Nigeria",
+"b":"Australia",
+"c":"Britain",
+"d":"Canada"
+},
+"answer":"c",
+"explanation":"Britain is a major example of a flexible constitution."
+},
+
+{
+"question":"In a unitary constitution power is concentrated at the ______ level.",
+"type":"mcq",
+"options":{
+"a":"Village",
+"b":"Regional",
+"c":"National",
+"d":"Family"
+},
+"answer":"c",
+"explanation":"A unitary constitution centralizes power."
+},
+
+{
+"question":"Mention two merits of a unitary constitution.",
+"type":"written",
+"answerText":"Administrative efficiency and uniformity of laws.",
+"explanation":"These are major advantages of a unitary system."
+},
+
+{
+"question":"Which is a demerit of a unitary constitution?",
+"type":"mcq",
+"options":{
+"a":"Regional autonomy",
+"b":"Administrative efficiency",
+"c":"Lack of regional autonomy",
+"d":"Uniformity"
+},
+"answer":"c",
+"explanation":"Regional governments may have little independence."
+},
+
+{
+"question":"A federal constitution divides powers between central and regional governments.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Power sharing is the foundation of federalism."
+},
+
+{
+"question":"State three merits of a federal constitution.",
+"type":"written",
+"answerText":"Distribution of powers, regional autonomy, prevention of authoritarianism.",
+"explanation":"Federalism balances authority among levels of government."
+},
+
+{
+"question":"Which is a demerit of a federal constitution?",
+"type":"mcq",
+"options":{
+"a":"Administrative complexity",
+"b":"Regional autonomy",
+"c":"Checks and balances",
+"d":"Flexibility"
+},
+"answer":"a",
+"explanation":"Federal systems can be administratively complex."
+},
+
+{
+"question":"A confederal constitution gives greater powers to member states than the central authority.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Sometimes",
+"d":"Never"
+},
+"answer":"a",
+"explanation":"Member states retain most powers in a confederation."
+}
+   ]
+},
+
+
+
+
+
+
+
+  "chapter2": {
+    "title": "Chapter 2:Early Constitutions Development in Nigeria",
+    "questions":
+[
+{
+"question":"The Clifford Constitution was introduced in which year?",
+"type":"mcq",
+"options":{
+"a":"1914",
+"b":"1922",
+"c":"1946",
+"d":"1951"
+},
+"answer":"b",
+"explanation":"The Clifford Constitution was introduced in 1922."
+},
+
+{
+"question":"Who introduced the Clifford Constitution?",
+"type":"mcq",
+"options":{
+"a":"Sir Arthur Richards",
+"b":"Lord Lugard",
+"c":"Sir Hugh Clifford",
+"d":"John Macpherson"
+},
+"answer":"c",
+"explanation":"The constitution was introduced by Sir Hugh Clifford."
+},
+
+{
+"question":"Mention two achievements of the Clifford Constitution.",
+"type":"written",
+"answerText":"Introduction of elective principle and increased political participation.",
+"explanation":"The constitution allowed Nigerians to elect representatives for the first time."
+},
+
+{
+"question":"The Clifford Constitution introduced the elective principle into Nigerian politics.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"It was the first constitution to introduce elective representation."
+},
+
+{
+"question":"Which cities could elect representatives under the Clifford Constitution?",
+"type":"mcq",
+"options":{
+"a":"Kano and Kaduna",
+"b":"Lagos and Calabar",
+"c":"Ibadan and Enugu",
+"d":"Abeokuta and Jos"
+},
+"answer":"b",
+"explanation":"Only Lagos and Calabar participated in elections."
+},
+
+{
+"question":"State two weaknesses of the Clifford Constitution.",
+"type":"written",
+"answerText":"Northern Nigeria was excluded and Nigerians were excluded from the Executive Council.",
+"explanation":"These limitations reduced Nigerian participation."
+},
+
+{
+"question":"The Richards Constitution was introduced in ______.",
+"type":"mcq",
+"options":{
+"a":"1922",
+"b":"1946",
+"c":"1951",
+"d":"1954"
+},
+"answer":"b",
+"explanation":"The Richards Constitution came into effect in 1946."
+},
+
+{
+"question":"Who introduced the Richards Constitution?",
+"type":"mcq",
+"options":{
+"a":"Sir Arthur Richards",
+"b":"John Macpherson",
+"c":"Lord Lugard",
+"d":"Hugh Clifford"
+},
+"answer":"a",
+"explanation":"It was introduced by Sir Arthur Richards."
+},
+
+{
+"question":"List the objectives of the Richards Constitution.",
+"type":"written",
+"answerText":"Promote unity, increase Nigerian participation, and create a constitutional framework for all parts of Nigeria.",
+"explanation":"These were the major objectives of the constitution."
+},
+
+{
+"question":"The Richards Constitution laid the foundation for federalism.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Partly"
+},
+"answer":"a",
+"explanation":"It introduced regional representation and federal principles."
+},
+
+{
+"question":"Which of the following was an achievement of the Richards Constitution?",
+"type":"mcq",
+"options":{
+"a":"Presidential system",
+"b":"Federalism foundation",
+"c":"Republican government",
+"d":"Military rule"
+},
+"answer":"b",
+"explanation":"The constitution laid the foundation for federalism."
+},
+
+{
+"question":"Mention two weaknesses of the Richards Constitution.",
+"type":"written",
+"answerText":"Limited Nigerian participation and retention of a white-dominated Executive Council.",
+"explanation":"Nigerians had little influence in governance."
+},
+
+{
+"question":"The Macpherson Constitution was introduced in ______.",
+"type":"mcq",
+"options":{
+"a":"1946",
+"b":"1951",
+"c":"1954",
+"d":"1960"
+},
+"answer":"b",
+"explanation":"The Macpherson Constitution came into effect in 1951."
+},
+
+{
+"question":"Who introduced the Macpherson Constitution?",
+"type":"mcq",
+"options":{
+"a":"Sir Arthur Richards",
+"b":"John Macpherson",
+"c":"Lord Lugard",
+"d":"Hugh Clifford"
+},
+"answer":"b",
+"explanation":"John Macpherson introduced the constitution."
+},
+
+{
+"question":"How many representative members were elected through Regional Houses under the Macpherson Constitution?",
+"type":"mcq",
+"options":{
+"a":"100",
+"b":"120",
+"c":"136",
+"d":"150"
+},
+"answer":"c",
+"explanation":"136 representative members were elected."
+},
+
+{
+"question":"Mention two achievements of the Macpherson Constitution.",
+"type":"written",
+"answerText":"Increased regional powers and introduced elected majorities to the central legislature.",
+"explanation":"These reforms improved Nigerian participation."
+},
+
+{
+"question":"The Macpherson Constitution encouraged federalism.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"It divided powers between the center and regions."
+},
+
+{
+"question":"Which of the following was a weakness of the Macpherson Constitution?",
+"type":"mcq",
+"options":{
+"a":"Regional autonomy",
+"b":"Lack of Prime Minister provision",
+"c":"Federalism",
+"d":"Regional assemblies"
+},
+"answer":"b",
+"explanation":"The constitution lacked provisions for Prime Minister and Premier."
+},
+
+{
+"question":"State two weaknesses of the Macpherson Constitution.",
+"type":"written",
+"answerText":"Too much power to the Governor and ministers lacked collective responsibility.",
+"explanation":"These reduced effective self-government."
+},
+
+{
+"question":"The Lyttelton Constitution emerged from conferences held in ______ and ______.",
+"type":"mcq",
+"options":{
+"a":"London and Lagos",
+"b":"Kano and Kaduna",
+"c":"Ibadan and London",
+"d":"Enugu and Lagos"
+},
+"answer":"a",
+"explanation":"The constitution emerged from London and Lagos conferences."
+},
+
+{
+"question":"The Lyttelton Constitution was introduced in ______.",
+"type":"mcq",
+"options":{
+"a":"1951",
+"b":"1954",
+"c":"1960",
+"d":"1963"
+},
+"answer":"b",
+"explanation":"The Lyttelton Constitution came into effect in 1954."
+},
+
+{
+"question":"Mention two achievements of the Lyttelton Constitution.",
+"type":"written",
+"answerText":"Introduction of regional premiers and regionalization of civil service.",
+"explanation":"The constitution strengthened regional government."
+},
+
+{
+"question":"Which constitution introduced regional premiers?",
+"type":"mcq",
+"options":{
+"a":"Clifford",
+"b":"Richards",
+"c":"Macpherson",
+"d":"Lyttelton"
+},
+"answer":"d",
+"explanation":"Regional premiers were introduced under the Lyttelton Constitution."
+},
+
+{
+"question":"A weakness of the Lyttelton Constitution was the absence of ______.",
+"type":"mcq",
+"options":{
+"a":"Governor",
+"b":"Legislature",
+"c":"Prime Minister",
+"d":"Civil Service"
+},
+"answer":"c",
+"explanation":"There was no provision for the office of Prime Minister."
+},
+
+{
+"question":"State two weaknesses of the Lyttelton Constitution.",
+"type":"written",
+"answerText":"No Prime Minister and no uniform electoral commission.",
+"explanation":"These were major criticisms."
+},
+
+{
+"question":"Nigeria gained independence in ______.",
+"type":"mcq",
+"options":{
+"a":"1954",
+"b":"1958",
+"c":"1960",
+"d":"1963"
+},
+"answer":"c",
+"explanation":"Nigeria became independent on October 1, 1960."
+},
+
+{
+"question":"The Independence Constitution provided for fundamental human rights.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Fundamental rights were included in the constitution."
+},
+
+{
+"question":"Mention two features of the Independence Constitution.",
+"type":"written",
+"answerText":"Federal government structure and division of powers between federal and regional governments.",
+"explanation":"These were important features of the 1960 Constitution."
+},
+
+{
+"question":"The Republican Constitution was introduced in ______.",
+"type":"mcq",
+"options":{
+"a":"1960",
+"b":"1963",
+"c":"1979",
+"d":"1989"
+},
+"answer":"b",
+"explanation":"The Republican Constitution came into effect in 1963."
+},
+
+{
+"question":"Under the Republican Constitution, who replaced the Governor-General?",
+"type":"mcq",
+"options":{
+"a":"Prime Minister",
+"b":"Speaker",
+"c":"President",
+"d":"Chief Justice"
+},
+"answer":"c",
+"explanation":"The President became the Head of State."
+},
+
+{
+"question":"Mention two significance of the Republican Constitution.",
+"type":"written",
+"answerText":"First constitution written by Nigerians and guaranteed fundamental rights.",
+"explanation":"It ended colonial constitutional control."
+}
+]
+
+},
+
+
+  "chapter3": {
+    "title": "Chapter 3: Rule of Law",
+    "questions":[
+{
+"question":"Who propounded the Rule of Law in 1885?",
+"type":"mcq",
+"options":{
+"a":"John Locke",
+"b":"A.V. Dicey",
+"c":"Montesquieu",
+"d":"Thomas Hobbes"
+},
+"answer":"b",
+"explanation":"A.V. Dicey propounded the concept of Rule of Law in 1885."
+},
+
+{
+"question":"The Rule of Law emphasizes the supremacy of ______.",
+"type":"mcq",
+"options":{
+"a":"Government",
+"b":"Military",
+"c":"Law",
+"d":"President"
+},
+"answer":"c",
+"explanation":"The Rule of Law stresses that law is supreme over everyone."
+},
+
+{
+"question":"Define the Rule of Law.",
+"type":"written",
+"answerText":"The principle that everyone, including rulers and government officials, is subject to the law.",
+"explanation":"No person is above the law in a society governed by the Rule of Law."
+},
+
+{
+"question":"The government should rule according to the constitution and not personal whims.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Rule of Law requires government actions to conform to constitutional provisions."
+},
+
+{
+"question":"Which of the following is NOT a principle of the Rule of Law?",
+"type":"mcq",
+"options":{
+"a":"Supremacy of Law",
+"b":"Equality before the Law",
+"c":"Individual Rights",
+"d":"Military Supremacy"
+},
+"answer":"d",
+"explanation":"Military supremacy is contrary to the Rule of Law."
+},
+
+{
+"question":"List the four major principles of the Rule of Law.",
+"type":"written",
+"answerText":"Supremacy of Law, Equality before the Law, Individual Rights, and Impartiality before the Law.",
+"explanation":"These are the key principles identified in the chapter."
+},
+
+{
+"question":"The law must be supreme over everyone in the country.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"This is the principle of supremacy of law."
+},
+
+{
+"question":"Which principle states that rich and poor are treated equally before the law?",
+"type":"mcq",
+"options":{
+"a":"Supremacy of Law",
+"b":"Equality before the Law",
+"c":"Federalism",
+"d":"Democracy"
+},
+"answer":"b",
+"explanation":"The law applies equally to all citizens."
+},
+
+{
+"question":"Explain Equality before the Law.",
+"type":"written",
+"answerText":"The law treats everyone equally regardless of status, wealth, age, or position.",
+"explanation":"No one receives special treatment because of social status."
+},
+
+{
+"question":"A lecturer and a student committing the same offence should receive the same punishment.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Maybe",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Equality before the law requires equal treatment."
+},
+
+{
+"question":"Which principle protects citizens' freedoms and liberties?",
+"type":"mcq",
+"options":{
+"a":"Individual Rights",
+"b":"Federalism",
+"c":"Delegated Legislation",
+"d":"Confederation"
+},
+"answer":"a",
+"explanation":"Individual rights ensure citizens enjoy their freedoms."
+},
+
+{
+"question":"Mention four individual rights protected by law.",
+"type":"written",
+"answerText":"Right to life, education, property, and voting.",
+"explanation":"The law protects these and other fundamental rights."
+},
+
+{
+"question":"Every person has the right to life under the Rule of Law.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"The protection of life is a fundamental right."
+},
+
+{
+"question":"Which principle ensures fairness without favoritism?",
+"type":"mcq",
+"options":{
+"a":"Impartiality before the Law",
+"b":"Military Rule",
+"c":"Federalism",
+"d":"Sovereignty"
+},
+"answer":"a",
+"explanation":"Impartiality means fairness and absence of discrimination."
+},
+
+{
+"question":"Define Impartiality before the Law.",
+"type":"written",
+"answerText":"The equal and fair application of law without bias, discrimination, or favoritism.",
+"explanation":"Justice should be based on law and evidence."
+},
+
+{
+"question":"An independent judiciary is necessary for impartiality before the law.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Judges must be free from political interference."
+},
+
+{
+"question":"Which of the following is a limitation to the Rule of Law?",
+"type":"mcq",
+"options":{
+"a":"Diplomatic Immunity",
+"b":"Equality before the Law",
+"c":"Fundamental Rights",
+"d":"Judicial Independence"
+},
+"answer":"a",
+"explanation":"Diplomatic immunity is an exception to the Rule of Law."
+},
+
+{
+"question":"List five limitations to the Rule of Law.",
+"type":"written",
+"answerText":"Delegated legislation, diplomatic immunity, administrative tribunals, special privileges, and state of emergency.",
+"explanation":"These reduce the full application of the Rule of Law."
+},
+
+{
+"question":"Delegated legislation may lead to abuse of power by government officials.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Officials may misuse discretionary powers."
+},
+
+{
+"question":"Diplomatic immunity means diplomats are ______ in host countries.",
+"type":"mcq",
+"options":{
+"a":"Above certain laws",
+"b":"Judges",
+"c":"Legislators",
+"d":"Citizens"
+},
+"answer":"a",
+"explanation":"Diplomats generally cannot be prosecuted in host countries."
+},
+
+{
+"question":"Explain diplomatic immunity.",
+"type":"written",
+"answerText":"The protection given to diplomats from prosecution in host countries.",
+"explanation":"Diplomats may be repatriated instead of prosecuted."
+},
+
+{
+"question":"Administrative tribunals often use procedures different from ordinary courts.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"This is why they are seen as exceptions to the Rule of Law."
+},
+
+{
+"question":"Which group may enjoy special privileges under the law?",
+"type":"mcq",
+"options":{
+"a":"President",
+"b":"Vice President",
+"c":"Governors",
+"d":"All of the above"
+},
+"answer":"d",
+"explanation":"Certain high-ranking officials enjoy constitutional immunity."
+},
+
+{
+"question":"State two effects of a state of emergency on citizens' rights.",
+"type":"written",
+"answerText":"Restriction of movement and limitation of certain freedoms.",
+"explanation":"Governments may suspend some rights during emergencies."
+},
+
+{
+"question":"War may result in the suspension of some fundamental rights.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Emergency situations may require temporary restrictions."
+},
+
+{
+"question":"Poverty and illiteracy can limit citizens' ability to enforce their rights.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Many people lack the knowledge or resources to seek justice."
+},
+
+{
+"question":"How does illiteracy affect the Rule of Law?",
+"type":"written",
+"answerText":"People may not understand their constitutional rights and freedoms.",
+"explanation":"Lack of awareness prevents effective enforcement of rights."
+},
+
+{
+"question":"The high cost of litigation is a limitation to the Rule of Law.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Many citizens cannot afford legal action."
+},
+
+{
+"question":"Why is the high cost of litigation a problem?",
+"type":"written",
+"answerText":"It prevents ordinary citizens from seeking justice when their rights are violated.",
+"explanation":"Justice may become accessible only to wealthy individuals."
+},
+
+{
+"question":"The Rule of Law promotes justice, fairness, and accountability in society.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"These are major benefits of the Rule of Law."
+}
+]
+},
+
+
+
+
+
+
+
+
+
+
+  "chapter4": {
+    "title": "Chapter 4: Federal System of Nigeria",
+    "questions":[
+{
+"question":"Federalism refers to a system where powers are shared between the ______ and the states.",
+"type":"mcq",
+"options":{
+"a":"Local Government",
+"b":"Traditional Council",
+"c":"Federal Government",
+"d":"Political Party"
+},
+"answer":"c",
+"explanation":"Federalism involves constitutional sharing of powers between the Federal Government and states."
+},
+
+{
+"question":"Define federalism.",
+"type":"written",
+"answerText":"A system of government in which powers are constitutionally divided between the central government and component states.",
+"explanation":"Federalism allows different levels of government to operate independently within their constitutional powers."
+},
+
+{
+"question":"Who amalgamated Northern and Southern Nigeria in 1914?",
+"type":"mcq",
+"options":{
+"a":"Sir Arthur Richards",
+"b":"Lord Lugard",
+"c":"John Macpherson",
+"d":"Hugh Clifford"
+},
+"answer":"b",
+"explanation":"Lord Lugard amalgamated Northern and Southern Protectorates in 1914."
+},
+
+{
+"question":"The Nigerian federation officially began with the amalgamation of 1914.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"1914 marked the beginning of the Nigerian federation."
+},
+
+{
+"question":"Who divided Nigeria into three regions in 1946?",
+"type":"mcq",
+"options":{
+"a":"Lord Lugard",
+"b":"Sir Arthur Richards",
+"c":"Hugh Clifford",
+"d":"Tafawa Balewa"
+},
+"answer":"b",
+"explanation":"Sir Arthur Richards divided Nigeria into Northern, Western and Eastern Regions."
+},
+
+{
+"question":"Mention the three regions created in 1946.",
+"type":"written",
+"answerText":"Northern Region, Western Region and Eastern Region.",
+"explanation":"These regions formed the basis of Nigerian federalism."
+},
+
+{
+"question":"Which constitution granted legislative powers to the regions?",
+"type":"mcq",
+"options":{
+"a":"Clifford Constitution",
+"b":"Macpherson Constitution",
+"c":"Independence Constitution",
+"d":"Republican Constitution"
+},
+"answer":"b",
+"explanation":"The Macpherson Constitution strengthened regional legislative powers."
+},
+
+{
+"question":"The Lyttelton Constitution strengthened federalism in Nigeria.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"The constitution shared powers between central and regional governments."
+},
+
+{
+"question":"What is the role of the Supreme Court in a federation?",
+"type":"written",
+"answerText":"To settle disputes arising from constitutional interpretation and power sharing.",
+"explanation":"The Supreme Court acts as an impartial umpire."
+},
+
+{
+"question":"In a federation, component states can legally secede.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Sometimes"
+},
+"answer":"b",
+"explanation":"States in a federation cannot legally withdraw from the union."
+},
+
+{
+"question":"A confederation is a union of ______ states.",
+"type":"mcq",
+"options":{
+"a":"Dependent",
+"b":"Independent and sovereign",
+"c":"Colonial",
+"d":"Military"
+},
+"answer":"b",
+"explanation":"A confederation consists of sovereign states working together."
+},
+
+{
+"question":"State one major difference between a federation and a confederation.",
+"type":"written",
+"answerText":"States in a confederation can secede, while states in a federation cannot.",
+"explanation":"This is a fundamental difference."
+},
+
+{
+"question":"Which system gives more powers to component units?",
+"type":"mcq",
+"options":{
+"a":"Federation",
+"b":"Confederation",
+"c":"Unitary",
+"d":"Military"
+},
+"answer":"b",
+"explanation":"Component states enjoy greater powers in a confederation."
+},
+
+{
+"question":"In a federation, the central government is generally ______ than the states.",
+"type":"mcq",
+"options":{
+"a":"Weaker",
+"b":"Equal",
+"c":"Stronger",
+"d":"Irrelevant"
+},
+"answer":"c",
+"explanation":"The central government has more constitutional powers."
+},
+
+{
+"question":"Mention three reasons for adopting federalism in Nigeria.",
+"type":"written",
+"answerText":"Ethnic diversity, protection of minority groups, and large landmass/population.",
+"explanation":"These factors made federalism suitable for Nigeria."
+},
+
+{
+"question":"Nigeria adopted federalism because of its heterogeneous nature.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Nigeria consists of many ethnic, cultural and religious groups."
+},
+
+{
+"question":"Federalism helps protect ______ ethnic groups from domination.",
+"type":"mcq",
+"options":{
+"a":"Major",
+"b":"Foreign",
+"c":"Smaller",
+"d":"Urban"
+},
+"answer":"c",
+"explanation":"Federalism protects minority groups."
+},
+
+{
+"question":"How does federalism promote national unity?",
+"type":"written",
+"answerText":"By accommodating diversity while keeping all groups within one political system.",
+"explanation":"Federalism balances unity and diversity."
+},
+
+{
+"question":"Nigeria's colonial experience contributed to the adoption of federalism.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Shared colonial administration encouraged a federal arrangement."
+},
+
+{
+"question":"Which constitution further entrenched federalism after independence?",
+"type":"mcq",
+"options":{
+"a":"1979 Constitution",
+"b":"1989 Constitution",
+"c":"Both A and B",
+"d":"None"
+},
+"answer":"c",
+"explanation":"Both constitutions strengthened federal principles."
+},
+
+{
+"question":"State the three levels of government in Nigeria.",
+"type":"written",
+"answerText":"Federal Government, State Government, and Local Government.",
+"explanation":"These are the three tiers of government."
+},
+
+{
+"question":"The Exclusive List belongs mainly to the ______ government.",
+"type":"mcq",
+"options":{
+"a":"State",
+"b":"Local",
+"c":"Federal",
+"d":"Traditional"
+},
+"answer":"c",
+"explanation":"Exclusive powers are exercised only by the Federal Government."
+},
+
+{
+"question":"The Concurrent List is shared between ______.",
+"type":"mcq",
+"options":{
+"a":"Federal and State Governments",
+"b":"States only",
+"c":"Local Governments only",
+"d":"Traditional rulers"
+},
+"answer":"a",
+"explanation":"Both levels can legislate on concurrent matters."
+},
+
+{
+"question":"Give two examples of matters on the Concurrent List.",
+"type":"written",
+"answerText":"Education and Agriculture.",
+"explanation":"These areas involve both Federal and State Governments."
+},
+
+{
+"question":"When federal and state laws conflict on concurrent matters, ______ prevails.",
+"type":"mcq",
+"options":{
+"a":"State law",
+"b":"Federal law",
+"c":"Traditional law",
+"d":"Court law"
+},
+"answer":"b",
+"explanation":"Federal law takes precedence."
+},
+
+{
+"question":"One function of Nigerian federalism is the preservation of national sovereignty.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Federalism helps preserve Nigeria's unity and integrity."
+},
+
+{
+"question":"Mention four functions of Nigerian federalism.",
+"type":"written",
+"answerText":"Promotion of unity, international relations, protection of minorities, and resource management.",
+"explanation":"These are key functions of the federal government."
+},
+
+{
+"question":"The federal government manages Nigeria's international relations.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Foreign affairs are federal responsibilities."
+},
+
+{
+"question":"Revenue allocation involves sharing resources among the three tiers of government.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Revenue sharing is important for cooperative federalism."
+},
+
+{
+"question":"Why is cooperation among the three tiers of government important?",
+"type":"written",
+"answerText":"To achieve effective governance, equitable resource distribution, and national development.",
+"explanation":"Cooperation ensures smooth functioning of the federation."
+}
+]
+},
+
+
+  "chapter5": {
+    "title": "Chapter 5: Rights and obligations of Nigeria citizens",
+    "questions":[
+{
+"question":"Rights are freedoms and privileges enjoyed by individuals in a society.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Rights are freedoms and privileges guaranteed to individuals."
+},
+
+{
+"question":"Define rights.",
+"type":"written",
+"answerText":"Rights are freedoms and privileges enjoyed by individuals and protected by law.",
+"explanation":"Rights enable individuals to live freely and express themselves."
+},
+
+{
+"question":"Who is responsible for protecting citizens' rights?",
+"type":"mcq",
+"options":{
+"a":"Families",
+"b":"Government",
+"c":"Political Parties",
+"d":"Traditional Rulers"
+},
+"answer":"b",
+"explanation":"Government protects rights through laws and institutions."
+},
+
+{
+"question":"Rights are absolute and can never be limited.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Sometimes",
+"d":"Not Sure"
+},
+"answer":"b",
+"explanation":"Rights are not absolute; they must not infringe on others' rights."
+},
+
+{
+"question":"Mention the two broad categories of rights.",
+"type":"written",
+"answerText":"Civil Rights and Political Rights.",
+"explanation":"These are the two major classifications discussed in the chapter."
+},
+
+{
+"question":"Which type of rights includes the right to own property?",
+"type":"mcq",
+"options":{
+"a":"Political Rights",
+"b":"Civil Rights",
+"c":"Economic Rights",
+"d":"Traditional Rights"
+},
+"answer":"b",
+"explanation":"Property ownership is a civil right."
+},
+
+{
+"question":"Political rights mainly involve participation in ______.",
+"type":"mcq",
+"options":{
+"a":"Sports",
+"b":"Religion",
+"c":"Government",
+"d":"Business"
+},
+"answer":"c",
+"explanation":"Political rights allow citizens to participate in governance."
+},
+
+{
+"question":"Give two examples of political rights.",
+"type":"written",
+"answerText":"Right to vote and right to contest elections.",
+"explanation":"These rights enable political participation."
+},
+
+{
+"question":"Fundamental rights are contained in Chapter IV of the Nigerian Constitution.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Chapter IV contains fundamental human rights provisions."
+},
+
+{
+"question":"Which section guarantees the Right to Life?",
+"type":"mcq",
+"options":{
+"a":"Section 32",
+"b":"Section 35",
+"c":"Section 40",
+"d":"Section 50"
+},
+"answer":"a",
+"explanation":"Section 32 guarantees the Right to Life."
+},
+
+{
+"question":"Explain the Right to Life.",
+"type":"written",
+"answerText":"Every person has the right to life except where death is imposed by a competent court for a criminal offence.",
+"explanation":"The constitution protects human life."
+},
+
+{
+"question":"The Right to Dignity of Human Person prohibits torture.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"The constitution prohibits torture and degrading treatment."
+},
+
+{
+"question":"Mention two things prohibited under the Right to Dignity of Human Person.",
+"type":"written",
+"answerText":"Torture and slavery.",
+"explanation":"Both are expressly prohibited."
+},
+
+{
+"question":"Which right guarantees fair trial before an impartial court?",
+"type":"mcq",
+"options":{
+"a":"Right to Life",
+"b":"Right to Fair Hearing",
+"c":"Right to Movement",
+"d":"Right to Religion"
+},
+"answer":"b",
+"explanation":"Fair Hearing ensures justice through due process."
+},
+
+{
+"question":"The presumption of innocence is part of the Right to Fair Hearing.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"An accused person is presumed innocent until proven guilty."
+},
+
+{
+"question":"State two challenges facing the Right to Fair Hearing in Nigeria.",
+"type":"written",
+"answerText":"Delays in court proceedings and prolonged detention.",
+"explanation":"These issues affect access to justice."
+},
+
+{
+"question":"Which right protects citizens' homes and communications?",
+"type":"mcq",
+"options":{
+"a":"Right to Privacy",
+"b":"Right to Life",
+"c":"Right to Assembly",
+"d":"Right to Education"
+},
+"answer":"a",
+"explanation":"Privacy protects homes, correspondence and communications."
+},
+
+{
+"question":"The Right to Privacy may be limited in cases involving criminals.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Privacy may be restricted for public safety reasons."
+},
+
+{
+"question":"Which right allows citizens to practice any religion of their choice?",
+"type":"mcq",
+"options":{
+"a":"Right to Expression",
+"b":"Right to Religion",
+"c":"Right to Assembly",
+"d":"Right to Movement"
+},
+"answer":"b",
+"explanation":"Citizens are free to choose and practice their religion."
+},
+
+{
+"question":"Mention two freedoms guaranteed under Freedom of Thought, Conscience and Religion.",
+"type":"written",
+"answerText":"Freedom to change religion and freedom to worship publicly or privately.",
+"explanation":"These freedoms are constitutionally protected."
+},
+
+{
+"question":"Secret societies are protected under freedom of religion.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"b",
+"explanation":"Secret societies are not protected by this right."
+},
+
+{
+"question":"Which right guarantees freedom of expression and ownership of media?",
+"type":"mcq",
+"options":{
+"a":"Right to Fair Hearing",
+"b":"Right to Expression and Press",
+"c":"Right to Assembly",
+"d":"Right to Privacy"
+},
+"answer":"b",
+"explanation":"Citizens may express opinions and own media organizations."
+},
+
+{
+"question":"Give two limitations to Freedom of Expression.",
+"type":"written",
+"answerText":"Defamation and incitement to violence.",
+"explanation":"Freedom of expression does not protect harmful speech."
+},
+
+{
+"question":"Citizens have the right to form political parties and unions.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"This is part of Freedom of Assembly and Association."
+},
+
+{
+"question":"Which right allows citizens to gather and form associations?",
+"type":"mcq",
+"options":{
+"a":"Right to Privacy",
+"b":"Right to Assembly and Association",
+"c":"Right to Life",
+"d":"Right to Property"
+},
+"answer":"b",
+"explanation":"Citizens may peacefully assemble and associate."
+},
+
+{
+"question":"Define the Right to Personal Liberty.",
+"type":"written",
+"answerText":"The freedom of an individual from unlawful arrest, detention or imprisonment.",
+"explanation":"Personal liberty protects individual freedom."
+},
+
+{
+"question":"A person arrested has the right to know the reason for arrest.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"This is one of the rights of an arrested person."
+},
+
+{
+"question":"Which right allows Nigerians to travel freely within the country?",
+"type":"mcq",
+"options":{
+"a":"Right to Assembly",
+"b":"Right to Fair Hearing",
+"c":"Right to Freedom of Movement",
+"d":"Right to Privacy"
+},
+"answer":"c",
+"explanation":"Citizens can move and reside anywhere in Nigeria."
+},
+
+{
+"question":"Mention two obligations of Nigerian citizens.",
+"type":"written",
+"answerText":"Obey the law and respect the rights of others.",
+"explanation":"Rights come with corresponding responsibilities."
+},
+
+{
+"question":"Citizens must cooperate with government to ensure the protection of everyone's rights.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Cooperation promotes peace, order and protection of rights."
+}
+]
+
+},
+
+
+  "chapter6": {
+    "title": "Chapter 6: The significance of citizenship",
+    "questions":[
+{
+"question":"Who is a Nigerian citizen?",
+"type":"mcq",
+"options":{
+"a":"Any African",
+"b":"A person legally recognized as belonging to Nigeria",
+"c":"Any resident of Nigeria",
+"d":"Any visitor in Nigeria"
+},
+"answer":"b",
+"explanation":"A citizen is a person legally recognized as a member of a state."
+},
+
+{
+"question":"Define citizenship.",
+"type":"written",
+"answerText":"Citizenship is the legal status of being a member of a country with rights, duties and obligations.",
+"explanation":"Citizenship establishes a legal relationship between an individual and a state."
+},
+
+{
+"question":"Which of the following is a way of acquiring Nigerian citizenship?",
+"type":"mcq",
+"options":{
+"a":"Registration",
+"b":"Naturalization",
+"c":"Birth",
+"d":"All of the above"
+},
+"answer":"d",
+"explanation":"Nigerian citizenship can be acquired by birth, registration and naturalization."
+},
+
+{
+"question":"Citizenship by birth is the most common form of citizenship in Nigeria.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Most Nigerian citizens acquire citizenship by birth."
+},
+
+{
+"question":"Mention the three major ways of acquiring Nigerian citizenship.",
+"type":"written",
+"answerText":"Citizenship by birth, registration and naturalization.",
+"explanation":"These are the constitutional methods of acquiring citizenship."
+},
+
+{
+"question":"A person born in Nigeria whose parents are Nigerians acquires citizenship by ______.",
+"type":"mcq",
+"options":{
+"a":"Naturalization",
+"b":"Registration",
+"c":"Birth",
+"d":"Marriage"
+},
+"answer":"c",
+"explanation":"Such a person automatically becomes a citizen by birth."
+},
+
+{
+"question":"Citizenship by registration is commonly granted to ______.",
+"type":"mcq",
+"options":{
+"a":"Foreign tourists",
+"b":"Foreign athletes",
+"c":"Foreign women married to Nigerians",
+"d":"Diplomats"
+},
+"answer":"c",
+"explanation":"Registration often applies to foreign women married to Nigerian citizens."
+},
+
+{
+"question":"Explain citizenship by registration.",
+"type":"written",
+"answerText":"Citizenship granted to qualified persons after formal application and registration by government.",
+"explanation":"Applicants must satisfy constitutional requirements."
+},
+
+{
+"question":"Citizenship by naturalization is granted after a foreigner satisfies certain conditions.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Naturalization requires fulfillment of legal requirements."
+},
+
+{
+"question":"Which citizenship method usually requires a long period of residence?",
+"type":"mcq",
+"options":{
+"a":"Birth",
+"b":"Naturalization",
+"c":"Inheritance",
+"d":"Election"
+},
+"answer":"b",
+"explanation":"Naturalization often requires lengthy residence."
+},
+
+{
+"question":"State two conditions for naturalization.",
+"type":"written",
+"answerText":"Good character and continuous residence in Nigeria for a specified period.",
+"explanation":"Applicants must satisfy legal requirements."
+},
+
+{
+"question":"A naturalized citizen enjoys the rights of a Nigerian citizen.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Naturalized citizens enjoy constitutional rights."
+},
+
+{
+"question":"Which document proves Nigerian citizenship internationally?",
+"type":"mcq",
+"options":{
+"a":"Library Card",
+"b":"Passport",
+"c":"School ID Card",
+"d":"Voter Card"
+},
+"answer":"b",
+"explanation":"A passport is internationally recognized proof of citizenship."
+},
+
+{
+"question":"Mention two rights of Nigerian citizens.",
+"type":"written",
+"answerText":"Right to vote and right to own property.",
+"explanation":"Citizens enjoy political and civil rights."
+},
+
+{
+"question":"Citizenship gives an individual the right to participate in governance.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Citizens can vote and contest elections."
+},
+
+{
+"question":"The right to vote is an example of a ______ right.",
+"type":"mcq",
+"options":{
+"a":"Economic",
+"b":"Political",
+"c":"Social",
+"d":"Cultural"
+},
+"answer":"b",
+"explanation":"Voting is a political right."
+},
+
+{
+"question":"State three obligations of Nigerian citizens.",
+"type":"written",
+"answerText":"Obey laws, pay taxes and defend the country when necessary.",
+"explanation":"Citizenship comes with responsibilities."
+},
+
+{
+"question":"Payment of taxes is an obligation of citizenship.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Citizens are expected to contribute to national development through taxes."
+},
+
+{
+"question":"Which of the following is NOT an obligation of a citizen?",
+"type":"mcq",
+"options":{
+"a":"Paying taxes",
+"b":"Obeying laws",
+"c":"Participating in crime",
+"d":"Defending the country"
+},
+"answer":"c",
+"explanation":"Crime violates citizenship responsibilities."
+},
+
+{
+"question":"Explain the significance of citizenship.",
+"type":"written",
+"answerText":"Citizenship gives legal identity, rights, protection, political participation and access to government services.",
+"explanation":"Citizenship connects individuals to the state."
+},
+
+{
+"question":"Citizenship promotes a sense of belonging and national identity.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Citizenship strengthens loyalty and patriotism."
+},
+
+{
+"question":"One significance of citizenship is ______.",
+"type":"mcq",
+"options":{
+"a":"Political participation",
+"b":"Foreign domination",
+"c":"Lawlessness",
+"d":"Statelessness"
+},
+"answer":"a",
+"explanation":"Citizenship enables participation in governance."
+},
+
+{
+"question":"Mention four significances of citizenship.",
+"type":"written",
+"answerText":"Political participation, legal protection, national identity and access to public services.",
+"explanation":"These are major benefits of citizenship."
+},
+
+{
+"question":"Citizenship provides legal protection both within and outside Nigeria.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Citizens are protected by Nigerian laws and diplomatic missions."
+},
+
+{
+"question":"Which government document is required for international travel by citizens?",
+"type":"mcq",
+"options":{
+"a":"Birth Certificate",
+"b":"Passport",
+"c":"Driver's License",
+"d":"Library Card"
+},
+"answer":"b",
+"explanation":"The passport identifies a citizen internationally."
+},
+
+{
+"question":"State two ways citizenship contributes to national development.",
+"type":"written",
+"answerText":"Citizens pay taxes and participate in governance.",
+"explanation":"Active citizenship promotes development."
+},
+
+{
+"question":"A citizen owes allegiance to his country.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Citizens are expected to be loyal to their country."
+},
+
+{
+"question":"What is allegiance?",
+"type":"written",
+"answerText":"Loyalty, faithfulness and obedience owed by a citizen to his country.",
+"explanation":"Allegiance is a key element of citizenship."
+},
+
+{
+"question":"Citizenship encourages patriotism among citizens.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Citizenship promotes loyalty and commitment to national progress."
+},
+
+{
+"question":"The overall significance of citizenship is that it creates a legal bond between ______ and ______.",
+"type":"mcq",
+"options":{
+"a":"Teacher and Student",
+"b":"Citizen and State",
+"c":"Governor and President",
+"d":"Party and Candidate"
+},
+"answer":"b",
+"explanation":"Citizenship establishes a legal relationship between an individual and the state."
+}
+]
+
+},
+
+
+  "chapter7": {
+    "title": "Chapter 7:",
+    "active":false,
+    "questions":[
+]
+}
+}

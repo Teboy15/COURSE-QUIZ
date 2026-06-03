@@ -1,0 +1,1220 @@
+
+{
+  "chapter1": {
+    "title": "Chapter 1:Historical Development and Classification of Computers",
+     "description": "This chapter covers the historical development and classification of computers.",
+    "questions": [
+{
+"question":"Who is known as the Father of the Computer?",
+"type":"mcq",
+"options":{
+"a":"John Napier",
+"b":"Charles Babbage",
+"c":"Blaise Pascal",
+"d":"Herman Hollerith"
+},
+"answer":"b",
+"explanation":"Charles Babbage designed the Difference Engine and Analytical Engine."
+},
+
+{
+"question":"Why is Charles Babbage called the Father of the Computer?",
+"type":"written",
+"answerText":"Because he designed the Difference Engine and Analytical Engine which formed the basis of modern computers.",
+"explanation":"His designs introduced the idea of programmable computers."
+},
+
+{
+"question":"Who is regarded as the first computer programmer?",
+"type":"mcq",
+"options":{
+"a":"Ada Lovelace",
+"b":"John Mauchly",
+"c":"Von Leibnitz",
+"d":"Presper Eckert"
+},
+"answer":"a",
+"explanation":"Ada Lovelace wrote algorithms for Babbage's Analytical Engine."
+},
+
+{
+"question":"State the contribution of Augusta Ada Byron (Ada Lovelace).",
+"type":"written",
+"answerText":"She wrote the first algorithm and is regarded as the first computer programmer.",
+"explanation":"She worked with Charles Babbage's Analytical Engine."
+},
+
+{
+"question":"Which device was invented by Blaise Pascal?",
+"type":"mcq",
+"options":{
+"a":"Abacus",
+"b":"Pascaline",
+"c":"ENIAC",
+"d":"Arithmometer"
+},
+"answer":"b",
+"explanation":"Pascal invented the Pascaline in 1642."
+},
+
+{
+"question":"John Napier invented ______.",
+"type":"mcq",
+"options":{
+"a":"Pascaline",
+"b":"Napier's Bones",
+"c":"ENIAC",
+"d":"Analytical Engine"
+},
+"answer":"b",
+"explanation":"Napier's Bones was an early calculating device."
+},
+
+{
+"question":"Briefly explain Napier's Bones.",
+"type":"written",
+"answerText":"A calculating device invented by John Napier for multiplication and division.",
+"explanation":"It simplified arithmetic calculations."
+},
+
+{
+"question":"Who invented the Arithmometer?",
+"type":"mcq",
+"options":{
+"a":"Thomas de Colmar",
+"b":"Blaise Pascal",
+"c":"John Napier",
+"d":"Charles Xavier"
+},
+"answer":"a",
+"explanation":"Thomas de Colmar developed the first commercially successful calculator."
+},
+
+{
+"question":"Herman Hollerith is remembered for inventing the ______ machine.",
+"type":"mcq",
+"options":{
+"a":"Punch Card",
+"b":"Pascaline",
+"c":"ENIAC",
+"d":"Difference Engine"
+},
+"answer":"a",
+"explanation":"His punched-card system was used for census processing."
+},
+
+{
+"question":"State the contribution of Herman Hollerith.",
+"type":"written",
+"answerText":"He invented the punched-card tabulating machine used for data processing.",
+"explanation":"His work influenced modern data processing systems."
+},
+
+{
+"question":"ENIAC stands for ______.",
+"type":"mcq",
+"options":{
+"a":"Electronic Numerical Integrator and Computer",
+"b":"Electronic Network Integrated Computer",
+"c":"Electrical Numerical Integrated Computer",
+"d":"Electronic New Intelligent Computer"
+},
+"answer":"a",
+"explanation":"ENIAC was one of the earliest electronic computers."
+},
+
+{
+"question":"Who developed ENIAC?",
+"type":"written",
+"answerText":"John Mauchly and Presper Eckert.",
+"explanation":"They jointly designed and built ENIAC."
+},
+
+{
+"question":"Which machine is considered the first general-purpose electronic computer?",
+"type":"mcq",
+"options":{
+"a":"Pascaline",
+"b":"Abacus",
+"c":"ENIAC",
+"d":"Arithmometer"
+},
+"answer":"c",
+"explanation":"ENIAC was a major breakthrough in computing."
+},
+
+{
+"question":"What is the Abacus?",
+"type":"written",
+"answerText":"An ancient calculating device consisting of beads moved on rods.",
+"explanation":"It is one of the earliest calculating tools."
+},
+
+{
+"question":"The Analytical Engine introduced the concept of a programmable computer.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"It contained input, processing and output features."
+},
+
+{
+"question":"Briefly explain the Analytical Engine.",
+"type":"written",
+"answerText":"A mechanical computer designed by Charles Babbage that could perform general calculations using stored instructions.",
+"explanation":"It is regarded as the prototype of modern computers."
+},
+
+{
+"question":"Which machine was designed specifically to calculate mathematical tables?",
+"type":"mcq",
+"options":{
+"a":"Difference Engine",
+"b":"ENIAC",
+"c":"Abacus",
+"d":"Pascaline"
+},
+"answer":"a",
+"explanation":"The Difference Engine automated mathematical calculations."
+},
+
+{
+"question":"Briefly explain the Difference Engine.",
+"type":"written",
+"answerText":"A mechanical calculating machine designed by Charles Babbage for generating mathematical tables.",
+"explanation":"It reduced human calculation errors."
+},
+
+{
+"question":"The Slide Rule was mainly used for ______.",
+"type":"mcq",
+"options":{
+"a":"Typing",
+"b":"Scientific calculations",
+"c":"Printing",
+"d":"Networking"
+},
+"answer":"b",
+"explanation":"The Slide Rule was widely used before electronic calculators."
+},
+
+{
+"question":"State one contribution of John Napier to computing history.",
+"type":"written",
+"answerText":"He invented Napier's Bones and introduced logarithms.",
+"explanation":"His work simplified arithmetic operations."
+}
+]
+},
+
+  "chapter2": {
+    "title": "Chapter 2: Computer Hardware",
+    "questions": [
+{
+"question":"Computer hardware refers to the ______ components of a computer system.",
+"type":"mcq",
+"options":{
+"a":"Logical",
+"b":"Physical",
+"c":"Virtual",
+"d":"Software"
+},
+"answer":"b",
+"explanation":"Hardware consists of the physical parts that can be seen and touched."
+},
+
+{
+"question":"Define computer hardware.",
+"type":"written",
+"answerText":"Computer hardware refers to the physical components of a computer system that can be seen and touched.",
+"explanation":"Examples include monitor, keyboard, CPU and printer."
+},
+
+{
+"question":"Computer software consists of programs and instructions used by a computer.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Software enables the hardware to perform useful tasks."
+},
+
+{
+"question":"Define computer software.",
+"type":"written",
+"answerText":"Computer software is a collection of programs, procedures and instructions that direct computer operations.",
+"explanation":"Software tells hardware what to do."
+},
+
+{
+"question":"Which of the following is NOT a hardware component?",
+"type":"mcq",
+"options":{
+"a":"Keyboard",
+"b":"Monitor",
+"c":"Microsoft Word",
+"d":"Mouse"
+},
+"answer":"c",
+"explanation":"Microsoft Word is application software."
+},
+
+{
+"question":"The four major components of computer hardware are ______.",
+"type":"mcq",
+"options":{
+"a":"Input, Processing, Storage and Output",
+"b":"RAM, ROM, Mouse and Keyboard",
+"c":"CPU, Printer, Scanner and Speaker",
+"d":"Hardware, Software, Data and User"
+},
+"answer":"a",
+"explanation":"These are the basic functional units of a computer."
+},
+
+{
+"question":"Mention the four major components of computer hardware.",
+"type":"written",
+"answerText":"Input Unit, Processing Unit, Storage Unit and Output Unit.",
+"explanation":"Every computer system contains these functional units."
+},
+
+{
+"question":"Which hardware component is regarded as the brain of the computer?",
+"type":"mcq",
+"options":{
+"a":"RAM",
+"b":"Monitor",
+"c":"CPU",
+"d":"ROM"
+},
+"answer":"c",
+"explanation":"The CPU performs processing and control functions."
+},
+
+{
+"question":"Give two examples of input devices.",
+"type":"written",
+"answerText":"Keyboard and Mouse.",
+"explanation":"Input devices are used to enter data into the computer."
+},
+
+{
+"question":"Which of the following is an output device?",
+"type":"mcq",
+"options":{
+"a":"Scanner",
+"b":"Keyboard",
+"c":"Monitor",
+"d":"Mouse"
+},
+"answer":"c",
+"explanation":"Output devices display processed information."
+},
+
+{
+"question":"RAM stands for ______.",
+"type":"mcq",
+"options":{
+"a":"Read Access Memory",
+"b":"Random Access Memory",
+"c":"Rapid Access Memory",
+"d":"Read Application Memory"
+},
+"answer":"b",
+"explanation":"RAM is the main temporary memory of a computer."
+},
+
+{
+"question":"ROM stands for ______.",
+"type":"mcq",
+"options":{
+"a":"Read Only Memory",
+"b":"Random Output Memory",
+"c":"Read Open Memory",
+"d":"Rapid Output Memory"
+},
+"answer":"a",
+"explanation":"ROM stores permanent instructions."
+},
+
+{
+"question":"State one difference between RAM and ROM.",
+"type":"written",
+"answerText":"RAM is volatile while ROM is non-volatile.",
+"explanation":"RAM loses data when power is off; ROM does not."
+},
+
+{
+"question":"RAM loses its contents when power is switched off.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"RAM is volatile memory."
+},
+
+{
+"question":"Which memory is non-volatile?",
+"type":"mcq",
+"options":{
+"a":"RAM",
+"b":"Cache",
+"c":"ROM",
+"d":"Register"
+},
+"answer":"c",
+"explanation":"ROM retains data permanently."
+},
+
+{
+"question":"Mention three differences between RAM and ROM.",
+"type":"written",
+"answerText":"RAM is volatile while ROM is non-volatile; RAM is read/write while ROM is mainly read-only; RAM stores temporary data while ROM stores permanent instructions.",
+"explanation":"These are common examination differences."
+},
+
+{
+"question":"Primary memory is directly accessible by the CPU.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Primary memory works closely with the processor."
+},
+
+{
+"question":"Give two examples of primary memory.",
+"type":"written",
+"answerText":"RAM and ROM.",
+"explanation":"These memories are directly connected to the CPU."
+},
+
+{
+"question":"Which of the following is secondary storage?",
+"type":"mcq",
+"options":{
+"a":"RAM",
+"b":"ROM",
+"c":"Hard Disk",
+"d":"Register"
+},
+"answer":"c",
+"explanation":"Hard disks provide long-term data storage."
+},
+
+{
+"question":"State one difference between primary and secondary memory.",
+"type":"written",
+"answerText":"Primary memory is directly accessible by the CPU while secondary memory is not.",
+"explanation":"Secondary memory stores data permanently."
+},
+
+{
+"question":"Hard disk storage belongs to which technology?",
+"type":"mcq",
+"options":{
+"a":"Optical",
+"b":"Magnetic",
+"c":"Paper",
+"d":"Semiconductor"
+},
+"answer":"b",
+"explanation":"Hard disks use magnetic storage technology."
+},
+
+{
+"question":"Flash drives belong to ______ storage technology.",
+"type":"mcq",
+"options":{
+"a":"Magnetic",
+"b":"Paper",
+"c":"Semiconductor",
+"d":"Optical"
+},
+"answer":"c",
+"explanation":"Flash drives use semiconductor memory chips."
+},
+
+{
+"question":"CD-ROM and DVD are examples of ______ storage.",
+"type":"mcq",
+"options":{
+"a":"Magnetic",
+"b":"Paper",
+"c":"Semiconductor",
+"d":"Optical"
+},
+"answer":"d",
+"explanation":"Optical storage uses laser technology."
+},
+
+{
+"question":"Give one example of paper storage.",
+"type":"written",
+"answerText":"Punch card or paper tape.",
+"explanation":"Paper storage was used in early computing."
+},
+
+{
+"question":"Mention the four storage technologies.",
+"type":"written",
+"answerText":"Semiconductor, Magnetic, Optical and Paper Storage.",
+"explanation":"Storage devices are classified into these technologies."
+},
+
+{
+"question":"A USB flash drive is an example of ______ storage.",
+"type":"mcq",
+"options":{
+"a":"Semiconductor",
+"b":"Optical",
+"c":"Magnetic",
+"d":"Paper"
+},
+"answer":"a",
+"explanation":"It stores data electronically in memory chips."
+},
+
+{
+"question":"What is a computer port?",
+"type":"written",
+"answerText":"A port is an interface used to connect external devices to a computer.",
+"explanation":"Ports enable communication between devices."
+},
+
+{
+"question":"Which port is commonly used for flash drives?",
+"type":"mcq",
+"options":{
+"a":"VGA",
+"b":"USB",
+"c":"PS/2",
+"d":"Serial"
+},
+"answer":"b",
+"explanation":"USB ports connect flash drives and many peripherals."
+},
+
+{
+"question":"Which connector is commonly used to connect a monitor?",
+"type":"mcq",
+"options":{
+"a":"VGA",
+"b":"USB",
+"c":"RJ-45",
+"d":"PS/2"
+},
+"answer":"a",
+"explanation":"VGA is a traditional monitor connector."
+},
+
+{
+"question":"State two examples of computer ports/connectors.",
+"type":"written",
+"answerText":"USB port and VGA port.",
+"explanation":"These are common connectors found on computers."
+}
+]
+      },
+ 
+  "chapter3": {
+    "title": "Chapter 3:Computer software",
+    "questions": [
+{
+"question":"Computer software is a collection of programs and related documentation.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Software consists of programs, procedures and supporting files."
+},
+
+{
+"question":"Define computer software.",
+"type":"written",
+"answerText":"Computer software is a collection of programs and instructions that direct a computer to perform specific tasks.",
+"explanation":"Software enables hardware to function effectively."
+},
+
+{
+"question":"Software is generally classified into ______ and ______.",
+"type":"mcq",
+"options":{
+"a":"Input and Output",
+"b":"System and Application Software",
+"c":"RAM and ROM",
+"d":"Hardware and Firmware"
+},
+"answer":"b",
+"explanation":"Software is mainly divided into system and application software."
+},
+
+{
+"question":"Define system software.",
+"type":"written",
+"answerText":"System software consists of programs that manage computer resources and provide a platform for application software.",
+"explanation":"Examples include operating systems and utility programs."
+},
+
+{
+"question":"Which of the following is system software?",
+"type":"mcq",
+"options":{
+"a":"Microsoft Word",
+"b":"Excel",
+"c":"Windows",
+"d":"PowerPoint"
+},
+"answer":"c",
+"explanation":"Windows is an operating system."
+},
+
+{
+"question":"An operating system acts as an interface between the user and the computer hardware.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"The operating system manages communication between users and hardware."
+},
+
+{
+"question":"State four functions of an operating system.",
+"type":"written",
+"answerText":"Memory management, file management, device management and process management.",
+"explanation":"These are core operating system functions."
+},
+
+{
+"question":"Which function of an operating system controls computer memory?",
+"type":"mcq",
+"options":{
+"a":"Memory Management",
+"b":"File Management",
+"c":"Security Management",
+"d":"Device Management"
+},
+"answer":"a",
+"explanation":"Memory management allocates and controls memory usage."
+},
+
+{
+"question":"Which operating system is commonly used on personal computers?",
+"type":"mcq",
+"options":{
+"a":"Windows",
+"b":"Linux",
+"c":"macOS",
+"d":"All of the Above"
+},
+"answer":"d",
+"explanation":"All are examples of operating systems."
+},
+
+{
+"question":"Classify operating systems with examples.",
+"type":"written",
+"answerText":"Single-user (Windows), Multi-user (UNIX), Real-time (RTOS), Distributed OS.",
+"explanation":"Operating systems are classified based on functionality."
+},
+
+{
+"question":"A language translator converts source code into machine language.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Translators enable computers to understand programs."
+},
+
+{
+"question":"Mention three examples of language translators.",
+"type":"written",
+"answerText":"Compiler, Interpreter and Assembler.",
+"explanation":"These are the main types of translators."
+},
+
+{
+"question":"Which translator converts assembly language into machine language?",
+"type":"mcq",
+"options":{
+"a":"Compiler",
+"b":"Assembler",
+"c":"Interpreter",
+"d":"Loader"
+},
+"answer":"b",
+"explanation":"Assemblers translate assembly language."
+},
+
+{
+"question":"Utility programs are designed to maintain and optimize computer performance.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Utilities help improve system efficiency."
+},
+
+{
+"question":"Define utility program.",
+"type":"written",
+"answerText":"A utility program is system software designed to maintain, manage and optimize computer resources.",
+"explanation":"Examples include antivirus and disk cleanup software."
+},
+
+{
+"question":"Which of the following is a utility program?",
+"type":"mcq",
+"options":{
+"a":"Antivirus",
+"b":"Disk Defragmenter",
+"c":"Backup Utility",
+"d":"All of the Above"
+},
+"answer":"d",
+"explanation":"All are examples of utility software."
+},
+
+{
+"question":"A device driver enables communication between hardware and the operating system.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Drivers help the operating system control hardware devices."
+},
+
+{
+"question":"Define device driver.",
+"type":"written",
+"answerText":"A device driver is software that enables communication between the operating system and a hardware device.",
+"explanation":"Without drivers, hardware may not function properly."
+},
+
+{
+"question":"Which of the following requires a device driver?",
+"type":"mcq",
+"options":{
+"a":"Printer",
+"b":"Scanner",
+"c":"Graphics Card",
+"d":"All of the Above"
+},
+"answer":"d",
+"explanation":"Most hardware devices require drivers."
+},
+
+{
+"question":"Application software is designed to perform specific user tasks.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Application software helps users accomplish specific tasks."
+},
+
+{
+"question":"Define application software.",
+"type":"written",
+"answerText":"Application software consists of programs designed to perform specific tasks for users.",
+"explanation":"Examples include word processors and spreadsheets."
+},
+
+{
+"question":"Which of the following is application software?",
+"type":"mcq",
+"options":{
+"a":"Windows",
+"b":"Linux",
+"c":"Microsoft Word",
+"d":"Assembler"
+},
+"answer":"c",
+"explanation":"Microsoft Word is application software."
+},
+
+{
+"question":"Give three examples of application software.",
+"type":"written",
+"answerText":"Microsoft Word, Microsoft Excel and PowerPoint.",
+"explanation":"These are commonly used application packages."
+},
+
+{
+"question":"Customized application software is developed for a specific organization.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Customized software is tailored to user requirements."
+},
+
+{
+"question":"State two advantages of customized application software.",
+"type":"written",
+"answerText":"Meets specific user needs and provides better efficiency.",
+"explanation":"Customized software is tailored to requirements."
+},
+
+{
+"question":"Which of the following is a disadvantage of customized software?",
+"type":"mcq",
+"options":{
+"a":"High Development Cost",
+"b":"Long Development Time",
+"c":"Maintenance Difficulty",
+"d":"All of the Above"
+},
+"answer":"d",
+"explanation":"Customized software is often expensive and time-consuming."
+},
+
+{
+"question":"Commercial application software is also known as ______ software.",
+"type":"mcq",
+"options":{
+"a":"General-purpose",
+"b":"System",
+"c":"Translator",
+"d":"Firmware"
+},
+"answer":"a",
+"explanation":"Commercial software is developed for mass use."
+},
+
+{
+"question":"State two advantages of commercial application software.",
+"type":"written",
+"answerText":"Lower cost and immediate availability.",
+"explanation":"Commercial software is readily available to users."
+},
+
+{
+"question":"Mention two guidelines for acquiring application software.",
+"type":"written",
+"answerText":"Identify user requirements and consider software cost.",
+"explanation":"Software selection should meet organizational needs."
+},
+
+{
+"question":"Arrange the generations of programming languages in order.",
+"type":"written",
+"answerText":"1GL, 2GL, 3GL, 4GL, 5GL.",
+"explanation":"Programming languages evolved from machine language to AI-oriented languages."
+}
+]
+       },
+
+ 
+  "chapter4": {
+    "title": "Chapter 4: Data Processing",
+    "questions": [
+{
+"question":"Data processing is the conversion of raw data into meaningful information.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Data processing transforms raw facts into useful information."
+},
+
+{
+"question":"Define data processing.",
+"type":"written",
+"answerText":"Data processing is the process of collecting, manipulating and transforming raw data into meaningful information.",
+"explanation":"It helps organizations make informed decisions."
+},
+
+{
+"question":"Which of the following is the output of data processing?",
+"type":"mcq",
+"options":{
+"a":"Data",
+"b":"Information",
+"c":"Hardware",
+"d":"Software"
+},
+"answer":"b",
+"explanation":"Processed data becomes information."
+},
+
+{
+"question":"Interactive processing allows direct communication between the user and computer.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Users receive immediate responses from the system."
+},
+
+{
+"question":"Define interactive processing.",
+"type":"written",
+"answerText":"Interactive processing is a mode where users communicate directly with the computer and receive immediate feedback.",
+"explanation":"Examples include ATM transactions and online forms."
+},
+
+{
+"question":"Online processing involves processing data while connected to a computer system.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Data is processed through a connected system."
+},
+
+{
+"question":"Define online processing.",
+"type":"written",
+"answerText":"Online processing is a method where data is entered directly into a computer system and processed immediately.",
+"explanation":"Common in banking and e-commerce systems."
+},
+
+{
+"question":"Transaction processing is commonly used in ______.",
+"type":"mcq",
+"options":{
+"a":"Banking Systems",
+"b":"Payroll Systems",
+"c":"Inventory Systems",
+"d":"All of the Above"
+},
+"answer":"d",
+"explanation":"Transaction processing records and processes business transactions."
+},
+
+{
+"question":"Define transaction processing.",
+"type":"written",
+"answerText":"Transaction processing is the processing of business transactions such as sales, deposits and withdrawals.",
+"explanation":"It ensures accurate and reliable transaction records."
+},
+
+{
+"question":"Real-time processing produces results immediately after data input.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Real-time systems respond instantly."
+},
+
+{
+"question":"Give one example of a real-time processing system.",
+"type":"written",
+"answerText":"Air traffic control system.",
+"explanation":"Real-time systems require immediate responses."
+},
+
+{
+"question":"Batch processing handles data in groups called batches.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Data is collected before processing."
+},
+
+{
+"question":"Which processing mode is commonly used for payroll preparation?",
+"type":"mcq",
+"options":{
+"a":"Batch Processing",
+"b":"Real-time Processing",
+"c":"Interactive Processing",
+"d":"Multiprocessing"
+},
+"answer":"a",
+"explanation":"Payroll data is usually processed periodically in batches."
+},
+
+{
+"question":"Define batch processing.",
+"type":"written",
+"answerText":"Batch processing is a method where data is accumulated and processed together at a later time.",
+"explanation":"It is suitable for repetitive tasks."
+},
+
+{
+"question":"Distributed processing involves multiple computers working together.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"Processing tasks are shared among different computers."
+},
+
+{
+"question":"Define distributed processing.",
+"type":"written",
+"answerText":"Distributed processing is a method where processing tasks are shared among multiple computers connected through a network.",
+"explanation":"It improves efficiency and reliability."
+},
+
+{
+"question":"Time-sharing processing allows multiple users to use a computer system simultaneously.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Not Sure",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"CPU time is shared among users."
+},
+
+{
+"question":"Define time-sharing processing.",
+"type":"written",
+"answerText":"Time-sharing processing is a system where many users share computer resources through time allocation.",
+"explanation":"Each user receives a portion of CPU time."
+},
+
+{
+"question":"Multiprogramming involves executing several programs in memory at the same time.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"It improves CPU utilization."
+},
+
+{
+"question":"Define multiprogramming.",
+"type":"written",
+"answerText":"Multiprogramming is the technique of keeping multiple programs in memory and executing them alternately.",
+"explanation":"This minimizes CPU idle time."
+},
+
+{
+"question":"Multiprocessing involves the use of ______.",
+"type":"mcq",
+"options":{
+"a":"One CPU",
+"b":"Two or More CPUs",
+"c":"One User",
+"d":"One Program"
+},
+"answer":"b",
+"explanation":"Multiprocessing uses multiple processors simultaneously."
+},
+
+{
+"question":"Define multiprocessing.",
+"type":"written",
+"answerText":"Multiprocessing is the use of two or more processors to execute tasks simultaneously.",
+"explanation":"It increases processing speed."
+},
+
+{
+"question":"Offline processing occurs when data is processed without direct connection to the main computer.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Data may be prepared before entering the main system."
+},
+
+{
+"question":"Define offline processing.",
+"type":"written",
+"answerText":"Offline processing is a method where data is prepared and processed separately before being transferred to the main computer.",
+"explanation":"It reduces the workload on the main system."
+},
+
+{
+"question":"Centralized processing means all processing activities are performed at a central location.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Impossible"
+},
+"answer":"a",
+"explanation":"A central computer handles all processing."
+},
+
+{
+"question":"Define centralized processing.",
+"type":"written",
+"answerText":"Centralized processing is a system where all data processing activities are carried out by a central computer.",
+"explanation":"Users depend on the central system."
+},
+
+{
+"question":"Decentralized processing distributes processing responsibilities among different locations.",
+"type":"mcq",
+"options":{
+"a":"True",
+"b":"False",
+"c":"Partly",
+"d":"Not Sure"
+},
+"answer":"a",
+"explanation":"Different departments can process their own data."
+},
+
+{
+"question":"Define decentralized processing.",
+"type":"written",
+"answerText":"Decentralized processing is a system where processing activities are performed by separate computers at different locations.",
+"explanation":"It reduces dependence on a central computer."
+},
+
+{
+"question":"Which of the following is a criterion for choosing a data processing mode?",
+"type":"mcq",
+"options":{
+"a":"Cost",
+"b":"Speed",
+"c":"Accuracy",
+"d":"All of the Above"
+},
+"answer":"d",
+"explanation":"Several factors influence the choice of processing mode."
+},
+
+{
+"question":"State five criteria for choosing a data processing mode.",
+"type":"written",
+"answerText":"Cost, speed, accuracy, reliability and volume of data.",
+"explanation":"Organizations consider these factors when selecting a processing method."
+}
+]
+      },
+
+ 
+  "chapter5": {
+    "title": "Chapter 5:  ",
+    "active": false,
+    "questions": [
+
+     ]
+      },
+
+ 
+  "chapter6": {
+    "title": "Chapter 6:  ",
+    "active": false,
+    "questions": [
+  
+
+     ]
+      },
+
+ 
+  "chapter7": {
+    "title": "Chapter 7:  ",
+    "active": false,
+    "questions": [
+  
+     ]
+      },
+
+ 
+  "chapter8": {
+    "title": "Chapter 8: ",
+    "active": false,
+    "questions": [
+
+     ]
+      },
+
+ 
+  "chapter9": {
+    "title": "Chapter 9: ",
+    "active": false,
+    "questions": [
+
+     ]
+      },
+
+ 
+  "chapter10": {
+    "title": "Chapter 10: ",
+    "active": false,
+    "questions": [
+     ]
+      }
+}
