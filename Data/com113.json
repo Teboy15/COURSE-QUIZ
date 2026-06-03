@@ -1,1864 +1,164 @@
 {
   "chapter1": {
-    "title": "Chapter 1: Introduction to Programming",
+    "title": "Chapter 1:Defination and Data Description",
+
     "questions": [
-{
-"question":"A computer program is a set of ______.",
-"type":"mcq",
-"options":{
-"a":"Devices",
-"b":"Instructions",
-"c":"Networks",
-"d":"Processors"
-},
-"answer":"b",
-"explanation":"A computer program is a sequence of instructions given to a computer to perform a task."
-},
 
-{
-"question":"Define a computer program.",
-"type":"written",
-"answerText":"A computer program is a sequence of instructions written to make a computer perform a specific task.",
-"explanation":"Programs tell the computer exactly what operations to carry out."
-},
+      {
+        "question": "What is Statistics?",
+        "type": "mcq",
 
-{
-"question":"Which of the following best describes software?",
-"type":"mcq",
-"options":{
-"a":"Physical parts of a computer",
-"b":"Set of programs and related data",
-"c":"Input devices",
-"d":"Output devices"
-},
-"answer":"b",
-"explanation":"Software consists of programs and associated data used by a computer."
-},
+        "options": {
+          "a": "The study of stars",
+          "b": "The science of collecting, organizing, analyzing and interpreting data",
+          "c": "The study of government",
+          "d": "The science of computers"
+        },
 
-{
-"question":"Computer software is broader than a computer program.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Sometimes",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Software contains programs, documentation and supporting files."
-},
+        "answer": "b",
 
-{
-"question":"Differentiate between software and a computer program.",
-"type":"written",
-"answerText":"A program is a set of instructions while software is a collection of programs and related resources.",
-"explanation":"Software is broader than a single program."
-},
+        "explanation": "Statistics deals with collecting, organizing, presenting, analyzing and interpreting data."
+      }
 
-{
-"question":"Who writes computer programs?",
-"type":"mcq",
-"options":{
-"a":"Computer Operator",
-"b":"Computer Programmer",
-"c":"Technician",
-"d":"Analyst"
-},
-"answer":"b",
-"explanation":"Computer programmers write, test and maintain programs."
-},
-
-{
-"question":"Define computer programmer.",
-"type":"written",
-"answerText":"A computer programmer is a person who writes, tests and maintains computer programs.",
-"explanation":"Programmers use programming languages to develop software."
-},
-
-{
-"question":"Computer programming involves writing instructions using a programming language.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Programming is the process of creating computer programs."
-},
-
-{
-"question":"Which of the following is NOT a programming language?",
-"type":"mcq",
-"options":{
-"a":"Python",
-"b":"Java",
-"c":"HTML",
-"d":"Keyboard"
-},
-"answer":"d",
-"explanation":"A keyboard is an input device, not a programming language."
-},
-
-{
-"question":"Define computer programming.",
-"type":"written",
-"answerText":"Computer programming is the process of designing, writing, testing and maintaining computer programs.",
-"explanation":"Programming involves solving problems through software development."
-},
-
-{
-"question":"Why is computer programming important?",
-"type":"mcq",
-"options":{
-"a":"To make computers perform tasks",
-"b":"To destroy data",
-"c":"To increase hardware weight",
-"d":"To reduce memory permanently"
-},
-"answer":"a",
-"explanation":"Programming enables computers to solve problems and perform useful tasks."
-},
-
-{
-"question":"State two needs for computer programming.",
-"type":"written",
-"answerText":"Automation of tasks and problem solving.",
-"explanation":"Programming helps automate work and solve complex problems."
-},
-
-{
-"question":"Programming helps automate repetitive tasks.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Not Sure",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Many repetitive activities can be automated through programs."
-},
-
-{
-"question":"Which field depends heavily on programming?",
-"type":"mcq",
-"options":{
-"a":"Banking",
-"b":"Education",
-"c":"Healthcare",
-"d":"All of the above"
-},
-"answer":"d",
-"explanation":"Programming is used in nearly every sector."
-},
-
-{
-"question":"Mention three applications of computer programming.",
-"type":"written",
-"answerText":"Banking systems, mobile applications and scientific research.",
-"explanation":"Programming is used in various real-world applications."
-},
-
-{
-"question":"Programs are stored in ______ memory before execution.",
-"type":"mcq",
-"options":{
-"a":"Secondary",
-"b":"Primary",
-"c":"Virtual",
-"d":"External"
-},
-"answer":"b",
-"explanation":"Programs are loaded into primary memory before execution."
-},
-
-{
-"question":"Which of the following is a benefit of programming?",
-"type":"mcq",
-"options":{
-"a":"Accuracy",
-"b":"Speed",
-"c":"Efficiency",
-"d":"All of the above"
-},
-"answer":"d",
-"explanation":"Programming improves accuracy, speed and efficiency."
-},
-
-{
-"question":"State three qualities of a good programmer.",
-"type":"written",
-"answerText":"Logical thinking, problem-solving ability and patience.",
-"explanation":"These qualities help programmers develop efficient solutions."
-},
-
-{
-"question":"Programming languages are used as a means of communication between ______ and ______.",
-"type":"mcq",
-"options":{
-"a":"Computer and User",
-"b":"Computer and Printer",
-"c":"Programmer and Computer",
-"d":"CPU and RAM"
-},
-"answer":"c",
-"explanation":"Programming languages allow programmers to communicate instructions to computers."
-},
-
-{
-"question":"The main objective of programming is to solve problems efficiently.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Problem solving is the primary goal of programming."
-}
-]
+       
+    ]
 },
 
   "chapter2": {
-    "title": "Chapter 2: History of computer programming Language",
+    "title": "Data Presentation And Representation ",
     "questions": [
-{
-"question":"A programming language is a medium used to communicate instructions to a computer.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Programming languages are used to write instructions for computers."
-},
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
 
-{
-"question":"Define programming language.",
-"type":"written",
-"answerText":"A programming language is a formal language used to write instructions that a computer can execute.",
-"explanation":"It serves as a communication tool between programmers and computers."
-},
 
-{
-"question":"The first generation programming language is also known as ______.",
-"type":"mcq",
-"options":{
-"a":"Assembly Language",
-"b":"Machine Language",
-"c":"High Level Language",
-"d":"4GL"
-},
-"answer":"b",
-"explanation":"Machine language is the first generation language."
-},
-
-{
-"question":"Which generation uses only binary digits 0 and 1?",
-"type":"mcq",
-"options":{
-"a":"1GL",
-"b":"2GL",
-"c":"3GL",
-"d":"4GL"
-},
-"answer":"a",
-"explanation":"Machine language consists entirely of binary instructions."
-},
-
-{
-"question":"State one advantage of machine language.",
-"type":"written",
-"answerText":"It executes very fast because it is directly understood by the computer.",
-"explanation":"No translation is required."
-},
-
-{
-"question":"A major disadvantage of machine language is that it is difficult to understand.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Programs written in binary are difficult for humans to read."
-},
-
-{
-"question":"The second generation language is known as ______.",
-"type":"mcq",
-"options":{
-"a":"Machine Language",
-"b":"Assembly Language",
-"c":"FORTRAN",
-"d":"5GL"
-},
-"answer":"b",
-"explanation":"Assembly language belongs to the second generation."
-},
-
-{
-"question":"Assembly language uses ______ instead of binary codes.",
-"type":"mcq",
-"options":{
-"a":"Graphics",
-"b":"Algorithms",
-"c":"Mnemonics",
-"d":"Flowcharts"
-},
-"answer":"c",
-"explanation":"Mnemonics make instructions easier to understand."
-},
-
-{
-"question":"Give two examples of assembly language mnemonics.",
-"type":"written",
-"answerText":"ADD and MOV.",
-"explanation":"Mnemonics represent machine instructions."
-},
-
-{
-"question":"Which translator converts assembly language into machine language?",
-"type":"mcq",
-"options":{
-"a":"Compiler",
-"b":"Assembler",
-"c":"Interpreter",
-"d":"Loader"
-},
-"answer":"b",
-"explanation":"Assemblers translate assembly language programs."
-},
-
-{
-"question":"Third generation languages are also called ______.",
-"type":"mcq",
-"options":{
-"a":"Machine Languages",
-"b":"Assembly Languages",
-"c":"High-Level Languages",
-"d":"Natural Languages"
-},
-"answer":"c",
-"explanation":"3GLs are high-level programming languages."
-},
-
-{
-"question":"Which of the following is a third generation language?",
-"type":"mcq",
-"options":{
-"a":"FORTRAN",
-"b":"COBOL",
-"c":"BASIC",
-"d":"All of the Above"
-},
-"answer":"d",
-"explanation":"All are examples of third generation languages."
-},
-
-{
-"question":"Mention three examples of 3GLs.",
-"type":"written",
-"answerText":"FORTRAN, COBOL and BASIC.",
-"explanation":"These are common third generation languages."
-},
-
-{
-"question":"Third generation languages are easier to learn than assembly language.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"They use English-like statements."
-},
-
-{
-"question":"Which generation introduced database query languages?",
-"type":"mcq",
-"options":{
-"a":"1GL",
-"b":"2GL",
-"c":"4GL",
-"d":"5GL"
-},
-"answer":"c",
-"explanation":"Fourth generation languages focus on database and application development."
-},
-
-{
-"question":"What does 4GL stand for?",
-"type":"written",
-"answerText":"Fourth Generation Language.",
-"explanation":"4GLs are more user-friendly and problem-oriented."
-},
-
-{
-"question":"Which of the following is an example of a 4GL?",
-"type":"mcq",
-"options":{
-"a":"SQL",
-"b":"Python",
-"c":"Assembly",
-"d":"Machine Language"
-},
-"answer":"a",
-"explanation":"SQL is a popular fourth generation language."
-},
-
-{
-"question":"A major feature of 4GL is reduced programming effort.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Not Sure",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"4GLs require fewer lines of code."
-},
-
-{
-"question":"State two features of a 4GL.",
-"type":"written",
-"answerText":"User-friendly syntax and rapid application development.",
-"explanation":"These are common features of fourth generation languages."
-},
-
-{
-"question":"The fifth generation language is associated with ______.",
-"type":"mcq",
-"options":{
-"a":"Artificial Intelligence",
-"b":"Binary Codes",
-"c":"Machine Instructions",
-"d":"Assembly Codes"
-},
-"answer":"a",
-"explanation":"5GLs are designed for artificial intelligence and expert systems."
-},
-
-{
-"question":"Which generation aims to make computers solve problems through logic and reasoning?",
-"type":"mcq",
-"options":{
-"a":"1GL",
-"b":"2GL",
-"c":"4GL",
-"d":"5GL"
-},
-"answer":"d",
-"explanation":"5GL focuses on AI and knowledge-based systems."
-},
-
-{
-"question":"Mention one example of a fifth generation language.",
-"type":"written",
-"answerText":"PROLOG.",
-"explanation":"PROLOG is commonly associated with artificial intelligence."
-},
-
-{
-"question":"Programming languages evolved to make programming easier.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Each generation improved programmer productivity."
-},
-
-{
-"question":"Arrange these generations in order: Assembly, High-Level, Machine.",
-"type":"written",
-"answerText":"Machine Language → Assembly Language → High-Level Language.",
-"explanation":"This is the historical order of development."
-},
-
-{
-"question":"Which generation is the most difficult for humans to understand?",
-"type":"mcq",
-"options":{
-"a":"1GL",
-"b":"2GL",
-"c":"3GL",
-"d":"4GL"
-},
-"answer":"a",
-"explanation":"Machine language uses binary digits only."
-},
-
-{
-"question":"Which generation is closest to natural human language?",
-"type":"mcq",
-"options":{
-"a":"1GL",
-"b":"2GL",
-"c":"4GL",
-"d":"5GL"
-},
-"answer":"d",
-"explanation":"5GL aims to allow computers to reason more like humans."
-},
-
-{
-"question":"Draw a table showing the evolution of programming languages.",
-"type":"written",
-"answerText":"1GL-Machine Language, 2GL-Assembly Language, 3GL-High-Level Language, 4GL-Problem-Oriented Language, 5GL-Artificial Intelligence Language.",
-"explanation":"This summarizes programming language evolution."
-},
-
-{
-"question":"Which generation language requires an assembler?",
-"type":"mcq",
-"options":{
-"a":"1GL",
-"b":"2GL",
-"c":"3GL",
-"d":"4GL"
-},
-"answer":"b",
-"explanation":"Assembly language requires an assembler for translation."
-},
-
-{
-"question":"Which generation language introduced English-like statements?",
-"type":"mcq",
-"options":{
-"a":"1GL",
-"b":"2GL",
-"c":"3GL",
-"d":"5GL"
-},
-"answer":"c",
-"explanation":"High-level languages use English-like syntax."
-},
-
-{
-"question":"Why were high-level languages developed?",
-"type":"written",
-"answerText":"To simplify programming, improve readability and increase programmer productivity.",
-"explanation":"They reduced the complexity of machine and assembly languages."
-}
-]
+     ]
       },
  
   "chapter3": {
-    "title": "Chapter 3: Types of Programming Languages",
+    "title": "Measure Of Central Tendency ",
     "questions": [
-{
-"question":"Programming languages are broadly classified into ______ and ______ languages.",
-"type":"mcq",
-"options":{
-"a":"Binary and Decimal",
-"b":"Low-Level and High-Level",
-"c":"Input and Output",
-"d":"System and Utility"
-},
-"answer":"b",
-"explanation":"Programming languages are mainly classified as low-level and high-level languages."
-},
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
 
-{
-"question":"Define low-level programming language.",
-"type":"written",
-"answerText":"A low-level language is a programming language that is close to machine language and hardware operations.",
-"explanation":"Low-level languages have little abstraction from computer hardware."
-},
-
-{
-"question":"Which of the following is a low-level language?",
-"type":"mcq",
-"options":{
-"a":"Python",
-"b":"Java",
-"c":"Assembly Language",
-"d":"COBOL"
-},
-"answer":"c",
-"explanation":"Assembly language is a low-level programming language."
-},
-
-{
-"question":"Machine language is also known as ______.",
-"type":"mcq",
-"options":{
-"a":"Source Code",
-"b":"Binary Language",
-"c":"English Language",
-"d":"4GL"
-},
-"answer":"b",
-"explanation":"Machine language consists of binary digits 0 and 1."
-},
-
-{
-"question":"Mention two examples of low-level languages.",
-"type":"written",
-"answerText":"Machine Language and Assembly Language.",
-"explanation":"These are the two major low-level programming languages."
-},
-
-{
-"question":"Low-level languages are machine dependent.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Programs written for one machine may not work on another."
-},
-
-{
-"question":"Which translator converts assembly language into machine language?",
-"type":"mcq",
-"options":{
-"a":"Compiler",
-"b":"Interpreter",
-"c":"Assembler",
-"d":"Loader"
-},
-"answer":"c",
-"explanation":"Assemblers translate assembly language programs."
-},
-
-{
-"question":"State three characteristics of a low-level language.",
-"type":"written",
-"answerText":"Machine dependent, difficult to learn, and executes very fast.",
-"explanation":"These are major characteristics of low-level languages."
-},
-
-{
-"question":"A high-level language is closer to ______ language.",
-"type":"mcq",
-"options":{
-"a":"Machine",
-"b":"Assembly",
-"c":"Human",
-"d":"Binary"
-},
-"answer":"c",
-"explanation":"High-level languages are designed to be easier for humans to understand."
-},
-
-{
-"question":"Which of the following is a high-level language?",
-"type":"mcq",
-"options":{
-"a":"Python",
-"b":"Java",
-"c":"C++",
-"d":"All of the Above"
-},
-"answer":"d",
-"explanation":"Python, Java and C++ are examples of high-level languages."
-},
-
-{
-"question":"Define high-level programming language.",
-"type":"written",
-"answerText":"A high-level language is a programming language that uses English-like statements and is easy for humans to understand.",
-"explanation":"High-level languages simplify software development."
-},
-
-{
-"question":"Which language is easier to debug?",
-"type":"mcq",
-"options":{
-"a":"Machine Language",
-"b":"Assembly Language",
-"c":"High-Level Language",
-"d":"Binary Code"
-},
-"answer":"c",
-"explanation":"High-level languages are easier to read and debug."
-},
-
-{
-"question":"Give three merits of high-level languages over low-level languages.",
-"type":"written",
-"answerText":"Easy to learn, machine independent, and easier debugging.",
-"explanation":"These advantages make high-level languages popular."
-},
-
-{
-"question":"High-level languages are machine independent.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Programs can run on different systems with little modification."
-},
-
-{
-"question":"Which of the following is NOT an advantage of high-level languages?",
-"type":"mcq",
-"options":{
-"a":"Easy maintenance",
-"b":"Easy debugging",
-"c":"Machine dependency",
-"d":"Easy learning"
-},
-"answer":"c",
-"explanation":"Machine dependency is a characteristic of low-level languages."
-},
-
-{
-"question":"State two advantages of high-level programming languages.",
-"type":"written",
-"answerText":"Easy programming and portability.",
-"explanation":"Programs are easier to write and transfer."
-},
-
-{
-"question":"Which language executes instructions faster?",
-"type":"mcq",
-"options":{
-"a":"High-Level Language",
-"b":"Low-Level Language",
-"c":"4GL",
-"d":"5GL"
-},
-"answer":"b",
-"explanation":"Low-level languages execute faster because they are closer to machine code."
-},
-
-{
-"question":"State two disadvantages of high-level languages.",
-"type":"written",
-"answerText":"Slower execution and higher memory usage.",
-"explanation":"Translation increases execution overhead."
-},
-
-{
-"question":"Assembly language instructions consist mainly of ______ and ______.",
-"type":"mcq",
-"options":{
-"a":"Opcode and Operand",
-"b":"Input and Output",
-"c":"Data and File",
-"d":"Source and Object"
-},
-"answer":"a",
-"explanation":"Assembly instructions contain operation codes and operands."
-},
-
-{
-"question":"Explain Opcode.",
-"type":"written",
-"answerText":"Opcode specifies the operation to be performed by the CPU.",
-"explanation":"Examples include ADD, MOV and SUB."
-},
-
-{
-"question":"Explain Operand.",
-"type":"written",
-"answerText":"Operand specifies the data or memory location on which the operation is performed.",
-"explanation":"Operands provide values for instructions."
-},
-
-{
-"question":"In the instruction ADD A, B, ADD is the ______.",
-"type":"mcq",
-"options":{
-"a":"Operand",
-"b":"Opcode",
-"c":"Variable",
-"d":"Register"
-},
-"answer":"b",
-"explanation":"ADD specifies the operation to perform."
-},
-
-{
-"question":"In the instruction MOV A, B, A and B are ______.",
-"type":"mcq",
-"options":{
-"a":"Opcodes",
-"b":"Operands",
-"c":"Functions",
-"d":"Algorithms"
-},
-"answer":"b",
-"explanation":"Operands identify the data involved."
-},
-
-{
-"question":"Fourth Generation Languages are also called ______.",
-"type":"mcq",
-"options":{
-"a":"Problem-Oriented Languages",
-"b":"Machine Languages",
-"c":"Assembly Languages",
-"d":"Binary Languages"
-},
-"answer":"a",
-"explanation":"4GLs focus on solving specific problems quickly."
-},
-
-{
-"question":"State any two features of a 4GL.",
-"type":"written",
-"answerText":"User-friendly syntax and fewer lines of code.",
-"explanation":"4GLs simplify program development."
-},
-
-{
-"question":"Which of the following is a 4GL?",
-"type":"mcq",
-"options":{
-"a":"SQL",
-"b":"FORTRAN",
-"c":"Assembly",
-"d":"Machine Language"
-},
-"answer":"a",
-"explanation":"SQL is a common fourth generation language."
-},
-
-{
-"question":"Low-level languages require less translation than high-level languages.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Machine language requires no translation while assembly requires minimal translation."
-},
-
-{
-"question":"Give four differences between low-level and high-level programming languages.",
-"type":"written",
-"answerText":"Low-level is machine dependent while high-level is machine independent; low-level is difficult to learn while high-level is easy; low-level executes faster while high-level is slower; low-level uses machine-oriented instructions while high-level uses English-like statements.",
-"explanation":"These are standard exam differences."
-},
-
-{
-"question":"Which type of language is most suitable for system programming?",
-"type":"mcq",
-"options":{
-"a":"Low-Level Language",
-"b":"4GL",
-"c":"5GL",
-"d":"Natural Language"
-},
-"answer":"a",
-"explanation":"System software often requires direct hardware control."
-},
-
-{
-"question":"Which type of language is most suitable for application development?",
-"type":"mcq",
-"options":{
-"a":"Machine Language",
-"b":"Assembly Language",
-"c":"High-Level Language",
-"d":"Binary Language"
-},
-"answer":"c",
-"explanation":"High-level languages are widely used for application software development."
-}
-]
+     ]
        },
 
  
   "chapter4": {
-    "title": "Chapter 4:Characteristics/Features of a Good Program and Programmer",
+    "title": "Measure Of Dispersion, Variation And Deviation ",
     "questions": [
-{
-"question":"A good computer program should produce correct results.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Correctness is one of the most important characteristics of a good program."
-},
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
 
-{
-"question":"Define a good computer program.",
-"type":"written",
-"answerText":"A good computer program is one that solves the intended problem correctly, efficiently and reliably.",
-"explanation":"A good program meets user requirements and performs effectively."
-},
-
-{
-"question":"Which of the following is NOT a characteristic of a good program?",
-"type":"mcq",
-"options":{
-"a":"Efficiency",
-"b":"Reliability",
-"c":"Confusion",
-"d":"Maintainability"
-},
-"answer":"c",
-"explanation":"A good program should be clear and understandable, not confusing."
-},
-
-{
-"question":"Program efficiency refers to the effective use of ______.",
-"type":"mcq",
-"options":{
-"a":"Resources",
-"b":"Printers",
-"c":"Monitors",
-"d":"Scanners"
-},
-"answer":"a",
-"explanation":"Efficient programs use memory and processing time effectively."
-},
-
-{
-"question":"State two characteristics of a good computer program.",
-"type":"written",
-"answerText":"Correctness and efficiency.",
-"explanation":"These are fundamental requirements of quality software."
-},
-
-{
-"question":"A reliable program produces consistent results under the same conditions.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Reliability ensures dependable operation."
-},
-
-{
-"question":"What is maintainability in programming?",
-"type":"written",
-"answerText":"The ease with which a program can be modified, updated or corrected.",
-"explanation":"Maintainable programs are easier to improve over time."
-},
-
-{
-"question":"A program should be easy to understand and modify.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Not Sure",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Readability and maintainability are important software qualities."
-},
-
-{
-"question":"Which characteristic ensures a program can be used on different computer systems?",
-"type":"mcq",
-"options":{
-"a":"Portability",
-"b":"Reliability",
-"c":"Accuracy",
-"d":"Complexity"
-},
-"answer":"a",
-"explanation":"Portable programs can run on different platforms."
-},
-
-{
-"question":"Define portability.",
-"type":"written",
-"answerText":"The ability of a program to run on different computer systems with little or no modification.",
-"explanation":"Portability increases software usability."
-},
-
-{
-"question":"A good program should be user-friendly.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Programs should be easy for users to understand and operate."
-},
-
-{
-"question":"Which characteristic helps reduce execution time?",
-"type":"mcq",
-"options":{
-"a":"Efficiency",
-"b":"Complexity",
-"c":"Decoration",
-"d":"Redundancy"
-},
-"answer":"a",
-"explanation":"Efficient programs execute tasks quickly."
-},
-
-{
-"question":"State three characteristics of a good program.",
-"type":"written",
-"answerText":"Efficiency, reliability and portability.",
-"explanation":"These characteristics improve software quality."
-},
-
-{
-"question":"Good documentation is important in software development.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Documentation helps programmers understand and maintain programs."
-},
-
-{
-"question":"Documentation refers to ______.",
-"type":"mcq",
-"options":{
-"a":"Program records and explanations",
-"b":"Computer hardware",
-"c":"Power supply",
-"d":"Network cables"
-},
-"answer":"a",
-"explanation":"Documentation explains how programs work."
-},
-
-{
-"question":"Why is documentation important?",
-"type":"written",
-"answerText":"It helps maintenance, debugging and understanding of the program.",
-"explanation":"Well-documented programs are easier to manage."
-},
-
-{
-"question":"A good program should be free from unnecessary code.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Unnecessary code reduces efficiency and readability."
-},
-
-{
-"question":"Which characteristic ensures that a program gives accurate results?",
-"type":"mcq",
-"options":{
-"a":"Correctness",
-"b":"Portability",
-"c":"Documentation",
-"d":"Flexibility"
-},
-"answer":"a",
-"explanation":"Correct programs produce the expected output."
-},
-
-{
-"question":"Define flexibility in programming.",
-"type":"written",
-"answerText":"The ability of a program to adapt to changing requirements.",
-"explanation":"Flexible programs can accommodate modifications easily."
-},
-
-{
-"question":"A good program should consume excessive memory.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"b",
-"explanation":"Good programs use resources efficiently."
-},
-
-{
-"question":"Who is a programmer?",
-"type":"mcq",
-"options":{
-"a":"A person who repairs monitors",
-"b":"A person who writes computer programs",
-"c":"A computer operator only",
-"d":"A network cable installer"
-},
-"answer":"b",
-"explanation":"Programmers develop software solutions."
-},
-
-{
-"question":"Define a good programmer.",
-"type":"written",
-"answerText":"A good programmer is a person who writes efficient, reliable and maintainable programs while solving problems effectively.",
-"explanation":"Good programmers possess both technical and personal skills."
-},
-
-{
-"question":"Which of the following is a characteristic of a good programmer?",
-"type":"mcq",
-"options":{
-"a":"Logical Thinking",
-"b":"Problem Solving",
-"c":"Patience",
-"d":"All of the Above"
-},
-"answer":"d",
-"explanation":"These are essential qualities of good programmers."
-},
-
-{
-"question":"A good programmer should have strong problem-solving skills.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Programming is fundamentally about solving problems."
-},
-
-{
-"question":"State three characteristics of a good programmer.",
-"type":"written",
-"answerText":"Logical thinking, patience and creativity.",
-"explanation":"These qualities help in software development."
-},
-
-{
-"question":"Which quality helps programmers find and correct errors?",
-"type":"mcq",
-"options":{
-"a":"Debugging Skill",
-"b":"Carelessness",
-"c":"Laziness",
-"d":"Guesswork"
-},
-"answer":"a",
-"explanation":"Debugging skills help identify and fix program errors."
-},
-
-{
-"question":"A good programmer should continuously learn new technologies.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Technology evolves rapidly, requiring continuous learning."
-},
-
-{
-"question":"Why is patience important for programmers?",
-"type":"written",
-"answerText":"Programming often involves testing, debugging and repeated corrections.",
-"explanation":"Patience helps programmers overcome challenges."
-},
-
-{
-"question":"Teamwork is an important characteristic of a good programmer.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Many software projects are developed by teams."
-},
-
-{
-"question":"Highlight four characteristics of a good programmer.",
-"type":"written",
-"answerText":"Logical thinking, problem-solving ability, patience and attention to detail.",
-"explanation":"These are frequently tested characteristics in examinations."
-}
-]
+     ]
       },
 
  
   "chapter5": {
-    "title": "Chapter 5: Language Processors",
+    "title": "Introduction To Probabilty ",
     "questions": [
-{
-"question":"A language processor is also known as a ______.",
-"type":"mcq",
-"options":{
-"a":"Compiler",
-"b":"Translator",
-"c":"Loader",
-"d":"Editor"
-},
-"answer":"b",
-"explanation":"Language processors translate source programs into machine language."
-},
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
 
-{
-"question":"Define language processor.",
-"type":"written",
-"answerText":"A language processor is a system software that translates source code into machine language.",
-"explanation":"Computers understand only machine language, so translation is necessary."
-},
-
-{
-"question":"Which of the following is NOT a language processor?",
-"type":"mcq",
-"options":{
-"a":"Compiler",
-"b":"Interpreter",
-"c":"Assembler",
-"d":"Keyboard"
-},
-"answer":"d",
-"explanation":"A keyboard is an input device, not a translator."
-},
-
-{
-"question":"A source program is a program written in ______ language.",
-"type":"mcq",
-"options":{
-"a":"Machine",
-"b":"Assembly",
-"c":"High-level or Assembly",
-"d":"Binary only"
-},
-"answer":"c",
-"explanation":"Source programs are written before translation."
-},
-
-{
-"question":"Define source program.",
-"type":"written",
-"answerText":"A source program is the original program written by a programmer before translation.",
-"explanation":"It is the input to a language processor."
-},
-
-{
-"question":"An object program is the ______ version of a source program.",
-"type":"mcq",
-"options":{
-"a":"Translated",
-"b":"Edited",
-"c":"Printed",
-"d":"Deleted"
-},
-"answer":"a",
-"explanation":"Object programs are produced after translation."
-},
-
-{
-"question":"Define object program.",
-"type":"written",
-"answerText":"An object program is the machine-language version produced after translating a source program.",
-"explanation":"It can be executed by the computer."
-},
-
-{
-"question":"Which translator converts assembly language into machine language?",
-"type":"mcq",
-"options":{
-"a":"Compiler",
-"b":"Interpreter",
-"c":"Assembler",
-"d":"Loader"
-},
-"answer":"c",
-"explanation":"Assemblers translate assembly language instructions."
-},
-
-{
-"question":"An assembler is used for translating ______ language.",
-"type":"mcq",
-"options":{
-"a":"Machine",
-"b":"Assembly",
-"c":"Natural",
-"d":"Binary"
-},
-"answer":"b",
-"explanation":"Assembly language requires an assembler."
-},
-
-{
-"question":"Define assembler.",
-"type":"written",
-"answerText":"An assembler is a translator that converts assembly language into machine language.",
-"explanation":"It translates mnemonic instructions into binary codes."
-},
-
-{
-"question":"A compiler translates the entire program at once.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Compilers process the whole program before execution."
-},
-
-{
-"question":"Define compiler.",
-"type":"written",
-"answerText":"A compiler is a translator that converts an entire high-level language program into machine language before execution.",
-"explanation":"Compilation occurs before program execution."
-},
-
-{
-"question":"Which translator translates and executes one statement at a time?",
-"type":"mcq",
-"options":{
-"a":"Assembler",
-"b":"Compiler",
-"c":"Interpreter",
-"d":"Loader"
-},
-"answer":"c",
-"explanation":"Interpreters translate line by line."
-},
-
-{
-"question":"Define interpreter.",
-"type":"written",
-"answerText":"An interpreter translates and executes a program one statement at a time.",
-"explanation":"It does not produce a separate object program."
-},
-
-{
-"question":"Which translator is generally faster during execution?",
-"type":"mcq",
-"options":{
-"a":"Interpreter",
-"b":"Compiler",
-"c":"Assembler",
-"d":"Editor"
-},
-"answer":"b",
-"explanation":"Compiled programs execute faster because translation is completed beforehand."
-},
-
-{
-"question":"The output of a compiler is called ______.",
-"type":"mcq",
-"options":{
-"a":"Source Program",
-"b":"Object Program",
-"c":"Flowchart",
-"d":"Algorithm"
-},
-"answer":"b",
-"explanation":"Compilation produces an object program."
-},
-
-{
-"question":"State one need for a compiler.",
-"type":"written",
-"answerText":"To translate high-level language programs into machine language.",
-"explanation":"Computers cannot directly execute high-level language programs."
-},
-
-{
-"question":"State one need for an assembler.",
-"type":"written",
-"answerText":"To convert assembly language instructions into machine language.",
-"explanation":"Computers understand only machine code."
-},
-
-{
-"question":"Which language processor reports all errors after compilation?",
-"type":"mcq",
-"options":{
-"a":"Interpreter",
-"b":"Compiler",
-"c":"Assembler",
-"d":"Loader"
-},
-"answer":"b",
-"explanation":"Compilers usually display all detected errors together."
-},
-
-{
-"question":"An interpreter stops execution immediately an error is encountered.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Interpreters execute line by line and stop at the first error."
-},
-
-{
-"question":"Mention two examples of compiled languages.",
-"type":"written",
-"answerText":"C and C++.",
-"explanation":"These languages commonly use compilers."
-},
-
-{
-"question":"Which translator does not generate an object program?",
-"type":"mcq",
-"options":{
-"a":"Compiler",
-"b":"Assembler",
-"c":"Interpreter",
-"d":"Linker"
-},
-"answer":"c",
-"explanation":"Interpreters translate and execute simultaneously."
-},
-
-{
-"question":"State one advantage of a compiler over an interpreter.",
-"type":"written",
-"answerText":"Compiled programs execute faster.",
-"explanation":"Translation occurs only once."
-},
-
-{
-"question":"State one advantage of an interpreter over a compiler.",
-"type":"written",
-"answerText":"Errors can be detected immediately during execution.",
-"explanation":"Line-by-line translation simplifies debugging."
-},
-
-{
-"question":"Which of the following is a difference between compiler and interpreter?",
-"type":"mcq",
-"options":{
-"a":"Compiler translates whole program",
-"b":"Interpreter translates line by line",
-"c":"Compiler produces object code",
-"d":"All of the above"
-},
-"answer":"d",
-"explanation":"These are major differences between the two translators."
-},
-
-{
-"question":"Highlight two differences between a compiler and an interpreter.",
-"type":"written",
-"answerText":"A compiler translates the entire program while an interpreter translates line by line; a compiler produces object code while an interpreter does not.",
-"explanation":"These are common examination points."
-},
-
-{
-"question":"Language processors are necessary because computers understand only ______ language.",
-"type":"mcq",
-"options":{
-"a":"English",
-"b":"Assembly",
-"c":"Machine",
-"d":"High-level"
-},
-"answer":"c",
-"explanation":"Machine language is the only language directly understood by computers."
-},
-
-{
-"question":"Which translator is associated with assembly language programming?",
-"type":"mcq",
-"options":{
-"a":"Compiler",
-"b":"Assembler",
-"c":"Interpreter",
-"d":"Debugger"
-},
-"answer":"b",
-"explanation":"Assemblers are specifically designed for assembly language."
-},
-
-{
-"question":"Why are language processors important?",
-"type":"written",
-"answerText":"They enable programs written in human-readable languages to be converted into machine language for execution.",
-"explanation":"Without translators, computers could not execute source programs."
-},
-
-{
-"question":"The primary function of a translator is to convert source code into machine language.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Translation is the main role of language processors."
-}
-]
+     ]
       },
 
  
   "chapter6": {
-    "title": "Chapter 6: Problem Solving, Algorithms and Flowcharts",
+    "title": "Probability Functions Of Random Variable ",
     "questions": [
-{
-"question":"Problem solving is the process of finding a solution to a ______.",
-"type":"mcq",
-"options":{
-"a":"Computer",
-"b":"Problem",
-"c":"Program",
-"d":"Printer"
-},
-"answer":"b",
-"explanation":"Problem solving involves identifying and resolving a problem systematically."
-},
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
 
-{
-"question":"Define problem solving.",
-"type":"written",
-"answerText":"Problem solving is the process of identifying a problem and developing a solution to it.",
-"explanation":"It is the foundation of programming."
-},
-
-{
-"question":"An algorithm is a ______ procedure for solving a problem.",
-"type":"mcq",
-"options":{
-"a":"Random",
-"b":"Step-by-step",
-"c":"Complex",
-"d":"Manual"
-},
-"answer":"b",
-"explanation":"Algorithms provide logical steps for solving problems."
-},
-
-{
-"question":"Define algorithm.",
-"type":"written",
-"answerText":"An algorithm is a finite sequence of logical steps used to solve a problem.",
-"explanation":"Algorithms are usually developed before coding."
-},
-
-{
-"question":"Which of the following is a characteristic of a good algorithm?",
-"type":"mcq",
-"options":{
-"a":"Ambiguity",
-"b":"Infinite steps",
-"c":"Definiteness",
-"d":"Confusion"
-},
-"answer":"c",
-"explanation":"A good algorithm must have clear and definite steps."
-},
-
-{
-"question":"State two characteristics of a good algorithm.",
-"type":"written",
-"answerText":"Finiteness and definiteness.",
-"explanation":"Algorithms must have clear and limited steps."
-},
-
-{
-"question":"A flowchart is a graphical representation of an algorithm.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Flowcharts use symbols to represent program logic."
-},
-
-{
-"question":"Define flowchart.",
-"type":"written",
-"answerText":"A flowchart is a diagrammatic representation of an algorithm using standard symbols.",
-"explanation":"Flowcharts help visualize program execution."
-},
-
-{
-"question":"Which flowchart symbol is used for Start and Stop?",
-"type":"mcq",
-"options":{
-"a":"Rectangle",
-"b":"Diamond",
-"c":"Oval",
-"d":"Parallelogram"
-},
-"answer":"c",
-"explanation":"The terminator symbol (oval) represents Start and Stop."
-},
-
-{
-"question":"Draw the flowchart symbol used for Start and Stop.",
-"type":"written",
-"answerText":"Oval (Terminator Symbol).",
-"explanation":"Used to indicate the beginning and end of a process."
-},
-
-{
-"question":"Which symbol is used for data processing?",
-"type":"mcq",
-"options":{
-"a":"Rectangle",
-"b":"Diamond",
-"c":"Oval",
-"d":"Circle"
-},
-"answer":"a",
-"explanation":"The rectangle represents a process."
-},
-
-{
-"question":"Draw the flowchart symbol for a Process Box.",
-"type":"written",
-"answerText":"Rectangle.",
-"explanation":"The process symbol represents calculations or operations."
-},
-
-{
-"question":"Which flowchart symbol is used for decision making?",
-"type":"mcq",
-"options":{
-"a":"Rectangle",
-"b":"Diamond",
-"c":"Oval",
-"d":"Parallelogram"
-},
-"answer":"b",
-"explanation":"Decision symbols test conditions and branch the flow."
-},
-
-{
-"question":"Draw the flowchart symbol for decision making.",
-"type":"written",
-"answerText":"Diamond.",
-"explanation":"Used for Yes/No or True/False decisions."
-},
-
-{
-"question":"Which symbol represents input and output operations?",
-"type":"mcq",
-"options":{
-"a":"Diamond",
-"b":"Rectangle",
-"c":"Parallelogram",
-"d":"Circle"
-},
-"answer":"c",
-"explanation":"The parallelogram is used for data input and output."
-},
-
-{
-"question":"Draw the flowchart symbol used for user-computer communication.",
-"type":"written",
-"answerText":"Parallelogram.",
-"explanation":"Input and output are represented by a parallelogram."
-},
-
-{
-"question":"Which symbol represents a previously defined process?",
-"type":"mcq",
-"options":{
-"a":"Predefined Process Symbol",
-"b":"Decision Symbol",
-"c":"Input Symbol",
-"d":"Terminator"
-},
-"answer":"a",
-"explanation":"A predefined process represents a subroutine."
-},
-
-{
-"question":"Draw the symbol for a predefined process.",
-"type":"written",
-"answerText":"Rectangle with double vertical lines on both sides.",
-"explanation":"Used to indicate a process already defined elsewhere."
-},
-
-{
-"question":"Flowcharts make programs easier to understand and debug.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Partly",
-"d":"Impossible"
-},
-"answer":"a",
-"explanation":"Flowcharts help visualize program logic."
-},
-
-{
-"question":"State two advantages of flowcharts.",
-"type":"written",
-"answerText":"Easy communication and easier debugging.",
-"explanation":"Flowcharts improve understanding of program design."
-},
-
-{
-"question":"The first step in solving a programming problem is ______.",
-"type":"mcq",
-"options":{
-"a":"Coding",
-"b":"Testing",
-"c":"Problem Definition",
-"d":"Execution"
-},
-"answer":"c",
-"explanation":"The problem must first be clearly understood."
-},
-
-{
-"question":"Arrange these steps correctly: Coding, Testing, Algorithm Design, Problem Definition.",
-"type":"written",
-"answerText":"Problem Definition → Algorithm Design → Coding → Testing.",
-"explanation":"This is the standard problem-solving sequence."
-},
-
-{
-"question":"An algorithm should eventually terminate.",
-"type":"mcq",
-"options":{
-"a":"True",
-"b":"False",
-"c":"Sometimes",
-"d":"Not Sure"
-},
-"answer":"a",
-"explanation":"Algorithms must have a finite number of steps."
-},
-
-{
-"question":"What is meant by finiteness in an algorithm?",
-"type":"written",
-"answerText":"The algorithm must end after a finite number of steps.",
-"explanation":"Infinite algorithms are not acceptable."
-},
-
-{
-"question":"In a flowchart, arrows indicate ______.",
-"type":"mcq",
-"options":{
-"a":"Data",
-"b":"Flow of Control",
-"c":"Input Device",
-"d":"Output Device"
-},
-"answer":"b",
-"explanation":"Arrows show the direction of execution."
-},
-
-{
-"question":"A decision symbol usually has how many outputs?",
-"type":"mcq",
-"options":{
-"a":"One",
-"b":"Two",
-"c":"Three",
-"d":"Four"
-},
-"answer":"b",
-"explanation":"Decision symbols commonly have Yes/No branches."
-},
-
-{
-"question":"For the monthly sales analysis problem, commission is normally calculated at ______.",
-"type":"mcq",
-"options":{
-"a":"5%",
-"b":"7.5%",
-"c":"10%",
-"d":"15%"
-},
-"answer":"c",
-"explanation":"The question states commission is calculated at 10%."
-},
-
-{
-"question":"If total sales is less than ₦500,000, commission is calculated at ______.",
-"type":"mcq",
-"options":{
-"a":"5%",
-"b":"7.5%",
-"c":"10%",
-"d":"12%"
-},
-"answer":"b",
-"explanation":"The review question specifies 7½% commission."
-},
-
-{
-"question":"Write the algorithm for calculating commission when monthly sales exceed ₦500,000.",
-"type":"written",
-"answerText":"Start → Input Sales → If Sales ≥ ₦500,000, Commission = Sales × 10% → Output Commission → Stop.",
-"explanation":"This follows the condition given in the chapter."
-},
-
-{
-"question":"Why are algorithms important in programming?",
-"type":"written",
-"answerText":"They provide a clear logical solution before coding begins, reducing errors and improving program design.",
-"explanation":"Algorithms form the foundation of software development."
-}
-]
+     ]
       },
 
  
   "chapter7": {
     "title": "Numbers And Set Theory ",
-    "active": false,
     "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
      ]
       },
 
  
   "chapter8": {
     "title": "Survey And Sampling Theory",
-    "active":false,
     "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
 
      ]
       },
@@ -1866,7 +166,6 @@
  
   "chapter9": {
     "title": "Non Parametric Statistics ",
-    "active": false,
     "questions": [
      {
   "question": "What does ICT stand for?",
@@ -1887,8 +186,60 @@
  
   "chapter10": {
     "title": "Correlation Analysis ",
-    "active": false,
     "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
      ]
-      }
+      },
+
+ 
+  "chapter11": {
+    "title": "Regression Analysis ",
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+      },
+
+ 
+  "chapter12": {
+    "title": "Time series",
+    "questions": [
+     {
+  "question": "What does ICT stand for?",
+  "type": "mcq",
+  "options": {
+    "a": "Information Communication Technology",
+    "b": "International Computer Technology",
+    "c": "Integrated Communication Theory",
+    "d": "Internet Control Technology"
+  },
+  "answer": "a",
+  "explanation": "ICT means Information Communication Technology."
+    }
+
+     ]
+     }
 }

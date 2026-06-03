@@ -118,21 +118,6 @@ button:disabled {
     background: #ffc107;
 }
 
-.chapter-info {
-    text-align: center;
-    padding: 20px;
-}
-
-.chapter-info h2 {
-    color: #2a5298;
-    margin-bottom: 15px;
-}
-
-.chapter-info p {
-    margin: 10px 0;
-    line-height: 1.6;
-}
-
 /* =========================
    QUESTION AREA
 ========================= */
